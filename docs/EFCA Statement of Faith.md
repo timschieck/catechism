@@ -2,9 +2,11 @@
 We believe in one God, Creator of all things, holy, infinitely perfect, and eternally existing in a loving unity of three equally divine Persons: the Father, the Son and the Holy Spirit. Having limitless knowledge and sovereign power, God has graciously purposed from eternity to redeem a people for Himself and to make all things new for His own glory. 
 # 2. The Bible    
 **Leader:** What is the Bible?
+
 **All:** We believe that God has spoken in the Scriptures, both Old and New Testaments, through the words of human authors. As the verbally inspired Word of God, the Bible is without error in the original writings, the complete revelation of His will for salvation, and the ultimate authority by which every realm of human knowledge and endeavor should be judged. 
 
 **Leader:** How do we respond as we read the scriptures?
+
 **All:** By believing in all that it teaches, obeying all that it requires, and trusting in all that it promises. 
 # 3. The Human Condition   
 We believe that God created Adam and Eve in His image, but they sinned when tempted by Satan. In union with Adam, human beings are sinners by nature and by choice, alienated from God, and under His wrath. Only through God’s saving work in Jesus Christ can we be rescued, reconciled and renewed.
@@ -14,14 +16,17 @@ We believe that Jesus Christ is God incarnate, fully God and fully man, one Pers
 We believe that Jesus Christ, as our representative and substitute, shed His blood on the cross as the perfect, all-sufficient sacrifice for our sins. His atoning death and victorious resurrection constitute the only ground for salvation.
    
 # 6. The Holy Spirit
-Q: Who do we believe the Holy Spirit is?
-A: We believe that the Holy Spirit is the third person of the Godhead, equal in glory and divinity with God the Father and God the Son. He has eternally existed and is worthy of all praise. 
+**Leader:** Who do we believe the Holy Spirit is?
 
-Q: What is the ministry of the Holy Spirit?
-A: In all that He does He glorifies the Lord Jesus Christ. He convicts the world of its guilt. He regenerates sinners, and in Him they are baptized into union with Christ and adopted as heirs in the family of God. 
+**All:** We believe that the Holy Spirit is the third person of the Godhead, equal in glory and divinity with God the Father and God the Son. He has eternally existed and is worthy of all praise. 
 
-Q: How does the Holy Spirit continue to work in the life of the Christian?
-He indwells, illuminates, guides, equips and empowers believers for Christ-like living and service.
+**Leader:** What is the ministry of the Holy Spirit?
+
+**All:** In all that He does He glorifies the Lord Jesus Christ. He convicts the world of its guilt. He regenerates sinners, and in Him they are baptized into union with Christ and adopted as heirs in the family of God. 
+
+**Leader:** How does the Holy Spirit continue to work in the life of the Christian?
+
+**All:** He indwells, illuminates, guides, equips and empowers believers for Christ-like living and service.
 
 # 7. The Church
 We believe that the true church comprises all who have been justified by God's grace through faith alone in Christ alone. They are united by the Holy Spirit in the body of Christ, of which He is the Head. The true church is manifest in local churches, whose membership should be composed only of believers. The Lord Jesus mandated two ordinances, baptism and the Lord’s Supper, which visibly and tangibly express the gospel. Though they are not the means of salvation, when celebrated by the church in genuine faith, these ordinances confirm and nourish the believer.
