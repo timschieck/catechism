@@ -1,0 +1,17 @@
+site_name: Our Saviour Catechism
+theme: 
+  name: material
+  palette:
+    primary: blue
+  icon:
+    logo: fontawesome/solid/scroll
+  features:
+    - navigation.instant
+    - navigation.tabs
+repo_url: https://github.com/timschieck/
+site_url: https://service.osefc.org/
+plugins:
+  - search
+  - tags
+extra:
+  generator: false
