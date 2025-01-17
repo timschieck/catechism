@@ -1,6 +1,6 @@
 ---
 title: Forever Reign
-tags: ['boswell', 'desert-song', 'exaltation', 'forever-reign', 'kingship', 'love', 'rescue', 'surrender', 'youth']
+tags: ['desert-song', 'exaltation', 'reign', 'kingship', 'love', 'rescue', 'surrender']
 ---
 
 ## Last schedulued: Aug 11, 2019          
