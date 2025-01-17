@@ -1,17 +1,42 @@
-site_name: Our Saviour Catechism
+site_name: Our Saviour Liturgy Guide
 theme: 
   name: material
   palette:
-    primary: blue
+    # - primary: blue
+
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: blue
+
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
   icon:
     logo: fontawesome/solid/scroll
   features:
     - navigation.instant
-    - navigation.tabs
-repo_url: https://github.com/timschieck/
+    - navigation.tracking
+    - navigation.path
+    - search.highlight
+    - search.share
+    - toc.follow
+repo_url: https://github.com/timschieck/catechism
 site_url: https://service.osefc.org/
 plugins:
   - search
-  - tags
+  - tags:
+      tags_file: README.md
 extra:
   generator: false
