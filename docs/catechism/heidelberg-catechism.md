@@ -1,3 +1,7 @@
+---
+title: Heidelberg Catechism
+---
+
 ## Part 1: Misery
 #### Q1: What is your only comfort in life and in death?
 

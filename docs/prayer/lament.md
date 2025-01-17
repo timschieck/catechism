@@ -1,5 +1,6 @@
-# Why We Added a Prayer of Lament to Our Sunday Gathering
-
+---
+title: Why We Added a Prayer of Lament to Our Sunday Gathering
+---
 *By Neal Woollard for 9Marks*
 
 The world is not as it should be—and we feel it. From natural disasters to school shootings to personal tragedies, we’ve all been affected by the brokenness of a fallen world. We yearn for Jesus’ return to right all wrongs and renew our world, freeing us from the chaos and grief that accompanies deep suffering.

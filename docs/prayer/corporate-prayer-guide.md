@@ -1,3 +1,6 @@
+---
+title: Corporate Prayer Guide
+---
 ## The Occasion of Corporate Prayer
 Most Sundays our worship service includes a corporate prayer before the sermon. This time is first and foremost an opportunity to continue worshipping God. Prayer acknowledges God’s sovereignty over all things, it finds hope in the grace and mercy he offers though Jesus, it celebrates his faithfulness to give good gifts, and it rejoices in his loving attentiveness to his children.
 

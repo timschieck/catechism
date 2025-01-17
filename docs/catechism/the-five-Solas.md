@@ -1,6 +1,7 @@
 ---
 tags:
   - call-and-response
+title: The Five Solas
 ---
 
 

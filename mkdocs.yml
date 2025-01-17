@@ -34,9 +34,12 @@ theme:
     - toc.follow
 repo_url: https://github.com/timschieck/catechism
 site_url: https://service.osefc.org/
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 plugins:
   - search
   - tags:
-      tags_file: README.md
+      tags_file: index.md
 extra:
   generator: false

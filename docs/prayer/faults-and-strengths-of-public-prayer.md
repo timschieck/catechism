@@ -1,3 +1,7 @@
+---
+title: Faults and Strengths of Public Prayer
+---
+
 *Abridged from Ligon Duncan’s “32 Principles for Public Prayer”*
 ## Frequent Faults in Public Prayer
 1. Overuse of certain favorite words and set forms of expression. This can become monotonous if one leads in pastoral prayer week after week. Too much repetition of God’s name (“Lord,” “Father,” “Heavenly Father,” etc.) should also be diligently avoided. This is often simply a matter of habit and lack of forethought.

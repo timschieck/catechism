@@ -1,3 +1,6 @@
+---
+title: Westminster Shorter Catechism
+---
 ## Q1: What is the chief end of man?
 **A:** Man’s chief end is to glorify God, and to enjoy him forever.
 

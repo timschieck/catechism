@@ -1,3 +1,6 @@
+---
+title: Immanuel Nashville Call to Worship
+---
 For all who are weary and in need of rest;  
 to all who mourn and long for comfort;  
 to all who feel lost and worthless and wonder if God even cares;  

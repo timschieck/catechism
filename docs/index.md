@@ -1,1 +1,2 @@
-Resources for service planning at Our Saviour Evangelical Free Church
+## Top Resources
+[Heidelberg Catechism](catechism/heidelberg-catechism.md)
