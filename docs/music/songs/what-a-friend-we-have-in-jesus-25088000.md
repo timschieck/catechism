@@ -1,8 +1,11 @@
 ---
-title: What A Friend We Have In Jesus
+title: "What A Friend We Have In Jesus"
 tags: ['friendship', 'jesus', 'prayer']
 ---
 
-## Last schedulued: None          
+[Planning Center](https://services.planningcenteronline.com/songs/25088000)
 
-None
+## Songwriter: Charles Crozat Converse and Joseph Medlicott Scriven
+### Last scheduled: None          
+
+No Lyrics

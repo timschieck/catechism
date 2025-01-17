@@ -1,8 +1,11 @@
 ---
-title: The Old Rugged Cross
+title: "The Old Rugged Cross"
 tags: ['calvary', 'cross', 'crucifixion', 'easter', 'eternal-life', 'lamb-of-god', 'redemption', 'sacrifice']
 ---
 
-## Last schedulued: May 21, 2023          
+[Planning Center](https://services.planningcenteronline.com/songs/24286078)
 
-None
+## Songwriter: George Bennard and Nathan Drake
+### Last scheduled: May 21, 2023          
+
+No Lyrics

@@ -1,8 +1,11 @@
 ---
-title: Psalm 51: Wisdom In The Secret Heart
+title: "Psalm 51: Wisdom In The Secret Heart"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Jun 24, 2018          
+[Planning Center](https://services.planningcenteronline.com/songs/12727507)
 
-None
+## Songwriter: Shane Barnard
+### Last scheduled: Jun 24, 2018          
+
+No Lyrics

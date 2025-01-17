@@ -1,8 +1,11 @@
 ---
-title: O Praise The Name (Anástasis)
+title: "O Praise The Name (Anástasis)"
 tags: ['easter']
 ---
 
-## Last schedulued: Sept 22, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/14310026)
 
-None
+## Songwriter: Benjamin Hastings, Dean Ussher, and Marty Sampson
+### Last scheduled: Sept 22, 2024          
+
+No Lyrics

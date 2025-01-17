@@ -1,8 +1,11 @@
 ---
-title: My Faith Has Found A Resting Place
+title: "My Faith Has Found A Resting Place"
 tags: ['atonement', 'redemption', 'trust', 'hope', 'jesus', 'blood', 'salvation', 'love', 'faith']
 ---
 
-## Last schedulued: Mar 19, 2023          
+[Planning Center](https://services.planningcenteronline.com/songs/23961401)
 
-None
+## Songwriter: Lidie Hornsby Edmunds
+### Last scheduled: Mar 19, 2023          
+
+No Lyrics

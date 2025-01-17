@@ -1,8 +1,11 @@
 ---
-title: King Of My Heart
+title: "King Of My Heart"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Sept 1, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/17743800)
 
-None
+## Songwriter: Sarah McMillan and John Mark McMillan
+### Last scheduled: Sept 1, 2024          
+
+No Lyrics

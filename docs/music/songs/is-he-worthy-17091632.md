@@ -1,8 +1,11 @@
 ---
-title: Is He Worthy
+title: "Is He Worthy"
 tags: ['worthiness']
 ---
 
-## Last schedulued: Dec 19 & 20, 2020          
+[Planning Center](https://services.planningcenteronline.com/songs/17091632)
 
-None
+## Songwriter: Andrew Peterson and Ben Shive
+### Last scheduled: Dec 19 & 20, 2020          
+
+No Lyrics

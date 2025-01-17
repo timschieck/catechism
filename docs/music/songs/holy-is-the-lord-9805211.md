@@ -1,8 +1,11 @@
 ---
-title: Holy Is The Lord
+title: "Holy Is The Lord"
 tags: ['awesome', 'bow', 'cross', 'father', 'glory-to-god-in-the-highest', 'holiness', 'joy', 'lifting-of-hands', 'missions', 'purpose', 'relationship', 'repent', 'singing', 'struggling-as-a-christian', 'trials', 'unashamed', 'worship']
 ---
 
-## Last schedulued: Oct 11, 2020          
+[Planning Center](https://services.planningcenteronline.com/songs/9805211)
 
-None
+## Songwriter: Louie Giglio and Chris Tomlin
+### Last scheduled: Oct 11, 2020          
+
+No Lyrics

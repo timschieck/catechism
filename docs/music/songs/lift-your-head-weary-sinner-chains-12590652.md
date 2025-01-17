@@ -1,8 +1,11 @@
 ---
-title: Lift Your Head Weary Sinner (Chains)
+title: "Lift Your Head Weary Sinner (Chains)"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Sept 9, 2018          
+[Planning Center](https://services.planningcenteronline.com/songs/12590652)
 
-None
+## Songwriter: David Crowder, Ed Cash, and Seth Philpott
+### Last scheduled: Sept 9, 2018          
+
+No Lyrics

@@ -1,8 +1,11 @@
 ---
-title: Joy To The World
+title: "Joy To The World"
 tags: ['adoration', 'birth', 'christmas', 'gods-love', 'gods-sovereignty', 'joy', 'proclamation']
 ---
 
-## Last schedulued: Dec 8, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/13132288)
 
-None
+## Songwriter: Ed Cash, Matt Gilder, George Frederic Handel, Chris Tomlin, and Isaac Watts
+### Last scheduled: Dec 8, 2024          
+
+No Lyrics

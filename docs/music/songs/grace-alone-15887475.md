@@ -1,8 +1,11 @@
 ---
-title: Grace Alone
+title: "Grace Alone"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Sept 23, 2018          
+[Planning Center](https://services.planningcenteronline.com/songs/15887475)
 
-None
+## Songwriter: Dustin Kensrue
+### Last scheduled: Sept 23, 2018          
+
+No Lyrics

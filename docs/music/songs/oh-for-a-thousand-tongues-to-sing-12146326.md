@@ -1,8 +1,11 @@
 ---
-title: Oh For A Thousand Tongues To Sing
+title: "Oh For A Thousand Tongues To Sing"
 tags: ['adoration', 'jesus', 'love', 'praise']
 ---
 
-## Last schedulued: Nov 10, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/12146326)
 
-None
+## Songwriter: David Crowder, Jack Parker, and Charles Wesley
+### Last scheduled: Nov 10, 2024          
+
+No Lyrics

@@ -1,8 +1,11 @@
 ---
-title: Praise My Soul The King Of Heaven
+title: "Praise My Soul The King Of Heaven"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Mar 17, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/25919245)
 
-None
+## Songwriter: None
+### Last scheduled: Mar 17, 2024          
+
+No Lyrics

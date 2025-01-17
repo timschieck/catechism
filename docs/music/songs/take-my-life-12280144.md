@@ -1,8 +1,11 @@
 ---
-title: Take My Life
+title: "Take My Life"
 tags: ['dedication', 'surrender']
 ---
 
-## Last schedulued: Mar 18, 2018          
+[Planning Center](https://services.planningcenteronline.com/songs/12280144)
 
-None
+## Songwriter: Louie Giglio, Frances Ridley Havergal, Henri Abraham Cesar Malan, and Chris Tomlin
+### Last scheduled: Mar 18, 2018          
+
+No Lyrics

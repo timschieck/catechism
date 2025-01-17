@@ -1,8 +1,11 @@
 ---
-title: Alas And Did My Saviour Bleed
+title: "Alas And Did My Saviour Bleed"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Mar 29, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/26007172)
 
-None
+## Songwriter: Michael Morrow and Isaac Watts
+### Last scheduled: Mar 29, 2024          
+
+No Lyrics

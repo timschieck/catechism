@@ -1,8 +1,11 @@
 ---
-title: The First Noel
+title: "The First Noel"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Dec 22, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/13205647)
 
-None
+## Songwriter: Shane Barnard
+### Last scheduled: Dec 22, 2024          
+
+No Lyrics

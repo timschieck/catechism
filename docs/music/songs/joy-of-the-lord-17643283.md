@@ -1,8 +1,11 @@
 ---
-title: Joy Of The Lord
+title: "Joy Of The Lord"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Jul 7, 2019          
+[Planning Center](https://services.planningcenteronline.com/songs/17643283)
 
-None
+## Songwriter: Ed Cash and Rend Collective
+### Last scheduled: Jul 7, 2019          
+
+No Lyrics

@@ -1,8 +1,11 @@
 ---
-title: Angels We Have Heard On High
+title: "Angels We Have Heard On High"
 tags: ['angels', 'christmas', 'singing']
 ---
 
-## Last schedulued: Dec 22, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/12967683)
 
-None
+## Songwriter: Chris Tomlin
+### Last scheduled: Dec 22, 2024          
+
+No Lyrics

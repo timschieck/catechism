@@ -1,8 +1,11 @@
 ---
-title: Battle Belongs
+title: "Battle Belongs"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Jan 19, 2025          
+[Planning Center](https://services.planningcenteronline.com/songs/24741797)
 
-None
+## Songwriter: Brian Johnson and Phil Wickham
+### Last scheduled: Jan 19, 2025          
+
+No Lyrics

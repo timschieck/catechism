@@ -1,8 +1,11 @@
 ---
-title: Glorify Thy Name
+title: "Glorify Thy Name"
 tags: ['worship', 'adoration']
 ---
 
-## Last schedulued: Jan 21, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/25599962)
 
-None
+## Songwriter: Donna Adkins
+### Last scheduled: Jan 21, 2024          
+
+No Lyrics

@@ -1,8 +1,11 @@
 ---
-title: Build My Life
+title: "Build My Life"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Feb 24, 2019          
+[Planning Center](https://services.planningcenteronline.com/songs/15782551)
 
-None
+## Songwriter: Brett Younker, Karl Martin, Kirby Kable, Matt Redman, and Pat Barrett
+### Last scheduled: Feb 24, 2019          
+
+No Lyrics

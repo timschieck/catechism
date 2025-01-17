@@ -1,8 +1,11 @@
 ---
-title: Son Of God Son Of Man
+title: "Son Of God Son Of Man"
 tags: ['no-themes']
 ---
 
-## Last schedulued: None          
+[Planning Center](https://services.planningcenteronline.com/songs/12967351)
 
-None
+## Songwriter: Anthony Skinner, Don Poythress, Tony Wood, and Travis Ryan
+### Last scheduled: None          
+
+No Lyrics

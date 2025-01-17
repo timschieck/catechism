@@ -1,8 +1,11 @@
 ---
-title: No Longer Slaves
+title: "No Longer Slaves"
 tags: ['no-themes']
 ---
 
-## Last schedulued: None          
+[Planning Center](https://services.planningcenteronline.com/songs/18013882)
 
-None
+## Songwriter: None
+### Last scheduled: None          
+
+No Lyrics

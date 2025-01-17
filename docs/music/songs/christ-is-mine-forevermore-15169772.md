@@ -1,8 +1,11 @@
 ---
-title: Christ Is Mine Forevermore
+title: "Christ Is Mine Forevermore"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Aug 11, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/15169772)
 
-None
+## Songwriter: Jonny Robinson and Rich Thompson
+### Last scheduled: Aug 11, 2024          
+
+No Lyrics

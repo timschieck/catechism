@@ -1,8 +1,11 @@
 ---
-title: Hallelujah What A Savior
+title: "Hallelujah What A Savior"
 tags: ['calvary', 'cleansing', 'comfort', 'crucifixion', 'forgiveness', 'lamb-of-god', 'redemption', 'salvation', 'savior']
 ---
 
-## Last schedulued: Jan 27, 2019          
+[Planning Center](https://services.planningcenteronline.com/songs/13963552)
 
-None
+## Songwriter: Philip Paul Bliss and Glenn Dodson
+### Last scheduled: Jan 27, 2019          
+
+No Lyrics

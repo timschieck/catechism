@@ -1,8 +1,11 @@
 ---
-title: Psalm 139: Far Too Wonderful
+title: "Psalm 139: Far Too Wonderful"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Feb 10, 2019          
+[Planning Center](https://services.planningcenteronline.com/songs/16894308)
 
-None
+## Songwriter: Sean Carter and Shane Barnard
+### Last scheduled: Feb 10, 2019          
+
+No Lyrics

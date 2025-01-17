@@ -1,8 +1,11 @@
 ---
-title: Standing on the Promises (Live)
+title: "Standing on the Promises (Live)"
 tags: ['no-themes']
 ---
 
-## Last schedulued: None          
+[Planning Center](https://services.planningcenteronline.com/songs/24706720)
 
-None
+## Songwriter: None
+### Last scheduled: None          
+
+No Lyrics

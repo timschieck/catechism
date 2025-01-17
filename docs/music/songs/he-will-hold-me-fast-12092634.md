@@ -1,8 +1,11 @@
 ---
-title: He Will Hold Me Fast
+title: "He Will Hold Me Fast"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Jan 19, 2025          
+[Planning Center](https://services.planningcenteronline.com/songs/12092634)
 
-None
+## Songwriter: Ada Ruth Habershon and Matthew Merker
+### Last scheduled: Jan 19, 2025          
+
+No Lyrics

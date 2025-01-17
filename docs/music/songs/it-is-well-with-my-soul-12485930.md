@@ -1,8 +1,11 @@
 ---
-title: It Is Well With My Soul
+title: "It Is Well With My Soul"
 tags: ['no-themes']
 ---
 
-## Last schedulued: May 26, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/12485930)
 
-None
+## Songwriter: Horatio Gates Spafford
+### Last scheduled: May 26, 2024          
+
+No Lyrics

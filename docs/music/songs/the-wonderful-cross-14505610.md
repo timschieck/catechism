@@ -1,8 +1,11 @@
 ---
-title: The Wonderful Cross
+title: "The Wonderful Cross"
 tags: ['communion', 'contentment', 'cross', 'drifting', 'good-friday', 'gratitude', 'salvation', 'the-lords-table', 'were-you-there']
 ---
 
-## Last schedulued: Sept 22, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/14505610)
 
-None
+## Songwriter: Lowell Mason, Jesse Reeves, Chris Tomlin, J. D. Walt, and Isaac Watts
+### Last scheduled: Sept 22, 2024          
+
+No Lyrics

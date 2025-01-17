@@ -1,8 +1,11 @@
 ---
-title: Joyful Joyful We Adore Thee
+title: "Joyful Joyful We Adore Thee"
 tags: ['ceremony', 'wedding', 'joy', 'gods-attributes', 'father', 'praise', 'adoration', 'rejoice', 'worship']
 ---
 
-## Last schedulued: Nov 12, 2023          
+[Planning Center](https://services.planningcenteronline.com/songs/21944372)
 
-None
+## Songwriter: Edward Hodges, Henry Van Dyke, and Ludwig van Beethoven
+### Last scheduled: Nov 12, 2023          
+
+No Lyrics

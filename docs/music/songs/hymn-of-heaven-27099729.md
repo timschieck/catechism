@@ -1,8 +1,11 @@
 ---
-title: Hymn Of Heaven
+title: "Hymn Of Heaven"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Nov 24, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/27099729)
 
-None
+## Songwriter: Bill Johnson, Brian Johnson, Chris Davenport, and Phil Wickham
+### Last scheduled: Nov 24, 2024          
+
+No Lyrics

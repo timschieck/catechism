@@ -1,8 +1,11 @@
 ---
-title: What A Beautiful Name
+title: "What A Beautiful Name"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Jan 19, 2025          
+[Planning Center](https://services.planningcenteronline.com/songs/14550679)
 
-None
+## Songwriter: None
+### Last scheduled: Jan 19, 2025          
+
+No Lyrics

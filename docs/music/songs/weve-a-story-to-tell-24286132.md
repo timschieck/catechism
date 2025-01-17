@@ -1,8 +1,11 @@
 ---
-title: We've A Story To Tell
+title: "We've A Story To Tell"
 tags: ['no-themes']
 ---
 
-## Last schedulued: May 21, 2023          
+[Planning Center](https://services.planningcenteronline.com/songs/24286132)
 
-None
+## Songwriter: None
+### Last scheduled: May 21, 2023          
+
+No Lyrics

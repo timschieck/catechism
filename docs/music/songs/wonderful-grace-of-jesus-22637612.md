@@ -1,8 +1,11 @@
 ---
-title: Wonderful Grace Of Jesus
+title: "Wonderful Grace Of Jesus"
 tags: ['grace', 'praise']
 ---
 
-## Last schedulued: Jul 10, 2022          
+[Planning Center](https://services.planningcenteronline.com/songs/22637612)
 
-None
+## Songwriter: Haldor Lillenas
+### Last scheduled: Jul 10, 2022          
+
+No Lyrics

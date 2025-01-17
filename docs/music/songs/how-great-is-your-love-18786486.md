@@ -1,8 +1,11 @@
 ---
-title: How Great Is Your Love
+title: "How Great Is Your Love"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Mar 15, 2020          
+[Planning Center](https://services.planningcenteronline.com/songs/18786486)
 
-None
+## Songwriter: Phil Wickham, Kristian Stanfill, and Brett Younker
+### Last scheduled: Mar 15, 2020          
+
+No Lyrics

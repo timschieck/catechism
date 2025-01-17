@@ -1,8 +1,11 @@
 ---
-title: Glory To God Forever
+title: "Glory To God Forever"
 tags: ['adoration', 'creator', 'declaration', 'glory', 'king', 'presence']
 ---
 
-## Last schedulued: Aug 22, 2021          
+[Planning Center](https://services.planningcenteronline.com/songs/14004638)
 
-None
+## Songwriter: Vicky Beeching and Steve Fee
+### Last scheduled: Aug 22, 2021          
+
+No Lyrics

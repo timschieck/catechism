@@ -1,8 +1,11 @@
 ---
-title: Once for All
+title: "Once for All"
 tags: ['no-themes']
 ---
 
-## Last schedulued: May 17, 2020          
+[Planning Center](https://services.planningcenteronline.com/songs/19111808)
 
-None
+## Songwriter: Jordan Patterson, Kevin C. Jones, and Shane Barnard
+### Last scheduled: May 17, 2020          
+
+No Lyrics

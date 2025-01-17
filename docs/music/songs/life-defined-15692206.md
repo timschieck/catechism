@@ -1,15 +1,18 @@
 ---
-title: Life Defined
+title: "Life Defined"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Jun 17, 2018          
+[Planning Center](https://services.planningcenteronline.com/songs/15692206)
 
-Chorus 1
+## Songwriter: Shane Barnard
+### Last scheduled: Jun 17, 2018          
 
-All I am
-My life defined
-By I've been crucified with Christ
-The life I live
-I live by faith
+Chorus 1  
+  
+All I am  
+My life defined  
+By I've been crucified with Christ  
+The life I live  
+I live by faith  
 In Jesus Christ who lives in me

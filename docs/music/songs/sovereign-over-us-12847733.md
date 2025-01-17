@@ -1,8 +1,11 @@
 ---
-title: Sovereign Over Us
+title: "Sovereign Over Us"
 tags: ['guidance', 'sovereignty', 'sustainer']
 ---
 
-## Last schedulued: Aug 1, 2021          
+[Planning Center](https://services.planningcenteronline.com/songs/12847733)
 
-None
+## Songwriter: Bryan Brown, Aaron Keyes, and Jack Mooring
+### Last scheduled: Aug 1, 2021          
+
+No Lyrics

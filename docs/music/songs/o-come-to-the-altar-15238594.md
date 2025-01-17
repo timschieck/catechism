@@ -1,8 +1,11 @@
 ---
-title: O Come To The Altar
+title: "O Come To The Altar"
 tags: ['no-themes']
 ---
 
-## Last schedulued: Jul 2, 2023          
+[Planning Center](https://services.planningcenteronline.com/songs/15238594)
 
-None
+## Songwriter: Christopher Brown, Mack Brock, Steven Furtick, and Wade Joye
+### Last scheduled: Jul 2, 2023          
+
+No Lyrics

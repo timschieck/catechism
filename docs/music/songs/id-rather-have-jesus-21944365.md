@@ -1,8 +1,11 @@
 ---
-title: I'd Rather Have Jesus
+title: "I'd Rather Have Jesus"
 tags: ['devotion', 'friendship', 'commitment', 'jesus']
 ---
 
-## Last schedulued: Feb 20, 2022          
+[Planning Center](https://services.planningcenteronline.com/songs/21944365)
 
-None
+## Songwriter: George Beverly Shea and Rhea F. Miller
+### Last scheduled: Feb 20, 2022          
+
+No Lyrics

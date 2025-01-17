@@ -1,8 +1,11 @@
 ---
-title: Nothing But The Blood
+title: "Nothing But The Blood"
 tags: ['blood', 'grace', 'righteousness', 'salvation', 'sanctification']
 ---
 
-## Last schedulued: Aug 4, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/12501463)
 
-None
+## Songwriter: Robert Lowry
+### Last scheduled: Aug 4, 2024          
+
+No Lyrics

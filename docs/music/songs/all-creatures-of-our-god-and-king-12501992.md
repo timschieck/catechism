@@ -1,8 +1,11 @@
 ---
-title: All Creatures Of Our God And King
+title: "All Creatures Of Our God And King"
 tags: ['adoration', 'creator', 'creatures', 'praise', 'singing', 'worship']
 ---
 
-## Last schedulued: Jan 5, 2025          
+[Planning Center](https://services.planningcenteronline.com/songs/12501992)
 
-None
+## Songwriter: David Crowder, William Henry Draper, Brent Milligan, and St. Francis of Assisi
+### Last scheduled: Jan 5, 2025          
+
+No Lyrics

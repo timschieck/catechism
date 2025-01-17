@@ -1,8 +1,11 @@
 ---
-title: Humble King
+title: "Humble King"
 tags: ['humility', 'kingship']
 ---
 
-## Last schedulued: Mar 29, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/26002112)
 
-None
+## Songwriter: Brenton Brown
+### Last scheduled: Mar 29, 2024          
+
+No Lyrics

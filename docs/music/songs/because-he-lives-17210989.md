@@ -1,8 +1,11 @@
 ---
-title: Because He Lives
+title: "Because He Lives"
 tags: ['assurance', 'faith', 'jesus']
 ---
 
-## Last schedulued: Sept 29, 2024          
+[Planning Center](https://services.planningcenteronline.com/songs/17210989)
 
-None
+## Songwriter: Gloria Gaither and William J. Gaither
+### Last scheduled: Sept 29, 2024          
+
+No Lyrics

@@ -1,8 +1,11 @@
 ---
-title: Come Thou Almighty King
+title: "Come Thou Almighty King"
 tags: ['trinity', 'kingship', 'greatness', 'gods-attributes']
 ---
 
-## Last schedulued: Nov 12, 2023          
+[Planning Center](https://services.planningcenteronline.com/songs/21944367)
 
-None
+## Songwriter: Felice de Giardini and Charles Wesley
+### Last scheduled: Nov 12, 2023          
+
+No Lyrics
