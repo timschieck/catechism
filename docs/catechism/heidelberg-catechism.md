@@ -1,3 +1,7 @@
+---
+title: Heidelberg Catechism
+---
+
 ### 1. Lord's Day
 #### Q 1. What is thy only comfort in life and death?
 That I with body and soul, both in life and death, [^1] am not my own, [^2] but belong unto my faithful Saviour Jesus Christ; [^3]  who, with his precious blood, has fully satisfied for all my sins, [^4]  and delivered me from all the power of the devil; [^5] and so preserves me [^6] that without the will of my heavenly Father, not a hair can fall from my head; [^7] yea, that all things must be subservient to my salvation, [^8] and therefore, by his Holy Spirit,  He also assures me of eternal life, [^9] and makes me sincerely willing and ready, henceforth, to live unto him. [^10]
