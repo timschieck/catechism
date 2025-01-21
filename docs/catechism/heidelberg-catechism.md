@@ -2,42 +2,881 @@
 title: Heidelberg Catechism
 ---
 
-## Part 1: Misery
-#### Q1: What is your only comfort in life and in death?
+### 1. Lord's Day
+#### Q 1. What is thy only comfort in life and death?
+That I with body and soul, both in life and death, [^1] am not my own, [^2] but belong unto my faithful Saviour Jesus Christ; [^3]  who, with his precious blood, has fully satisfied for all my sins, [^4]  and delivered me from all the power of the devil; [^5] and so preserves me [^6] that without the will of my heavenly Father, not a hair can fall from my head; [^7] yea, that all things must be subservient to my salvation, [^8] and therefore, by his Holy Spirit,  He also assures me of eternal life, [^9] and makes me sincerely willing and ready, henceforth, to live unto him. [^10]
 
-A. That I am not my own, but belong—body and soul, in life and in death—to my faithful Savior, Jesus Christ. He has fully paid for all my sins with his precious blood, and has set me free from the tyranny of the devil. He also watches over me in such a way that not a hair can fall from my head without the will of my Father in heaven; in fact, all things must work together for my salvation.  
+#### Q. 2. How many things are necessary for thee to know, that thou, enjoying this comfort, mayest live and die happily?
+Three; [^11]the first, how great my sins and miseries are; [^12] the second, how I may be delivered from all my sins and miseries; [^13] the third, how I shall express my gratitude to God for such deliverance. [^14]
 
-Because I belong to him, Christ, by his Holy Spirit, assures me of eternal life and makes me wholeheartedly willing and ready from now on to live for him.
-## Part 2: Deliverance
-#### Q18: Who is the Mediator, who is at the same time true God and a true, sinless Man?  
-**A.** Our Lord Jesus Christ, who is freely given to us for complete redemption and righteousness
+## The First Part - Of The Misery Of Man
+### 2. Lord's Day
+#### Q. 3. Whence knowest thou thy misery?
+Out of the law of God. [^15]
 
-#### Q19: How do we know this?  
-**A.** From the Holy Gospel: which God Himself first revealed in _Paradise;_ afterwards proclaimed by the holy _Patriarchs_ and _Prophets_, and foreshadowed by the sacrifices and other ceremonies of the law; and finally fulfilled by His beloved Son.
+#### Q. 4. What does the law of God require of us?
+Christ teaches us that briefly, Matt. 22:37-40, "Thou shalt love the Lord thy God with all thy heart, with all thy soul, and with all thy mind, and with all thy strength.  This is the first and the great commandment; and the second is like unto it, Thou shalt love thy neighbour as thyself.  On these two commandments hang all the law and the prophets." [^16]
 
-### God the Son
-#### Q31: Why is he called “Christ,” meaning “anointed”?  
-**A.** Because he has been ordained by God the Father and has been anointed with the Holy Spirit to be our chief prophet and teacher who fully reveals to us the secret counsel and will of God concerning our deliverance; our only high priest who has delivered us by the one sacrifice of his body, and who continually pleads our cause with the Father; and our eternal king who governs us by his Word and Spirit, and who guards us and keeps us in the freedom he has won for us.
+#### Q. 5. Canst thou keep all these things perfectly?
+In no wise; [^17]for I am prone by nature to hate God and my neighbour.[^18]
 
-#### Q51: How does the glory of Christ, our Head, benefit us?  
-A. First, by His Holy Spirit He pours out heavenly gifts upon us, His members. Second, by His power He defends and preserves us against all enemies.
+### 3. Lord's Day
+#### Q. 6. Did God then create man so wicked and perverse?
+By no means; but God created man good, [^19]and after his own image, [^20] in true righteousness and holiness, that he might rightly know God his Creator, heartily love him and live with him in eternal happiness to glorify and praise him. [^21]
 
-#### Q52: What comfort is it to you that Christ will come to judge the living and the dead?  
-A. In all my sorrow and persecution I lift up my head and eagerly await as judge from heaven the very same person who before has submitted Himself to the judgment of God for my sake, and has removed all the curse from me. He will cast all His and my enemies into everlasting condemnation, but He will take me and all His chosen ones to Himself into heavenly joy and glory.
+#### Q. 7. Whence then proceeds this depravity of human nature?
+From the fall and disobedience of our first parents, Adam and Eve, in Paradise; [^22]hence our nature is become so corrupt,  that we are all conceived and born in sin.[^23]
 
-#### Q53: What do you believe concerning the Holy Spirit?  
-A. First, He is, together with the Father and the Son, true and eternal God. Second, He is also given to me, to make me by true faith share in Christ and all His benefits, to comfort me, and to remain with me forever.
+#### Q. 8. Are we then so corrupt that we are wholly incapable of doing any good, and inclined to all wickedness?
+Indeed we are; [^24]except we are regenerated by the Spirit of God. [^25]
 
-#### Q75: How does the holy supper remind and assure you that you share in Christ’s one sacrifice on the cross and in all his benefits?  
-**A.** In this way: Christ has commanded me and all believers to eat this broken bread and to drink this cup in remembrance of him. With this command come these promises:
+### 4. Lord's Day
+#### Q. 9. Does not God then do injustice to man, by requiring from him in his law, that which he cannot perform?
+Not at all; [^26]for God made man capable of performing it; but man, by the instigation of the devil, [^27] and his own wilful disobedience, [^28] deprived himself and all his posterity of those divine gifts.
 
-First, as surely as I see with my eyes the bread of the Lord broken for me and the cup shared with me, so surely his body was offered and broken for me and his blood poured out for me on the cross.
+#### Q. 10. Will God suffer such disobedience and rebellion to go unpunished?
+By no means; but is terribly displeased [^29]with our original as well as actual sins; and will punish them in his just judgment temporally and eternally, [^30] as he has declared, "Cursed is every one that continueth not in all things, which are written in the book of the law, to do them." [^31]
 
-Second, as surely as I receive from the hand of the one who serves, and taste with my mouth the bread and cup of the Lord,   given me as sure signs of Christ’s body and blood, so surely he nourishes and refreshes my soul for eternal life with his crucified body and poured-out blood.
+#### Q. 11. Is not God then also merciful?
+God is indeed merciful, [^32]but also just; [^33] therefore his justice requires, that sin which is committed against the most high majesty of God, be also punished with extreme, that is, with everlasting punishment of body and soul.
 
-#### Q81: Who should come to the Lord’s table?  
-**A.** Those who are displeased with themselves because of their sins, but who nevertheless trust that their sins are pardoned and that their remaining weakness is covered by the suffering and death of Christ, and who also desire more and more to strengthen their faith and to lead a better life.
+## The Second Part - Of Man's Deliverance
+### 5. Lord's Day
+#### Q. 12. Since then, by the righteous judgment of God, we deserve temporal and eternal punishment, is there no way by which we may escape that punishment, and be again received into favour?
+God will have his justice satisfied: [^34]and therefore we must make this full satisfaction, either by ourselves, or by another. [^35]
 
-Hypocrites and those who are unrepentant, however, eat and drink judgment on themselves.
+#### Q. 13. Can we ourselves then make this satisfaction?
+By no means; but on the contrary we daily increase our debt. [^36]
 
-## Part 3: Gratitude
+#### Q. 14. Can there be found anywhere, one, who is a mere creature, able to satisfy for us?
+None; for, first, God will not punish any other creature for the sin which man has committed; [^37]and further, no mere creature can sustain the burden of God's eternal wrath against sin, so as to deliver others from it. [^38]
+
+#### Q. 15. What sort of a mediator and deliverer then must we seek for?
+For one who is very man, and perfectly [^39]righteous; [^40] and yet more powerful than all creatures; that is, one who is also very God.[^41]
+
+### 6. Lord's day
+#### Q. 16.  Why must he be very man, and also perfectly righteous?
+Because the justice of God requires that the same human nature which has sinned, should likewise make satisfaction for sin; [^42]and one, who is himself a sinner, cannot satisfy for others. [^43]
+
+#### Q. 17. Why must he in one person be also very God?
+That he might, by the power of his Godhead [^44] sustain in his human nature, [^45] the burden of God's wrath; [^46] and might obtain for, and restore to us, righteousness and life. [^47]
+
+#### Q. 18. Who then is that Mediator, who is in one person both very God, [^48] and a real [^49] righteous man? [^50]
+Our Lord Jesus Christ: [^51] "who of God is made unto us wisdom, and righteousness, and sanctification, and redemption." [^52]
+
+#### Q. 19. Whence knowest thou this?
+From the holy gospel, which God himself first revealed in Paradise; [^53]and afterwards published by the patriarchs [^54] and prophets, [^55] and represented by the sacrifices and other ceremonies of the law; [^56] and lastly, has fulfilled it by his only begotten Son. [^57]
+
+### 7. Lord's Day
+#### Q. 20. Are all men then, as they perished in Adam, saved by Christ?
+No; [^58]only those who are ingrafted into him, and, receive all his benefits, by a true faith. [^59]
+
+#### Q. 21. What is true faith?
+True faith is not only a certain knowledge, whereby I hold for truth all that God has revealed to us in his word, [^60]but also an assured confidence, [^61] which the Holy Ghost [^62] works by the gospel in my heart; [^63] that not only to others, but to me also, remission of sin, everlasting righteousness and salvation, [^64] are freely given by God, merely of grace, only for the sake of Christ's merits. [^65]
+
+#### Q. 22. What is then necessary for a christian to believe?
+All things promised us in the gospel, [^66]which the articles of our catholic undoubted christian faith briefly teach us.
+
+#### Q. 23. What are these articles?
+1.  I believe in God the Father, Almighty, Maker of heaven and earth:
+2.  And in Jesus Christ, his only begotten Son, our Lord:
+3.  Who was conceived by the Holy Ghost, born of the Virgin Mary:
+4.  Suffered under Pontius Pilate; was crucified, dead, and buried: He descended into hell:
+5.  The third day he rose again from the dead:
+6.  He ascended into heaven, and sitteth at the right hand of God the Father Almighty:
+7.  From thence he shall come to judge the quick and the dead:
+8.  I believe in the Holy Ghost:
+9.  I believe a holy catholic church: the communion of saints:
+10. The forgiveness of sins:
+11. The resurrection of the body:
+12. And the life everlasting.
+
+### 8. Lord's Day
+#### Q. 24. How are these articles divided?
+Into three parts; the first is of God the Father, and our creation; the second of God the Son, and our redemption; the third of God the Holy Ghost, and our sanctification.
+
+#### Q. 25. Since there is but one only divine essence, [^67]why speakest thou of Father, Son, and Holy Ghost?
+Because God has so revealed himself in his word, [^68] that these three distinct persons are the one only true and eternal God.
+
+### Of God The Father
+### 9. Lord's Day
+#### Q. 26. What believest thou when thou sayest, "I believe in God the Father, Almighty, Maker of heaven and earth"?
+That the eternal Father of our Lord Jesus Christ (who of nothing made heaven and earth, with all that is in them; [^69]who likewise upholds and governs the same by his eternal counsel and providence) [^70] is for the sake of Christ his Son, my God and my Father; [^71] on whom I rely so entirely, that I have no doubt, but he will provide me with all things necessary for soul and body [^72] and further, that he will make whatever evils he sends upon me, in this valley of tears turn out to my advantage; [^73] for he is able to do it, being Almighty God, [^74] and willing, being a faithful Father. [^75]
+
+### 10. Lord's Day
+#### Q. 27. What dost thou mean by the providence of God?
+The almighty and everywhere present power of God; [^76]whereby, as it were by his hand, he upholds and governs [^77] heaven, earth, and all creatures; so that herbs and grass, rain and drought, [^78] fruitful and barren years, meat and drink, health and sickness, [^79] riches and poverty, [^80] yea, and all things come, not by chance, but be his fatherly hand. [^81]
+
+#### Q. 28. What advantage is it to us to know that God has created, and by his providence does still uphold all things?
+That we may be patient in adversity; [^82]thankful in  prosperity; [^83] and that in all things, which may hereafter befall us, we place our firm trust in our faithful God and Father, [^84] that nothing shall separate us from his love; [^85] since all creatures are so in his hand, that without his will they cannot so much as move. [^86]
+
+### Of God The Son
+### 11. Lord's Day
+#### Q. 29. Why is the Son of God called "Jesus", that is a Saviour?
+Because he saveth us, and delivereth us from our sins; [^87]and likewise, because we ought not to seek, neither can find salvation in any other. [^88] 
+
+#### Q. 30. Do such t hen believe in Jesus the only Saviour, who seek their salvation and welfare of saints, of themselves, or anywhere else?
+They do not; for though they boast of him in words, yet in deeds they deny Jesus the only deliverer and Saviour; [^89]for one of these two things must be true, that either Jesus is not a complete Saviour; or that they, who by a true faith receive this Saviour, must find all things in him necessary to their salvation. [^90]
+
+### 12. Lord's Day
+#### Q. 31. Why is he called "Christ", that is anointed?
+Because he is ordained of God the Father, and anointed with the Holy Ghost, [^91]to be our chief Prophet and Teacher, [^92] who has fully revealed to us the secret counsel and will of God concerning our redemption; [^93] and to be our only High Priest, [^94] who by the one sacrifice of his body, has redeemed us, [^95] and makes continual intercession with the Father for us; [^96] and also to be our eternal King, who governs us by his word and Spirit, and who defends and preserves us in that salvation, he has purchased for us. [^97]
+
+#### Q. 32. But why art thou called a Christian? [^98]
+Because I am a member of Christ by faith, [^99] and thus am partaker of his anointing; [^100] that so I may confess his name, [^101] and present myself a living sacrifice of thankfulness to him: [^102] and also that with a free and good conscience I may fight against sin and Satan in this life [^103] and afterwards I reign with him eternally, over all creatures. [^104]
+
+### 13. Lord's Day
+#### Q. 33. Why is Christ called the "only begotten Son" of God, since we are also the children of God?
+Because Christ alone is the eternal and natural Son of God; [^105]but we are children adopted of God, by grace, for his sake. [^106]
+
+#### Q. 34. Wherefore callest thou him "our Lord"?
+Because he hath redeemed us, both soul and body, from all our sins, not with silver or gold, but with his precious blood, and has delivered us from all the power of the devil; and thus has made us his own property. [^107] 
+
+### 14. Lord's Day
+#### Q. 35. What is the meaning of these words "He was conceived by the Holy Ghost, born of the virgin Mary"?
+That God's eternal Son, who is, and continues [^108]true and eternal God, [^109] took upon him the very nature of man, of the flesh and blood of the virgin Mary, [^110]by the operation of the Holy Ghost; [^111] that he might also be the true seed of David, [^112] like unto his brethren in all things, [^113] sin excepted. [^114]
+
+#### Q. 36. What profit dost thou receive by Christ's holy conception and nativity? 
+That he is our Mediator; [^115]and with His innocence and perfect holiness, covers in the sight of God, my sins, wherein I was conceived and brought forth. [^116]
+
+### 15. Lord's Day
+#### Q. 37. What dost thou understand by the words, "He suffered"?
+That he, all the time that he lived on earth, but especially at the end of his life, sustained in body and soul, the wrath of God against the sins of all mankind: [^117]that so by his passion, as the only propitiatory sacrifice, [^118] he might redeem our body and soul from everlasting damnation, [^119] and obtain for us the favour of God, righteousness and eternal life. [^120]
+
+#### Q. 38. Why did he suffer "under Pontius Pilate, as judge"?
+That he, being innocent, and yet condemned by a temporal judge, [^121]might thereby free us from the severe judgement of God to which we were exposed. [^122]
+
+#### Q. 39. Is there anything more in his being "crucified", than if he had died some other death?
+Yes there is; for thereby I am assured, that he took on him the curse which lay upon me; [^123]for the death of the cross was accursed of God. [^124]
+
+### 16. Lord's Day
+#### Q. 40. Why was it necessary for Christ to humble himself even "unto death"?
+Because with respect to the justice and truth of God, [^125]satisfaction for our sins could be made no otherwise, than by the death of the Son of God. [^126]
+
+#### Q. 41. Why was he also "buried"?
+Thereby to prove that he was really dead. [^127]
+
+#### Q. 42. Since then Christ died for us, why must we also die? 
+Our death is not a satisfaction for our sins, [^128]but only an abolishing of sin, and a passage into eternal life. [^129]
+
+#### Q. 43. What further benefit do we receive from the sacrifice and death of Christ on the cross?
+That by virtue thereof, our old man is crucified, dead and buried with him; [^130]that so the corrupt inclinations of the flesh may no more reign in us; [^131] but that we may offer ourselves unto him a sacrifice of thanksgiving. [^132]
+
+#### Q. 44. Why is there added, "he descended into hell"?
+That in my greatest temptations, I may be assured, and wholly comfort myself in this, that my Lord Jesus Christ, by his inexpressible anguish, pains, terrors, and hellish agonies, in which he was plunged during all his sufferings, [^133]but especially on the cross, has delivered me from the anguish and torments of hell. [^134]
+
+### 17. Lord's Day
+#### Q. 45. What does the "resurrection" of Christ profit us?
+First, by his resurrection he has overcome death, that he might make us partakers of that righteousness which he had purchased for us by his death; [^135]secondly, we are also by his power raised up to a new life; [^136] and lastly, the resurrection of Christ is a sure pledge of our blessed resurrection. [^137]
+
+### 18. Lord's Day
+#### Q. 46. How dost thou understand these words, "he ascended into heaven"?
+That Christ, in sight of his disciples, was taken up from earth into heaven; [^138]and that he continues there for our interest, [^139] until he comes again to judge the quick and the dead. [^140]
+
+#### Q. 47. Is not Christ then with us even to the end of the world, as he has promised? [^141]
+Christ is very man and very God; with respect to his human nature, he is no more on earth; [^142] but with respect to his Godhead, majesty, grace and spirit, he is at no time absent from us. [^143]
+
+#### Q. 48. But if his human nature is not present, wherever his Godhead is, are not then these two natures in Christ separated from one another?
+Not as all, for since the Godhead is illimitable and omnipresent, [^144]it must necessarily follow that the same is beyond the limits of the human nature he assumed, [^145] and yet is nevertheless in this human nature, and remains personally united to it. 
+
+#### Q. 49. Of what advantage to us is Christ's ascension into heaven?
+First, that he is our advocate in the presence of his Father in heaven; [^146]secondly, that we have our flesh in heaven as a sure pledge that he, as the head, will also take up to himself, us, his members; [^147] thirdly, that he sends us his Spirit as an earnest, [^148] by whose power we "seek the things which are above, where Christ sitteth on the right hand of God, and not things on earth." [^149]
+
+### 19. Lord's Day
+#### Q. 50. Why is it added, "and sitteth at the right hand of God"?
+Because Christ is ascended into heaven for this end, that he might appear as head of his church, [^150]by whom the Father governs all things. [^151]
+
+#### Q. 51. What profit is this glory of Christ, our head, unto us?
+First, that by his Holy Spirit he pours out heavenly graces upon us his members; [^152]and then that by his power he defends and preserves us against all enemies. [^153]
+
+#### Q. 52. What comfort is it to thee that "Christ shall come again to judge the quick and the dead"?
+That in all my sorrows and persecutions, with uplifted head I look for the very same person, who before offered himself for my sake, to the tribunal of God, and has removed all curse from me, to come as judge from heaven: [^154]who shall cast all his and my enemies into everlasting condemnation, [^155] but shall translate me with all his chosen ones to himself, into heavenly joys and glory. [^156]
+
+### Of God The Holy Ghost
+### 20. Lord's Day
+#### Q. 53. What dost thou believe concerning the Holy Ghost?
+First, that he is true and coeternal God with the Father and the Son; [^157]secondly, that he is also given me, [^158] to make me by a true faith, partaker of Christ and all his benefits, [^159] that he may comfort me [^160] and abide with me for ever. [^161]
+
+### 21. Lord's Day
+#### Q. 54. What believest thou concerning the "holy catholic church" of Christ? 
+That the Son of God [^162]from the beginning to the end of the world, [^163] gathers, defends, and preserves [^164] to himself by his Spirit and word, [^165] out of the whole human race, [^166] a church chosen to everlasting life, [^167] agreeing in true faith; [^168] and that I am and forever shall remain, [^169] a living member thereof. [^170]
+
+#### Q. 55. What do you understand by "the communion of saints"?
+First, that all and every one, who believes, being members of Christ, are in common, partakers of him, and of all his riches and gifts; [^171]secondly, that every one must know it to be his duty, readily and cheerfully to employ his gifts, for the advantage and salvation of other members. [^172]
+
+#### Q. 56. What believest thou concerning "the forgiveness of sins"?
+That God, for the sake of Christ's satisfaction, will no more remember my sins, neither my corrupt nature, against which I have to struggle all my
+life long; [^173]but will graciously impute to me the righteousness of Christ, [^174] that I may never be condemned before the tribunal of God. [^175]
+
+### 22. Lord's Day
+#### Q. 57. What comfort does the "resurrection of the body" afford thee?
+That not only my soul after this life shall be immediately taken up to Christ its head; [^176]but also, that this my body, being raised by the power of Christ, shall be reunited with my soul, and made like unto the glorious body of Christ. [^177]
+
+#### Q. 58. What comfort takest thou from the article of "life everlasting"?
+That since I now feel in my heart the beginning of eternal joy, [^178]after this life, I shall inherit perfect salvation, which "eye has not seen, nor ear heard, neither has it entered into the heart of man" to conceive, and that to praise God therein for ever. [^179]
+
+### 23. Lord's Day
+#### Q. 59. But what does it profit thee now that thou believest all this? 
+That I am righteous in Christ, before God, and an heir of eternal life. [^180]
+
+#### Q. 60. How are thou righteous before God?
+Only by a true faith in Jesus Christ; [^181]so that, though my conscience accuse me, that I have grossly transgressed all the commandments of God, and kept none of them, [^182] and am still inclined to all evil; [^183] notwithstanding, God, without any merit of mine, [^184] but only of mere grace, [^185] grants and imputes to me, [^186] the perfect satisfaction, [^187] righteousness and holiness of Christ; [^188] even so, as if I never had had, nor committed any sin: yea, as if I had fully accomplished all that obedience which Christ has accomplished for me; [^189] inasmuch as I embrace such benefit with a believing heart. [^190]
+
+#### Q. 61. Why sayest thou, that thou art righteous by faith only?
+Not that I am acceptable to God, on account of the worthiness of my faith; but because only the satisfaction, righteousness, and holiness of Christ, is my righteousness before God; [^191]and that I cannot receive and apply the same to myself any other way than by faith only. [^192]
+
+### 24. Lord's Day
+#### Q. 62. But why cannot our good works be the whole, or part of our righteousness before God?
+Because, that the righteousness, which can be approved of before the tribunal of God, must be absolutely perfect, [^193]and in all respects conformable to the divine law; and also, that our best works in this life are all imperfect and defiled with sin. [^194]
+
+#### Q. 63. What! do not our good works merit, which yet God will reward in this and in a future life?
+This reward is not of merit, but of grace. [^195]
+
+#### Q. 64. But does not this doctrine make men careless and profane?
+By no means: for it is impossible that those, who are implanted into Christ by a true faith, should not bring forth fruits of thankfulness. [^196]
+
+### Of The Sacraments
+### 25. Lord's Day
+#### Q. 65. Since then we are made partakers of Christ and all his benefits by faith only, whence does this faith proceed?
+From the Holy Ghost, [^197]who works faith in our hearts by the preaching of the gospel, and confirms it by the use of the sacraments. [^198]
+
+#### Q. 66. What are the sacraments?
+The sacraments are holy visible signs and seals, appointed of God for this end, that by the use thereof, he may the more fully declare and seal to us the promise of the gospel, viz., that he grants us freely the remission of sin, and life eternal, for the sake of that one sacrifice of Christ, accomplished on the cross. [^199]
+
+#### Q. 67. Are both word and sacraments, then, ordained and appointed for this end,that they may direct our faith to the sacrifice of Jesus Christ on the cross, as the only ground of our salvation? [^200]
+Yes, indeed:  for the Holy Ghost teaches us in the gospel, and assures us by the sacraments, that the whole of our salvation depends upon that one sacrifice of Christ which he offered for us on the cross.
+
+#### Q. 68. How many sacraments has Christ instituted in the new covenant, or testament?
+Two: namely, holy baptism, and the holy supper.
+
+### Of Holy Baptism
+### 26. Lord's Day
+#### Q. 69. How art thou admonished and assured by holy baptism, that the one sacrifice of Christ upon the cross is of real advantage to thee?
+Thus: That Christ appointed this external washing with water, [^201]adding thereto this promise, [^202] that I am as certainly washed by his blood and Spirit from all the pollution of my soul, that is, from all my sins, [^203] as I am washed externally with water, by which the filthiness of the body is commonly washed away.
+
+#### Q. 70. What is it to be washed with the blood and Spirit of Christ?
+It is to receive of God the remission of sins, freely, for the sake of Christ's blood, which he shed for us by his sacrifice upon the cross; [^204]and also to be renewed by the Holy Ghost, and sanctified to be members of Christ, that so we may more and more die unto sin, and lead holy and unblamable lives. [^205]
+
+#### Q. 71. Where has Christ promised us, that he will as certainly wash us by his blood and Spirit, as we are washed with the water of baptism?
+In the institution of baptism, which is thus expressed:  "Go ye, therefore, and teach all nations, baptizing them in the name of the Father, and
+of the Son, and of the Holy Ghost", Matt.28:19. And "he that believeth, and is baptized, shall be saved; but he that believeth
+not, shall be damned.", Mark 16:16. This promise is also repeated, where the scripture calls baptism "the washing of regenerations" and the washing away of sins. Tit.3:5, Acts 22:16. [^206]
+
+### 27. Lord's Day
+#### Q. 72. Is then the external baptism with water the washing away of sin itself?
+Not at all: [^207]for the blood of Jesus Christ only, and the Holy Ghost cleanse us from all sin. [^208]
+
+#### Q. 73. Why then does the Holy Ghost call baptism "the washing of regeneration," and "the washing away of sins"?
+God speaks thus not without great cause, to-wit, not only thereby to teach us, that as the filth of the body is purged away by water, so our sins are removed by the blood and Spirit of Jesus Christ; [^209]but especially that by this divine pledge and sign he may assure us, that we are spiritually cleansed from our sins as really, as we are externally washed with water. [^210]
+
+#### Q. 74. Are infants also to be baptized?
+Yes: for since they, as well as the adult, are included in the covenant and church of God; [^211]and since redemption from sin [^212] by the blood of Christ, and the Holy Ghost, the author of faith, is promised to them no less than to the adult; [^213] they must therefore by baptism, as a sign of the covenant, be also admitted into the christian church; and be distinguished from the children of unbelievers [^214] as was done in the old covenant or testament by circumcision, [^215] instead of which baptism is instituted [^216] in the new covenant.
+
+### Of The Holy Supper Of Our Lord Jesus Christ
+### 28 Lord's Day
+#### Q. 75. How art thou admonished and assured in the Lord's Supper, that thou art a partaker of that one sacrifice of Christ, accomplished on the cross, and of all his benefits?
+Thus: That Christ has commanded me and all believers, to eat of this broken bread, and to drink of this cup, in remembrance of him, adding these promises: [^217]first, that his body was offered and broken on the cross for me, and his blood shed for me, as certainly as I see with my eyes, the bread of the Lord broken for me, and the cup communicated to me; and further, that he feeds and nourishes my soul to everlasting life, with his crucified body and shed blood, as assuredly as I receive from the hands of the minister, and taste with my mouth the bread and cup of the Lord, as certain signs of the body and blood of Christ.
+
+#### Q. 76. What is it then to eat the crucified body, and drink the shed blood of Christ?
+It is not only to embrace with believing heart all the sufferings and death of Christ and thereby to obtain the pardon of sin, and life eternal; [^218]but also, besides that, to become more and more united to his sacred body, [^219] by the Holy Ghost, who dwells both in Christ and in us; so that we, though Christ is in heaven [^220] and we on earth, are notwithstanding "flesh of his flesh and bone of his bone" [^221] and that we live, and are governed forever by one spirit, [^222] as members of the same body are by one soul.
+
+#### Q. 77. Where has Christ promised that he will as certainly feed and nourish believers with his body and bleed, as they eat of this broken bread, and drink of this cup?
+In the institution of the supper, which is thus expressed: [^223]"The Lord Jesus, the same night in which he was betrayed, took bread, and when he had given thanks, he brake it, and: said: eat, this is my body, which is broken for you; this do in remembrance of me. After the same manner also he took the cup, when he had supped, saying:  this cup is the new testament in my blood; this do ye, as often as ye drink it, in remembrance of me. For, as often as ye eat this bread, and drink this cup, ye do show the Lord's death till he come."  1 Cor.11:23-26. This promise is repeated by the holy apostle Paul, where he says "The cup of blessing which we bless, is it not the communion of the blood of Christ?  The bread which we break, is it not the communion of the body of Christ?  For we being many are one bread, and one body:  for we are all partakers of that one bread."  1 Cor.10:16,17.
+
+### 29 Lord's Day
+#### Q. 78. Do then the bread and wine become the very body and blood of Christ?
+Not at all: [^224]but as the water in baptism is not changed into the blood of Christ, neither is the washing away of sin itself, being only the sign and confirmation thereof appointed of God; [^225] so the bread in the Lord's supper is not changed into the very body of Christ; [^226] though agreeably to the nature and properties of sacraments, [^227] it is called the body of Christ Jesus.
+
+#### Q. 79. Why then doth Christ call the bread "his body", and the cup "his blood", or "the new covenant in his blood"; and Paul the "communion of body and blood of Christ"?
+Christ speaks thus, not without great reason, namely, not only thereby to teach us, that as bread and wine support this temporal life, so his crucified body and shed blood are the true meat and drink, whereby our souls are fed to eternal life; [^228]but more especially by these visible signs and pledges to assure us, that we are as really partakers of his true body and blood by the operation of the Holy Ghost as we receive by the mouths of our bodies these holy signs in remembrance of him; [^229] and that all his sufferings and obedience are as certainly ours, as if we had in our own persons suffered and made satisfaction for our sins to God.
+
+### 30. Lord's Day
+#### Q. 80. What difference is there between the Lord's supper and the popish mass?
+The Lord's supper testifies to us, that we have a full pardon of all sin by the only sacrifice of Jesus Christ, which he himself has once accomplished
+on the cross; [^230]and, that we by the Holy Ghost are ingrafted into Christ, [^231] who, according to his human nature is now not on earth, but in heaven, at the right hand of God his Father, [^232] and will there be worshipped by us. [^233] But the mass teaches, that the living and dead have not the pardon of sins through the sufferings of Christ, unless Christ is also daily offered for them by the priests; and further, that Christ is bodily under the form of bread and wine, and therefore is to be worshipped in them; so that the mass, at bottom, is nothing else than a denial of the one sacrifice and sufferings of Jesus Christ, and an accursed idolatry. [^234]
+
+#### Q. 81. For whom is the Lord's supper instituted?
+For those who are truly sorrowful for their sins, and yet trust that these are forgiven them for the sake of Christ;  and that their remaining infirmities are covered by his passion and death;  and who also earnestly desire to have their faith more and more strengthened, and their lives more holy;  but hypocrites, and such as turn not to God with sincere hearts, eat and drink judgment to themselves. [^235]
+
+#### Q. 82. Are they also to be admitted to this supper, who, by confession and life, declare themselves unbelieving and ungodly?
+No; for by this, the covenant of God would be profaned, and his wrath kindled against the whole congregation; [^236]therefore it is the duty of the christian church, according to the appointment of Christ and his apostles, to exclude such persons, by the keys of the kingdom of heaven, till they show amendment of life.
+
+### 31. Lord's Day
+#### Q. 83. What are the keys of the kingdom of heaven?
+The preaching of the holy gospel, and christian discipline, or excommunication out of the christian church;  by these two, the kingdom of heaven is opened to believers, and shut against unbelievers.
+
+#### Q. 84. How is the kingdom of heaven opened and shut by the preaching of the holy gospel?
+Thus: when according to the command of Christ, it is declared and publicly testified to all and every believer, that, whenever they receive the promise of the gospel by a true faith, all their sins are really forgiven them of God, for the sake of Christ's merits;  and on the contrary, when it is declared and testified to all unbelievers, and such as do not sincerely repent, that they stand exposed to the wrath of God, and eternal condemnation, so long as they are unconverted: [^237]  according to which testimony of the gospel, God will judge them, both in this, and in the life to come.
+
+#### Q. 85. How is the kingdom of heaven shut and opened by christian discipline?
+Thus: when according to the command of Christ, those, who under the name of christians, maintain doctrines, or practices inconsistent therewith, and will not, after having been often brotherly admonished, renounce their errors and wicked course of life, are complained of to the church, or to those, who are thereunto appointed by the church;  and if they despise their admonition, are by them forbidden the use of the sacraments;  whereby they are excluded from the christian church, and by God himself from the kingdom of Christ;  and when they promise and show real amendment, are again received as members of Christ and his church. [^238]
+
+## The Third Part - Of Thankfulness
+### 32. Lord's Day
+#### Q. 86.Since then we are delivered from our misery, merely of grace, through Christ, without any merit of ours, why must we still do good works?
+Because Christ, having redeemed and delivered us by his blood, also renews us by his Holy Spirit, after his own image;  that so we may testify,  by the whole of our conduct, our gratitude to God for his blessings, [^239]and that he may be praised by us; [^240] also, that every one may be assured in himself of his faith, [^241] by the fruits thereof;  and that, by our godly conversation others may be gained to Christ. [^242]
+
+#### Q. 87. Cannot they then be saved, who, continuing in their wicked and ungrateful lives, are not converted to God?
+By no means; for the holy scripture declares that no unchaste person, idolater, adulterer, thief, covetous man, drunkard, slanderer, robber, or any such like, shall inherit the kingdom of God. [^243]
+
+### 33. Lord's Day
+#### Q. 88. Of how many parts does the true conversion of man consist?
+Of two parts;  of the mortification of the old, and the quickening of the new man. [^244]
+
+#### Q. 89. What is the mortification of the old man?
+It is a sincere sorrow of heart, that we have provoked God by our sins; and more and more to hate and flee from them. [^245]
+
+#### Q. 90. What is the quickening of the new man? 
+It is a sincere joy of heart in God, through Christ, [^246]and with love and delight to live according to the will of God in all good works. [^247]
+
+#### Q. 91. But what are good works?
+Only those which proceed from a true faith, [^248]are performed according to the law of God, [^249] and to his glory; [^250] and not such as are founded on our imaginations, or the institutions of men. [^251]
+
+### 34. Lord's Day
+#### Q. 92. What is the law of God?
+God spake all these words, Exodus 20:1-17 and Denteronomy 5:6-21, saying:  I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
+
+1st commandment:
+Thou shalt have no other gods before me.
+
+2nd commandment:
+Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.  Thou shalt not bow down thyself to them, nor serve them;  for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me, and shewing mercy unto thousands of them that love me, and keep my commandments.
+
+3rd commandment:
+Thou shalt not take the name of the LORD thy God in vain;  for the LORD will not hold him guiltless that taketh his name in vain.
+
+4th commandment:
+Remember the sabbath day, to keep it holy.  Six days shalt thou labour, and do all thy work;  but the seventh day is the sabbath of the LORD thy God:
+in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates.  For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day:  wherefore the LORD blessed the sabbath day, and hallowed it.
+
+5th commandment: Honour thy father and thy mother:  that thy days may be long upon the land which the LORD thy God giveth thee.
+
+6th commandment:
+Thou shalt not kill.
+
+7th commandment:
+Thou shalt not commit adultery.
+
+8th commandment:
+Thou shalt not steal.
+
+9th commandment:
+Thou shalt not bear false witness against thy neighbour.
+
+10th commandment:
+Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.
+
+#### Q. 93. How are these commandments divided?
+Into two tables; [^252]the first of which teaches us how we must behave towards God;  the second, what duties we owe to our neighbour. [^253]
+
+#### Q. 94. What does God enjoin in the first commandment?
+That I, as sincerely as I desire the salvation of my own soul, avoid and flee from all idolatry, [^254]sorcery, soothsaying, superstition, [^255] invocation of saints, or any other creatures; [^256] and learn rightly to know the only true God; [^257] trust in him alone, [^258] with humility [^259] and patience submit to him; [^260] expect all good things from him only; [^261] love, [^262] fear, [^263] and glorify him with my whole heart; [^264] so that I renounce and forsake all creatures, rather than commit even the least thing contrary to his will. [^265]
+
+#### Q. 95. What is idolatry?
+Idolatry is, instead of, or besides that one true God, who has manifested himself in his word, to contrive, or have any other object, in which men place their trust. [^266]
+
+### 35. Lord's Day
+#### Q. 96. What does God require in the second commandment?
+That we in no wise represent God by images, [^267]nor worship him in any other way than he has commanded in his word. [^268]
+
+#### Q. 97. Are images then not at all to be made?
+God neither can, nor may be represented by any means: [^269]but as to creatures;  though they may be represented, yet God forbids to make, or have any resemblance of them, either in order to worship them or to serve God by them. [^270]
+
+#### Q. 98. But may not images be tolerated in the churches, as books to the laity?
+No: for we must not pretend to be wiser than God, who will have his people taught, not by dumb images, [^271]but by the lively preaching of his word. [^272]
+
+### 36. Lord's Day
+#### Q. 99. What is required in the third commandment?
+That we, not only by cursing [^273]or perjury, [^274] but also by rash swearing, [^275] must not profane or abuse the name of God;  nor by silence or connivance be partakers of these horrible sins in others; [^276] and, briefly, that we use the holy name of God no otherwise than with fear and reverence; [^277] so that he may be rightly confessed [^278] and worshipped by us, [^279] and be glorified in all our words and works. [^280]
+
+#### Q. 100. Is then the profaning of God's name, by swearing and cursing, so heinous a sin, that his wrath is kindled against those who do not endeavour, as much as in them lies, to prevent and forbid such cursing and swearing?
+It undoubtedly is, [^281]for there is no sin greater or more provoking to God, than the profaning of his name; and therefore he has commanded this sin to be punished with death. [^282]
+
+### 37. Lord's Day
+#### Q. 101. May we then swear religiously by the name of God?
+Yes: either when the magistrates demand it of the subjects; or when necessity requires us thereby to confirm a fidelity and truth to the glory of God, and the safety of our neighbour: for such an oath is founded on God's word, [^283]and therefore was justly used by the saints, both in the Old and New Testament. [^284]
+
+#### Q. 102. May we also swear by saints or any other creatures?
+No; for a lawful oath is calling upon God, as the only one who knows the heart, that he will bear witness to the truth, and punish me if I swear falsely; [^285]which honour is due to no creature. [^286]
+
+### 38. Lord's Day
+#### Q. 103.
+What does God require in the fourth commandment? First, that the ministry of the gospel and the schools be maintained; [^287]and that I, especially on the sabbath, that is, on the day of rest, diligently frequent the church of God, [^288] to hear his word, [^289] to use the sacraments, [^290] publicly to call upon the Lord, [^291] and contribute to the relief of the poor. [^292] Secondly, that all the days of my life I cease from my evil works, and yield myself to the Lord, to work by his Holy Spirit in me:  and thus begin in this life the eternal sabbath. [^293]
+
+### 39. Lord's Day
+#### Q. 104. What does God require in the fifth commandment? 
+That I show all honour, love and fidelity, to my father and mother, and all in authority over me, and submit myself to their good instruction and correction, with due obedience; [^294]and also patiently bear with their weaknesses and infirmities, [^295] since it pleases God to govern us by their hand. [^296]
+
+### 40. Lord's Day
+#### Q. 105. What does God require in the sixth commandment?
+That neither in thoughts, nor words, nor gestures, much less in deeds, I dishonour, hate, wound, or kill my neighbour, by myself or by another: [^297]but that I lay aside all desire of revenge: [^298] also, that I hurt not myself, nor wilfully expose myself to any danger. [^299] Wherefore also the magistrate is armed with the sword, to prevent murder. [^300]
+
+#### Q. 106. But this commandment seems only to speak of murder?
+In forbidding murder, God teaches us, that he abhors the causes thereof, such as envy, [^301]hatred, [^302] anger, [^303] and desire of revenge;  and that he accounts all these as murder. [^304]
+
+#### Q. 107. But is it enough that we do not kill any man in the manner mentioned above?
+No: for when God forbids envy, hatred, and anger, he commands us to love our neighbour as ourselves; [^305]to show patience, peace, meekness, mercy, and all kindness, towards him, [^306] and prevent his hurt as much as in us lies; [^307] and that we do good, even to our enemies. [^308]
+
+### 41. Lord's Day
+#### Q. 108. What does the seventh commandment teach us?
+That all uncleanness is accursed of God: [^309]and that therefore we must with all our hearts detest the same, [^310] and live chastely and temperately, [^311] whether in holy wedlock, or in single life. [^312]
+
+#### Q. 109. Does God forbid in this commandment, only adultery, and such like gross sins?
+Since both our body and soul are temples of the holy Ghost, he commands us to preserve them pure and holy:  therefore he forbids all unchaste actions, gestures, words, [^313]thoughts, desires, [^314] and whatever can entice men thereto. [^315]
+
+### 42. Lord's Day
+#### Q. 110. What does God forbid in the eighth commandment?
+God forbids not only those thefts, [^316]and robberies, [^317] which are punishable by the magistrate;  but he comprehends under the name of theft all wicked tricks and devices, whereby we design to appropriate to ourselves the goods which belong to our neighbour: [^318] whether it be by force, or under the appearance of right, as by unjust weights, ells, measures, fraudulent merchandise, [^319] false coins, usury, [^320] or by any other way forbidden by God;  as also all covetousness, [^321] all abuse and waste of his gifts. [^322]
+
+#### Q. 111. But what does God require in this commandment?
+That I promote the advantage of my neighbour in every instance I can or may;  and deal with him as I desire to be dealt with by others: [^323]further also that I faithfully labour, so that I may be able to relieve the needy. [^324] 
+
+### 43. Lord's Day
+#### Q. 112. What is required in the ninth commandment?
+That I bear false witness against no man, [^325]nor falsify any man's words; [^326] that I be no backbiter, nor slanderer; [^327] that I do not judge, nor join in condemning any man rashly, or unheard; [^328] but that I avoid all sorts of lies and deceit, as the proper works of the devil, [^329] unless I would bring down upon me the heavy wrath of God; [^330] likewise, that in judgment and all other dealings I love the truth, speak it uprightly and confess it; [^331] also that I defend and promote, as much as I am able, the horror and good character of my neighbour. [^332]
+
+### 44. Lord's Day
+#### Q. 113. What does the tenth commandment require of us?
+That even the smallest inclination or thought, contrary to any of God's commandments, never rise in our hearts;  but that at all times we hate all sin with our whole heart, and delight in all righteousness. [^333]
+
+#### Q. 114. But can those who are converted to God perfectly keep these commandments?
+No: but even the holiest men, while in this life, have only a small beginning of this obedience; [^334]yet so, that with a sincere resolution they begin to live, not only according to some, but all the commandments of God. [^335]
+
+#### Q. 115. Why will God then have the ten commandments so strictly preached, since
+no man in this life can keep them? First, that all our lifetime we may learn more and more to know [^336]our sinful nature, and thus become the more earnest in seeking the remission of sin, and righteousness in Christ; [^337] likewise, that we constantly endeavour and pray to God for the grace of the Holy Spirit, that we may become more and more conformable to the image of God, till we arrive at the perfection proposed to us, in a life to come. [^338]
+
+### Of Prayer
+### 45. Lord's Day
+#### Q. 116. Why is prayer necessary for christians?
+Because it is the chief part of thankfulness which God requires of us: [^339]and also, because God will give his grace and  Holy Spirit to those only, who with sincere desires continually ask them of him, and are thankful for them. [^340]
+
+#### Q. 117. What are the requisites of that prayer, which is acceptable to God, and which he will hear?
+First, that we from the heart pray [^341]to the one true God only, who has manifested himself in his word, [^342] for all things, he has commanded us to ask of him; [^343] secondly, that we rightly and thoroughly know our need and misery, [^344] that so we may deeply humble ourselves in the presence of his divine majesty; [^345] thirdly, that we be fully persuaded that he, notwithstanding that we are unworthy of it, will, for the sake of Christ our Lord, certainly hear our prayer, [^346] as he has promised us in his word. [^347]
+
+#### Q. 118. What has God commanded us to ask of him?
+All things necessary for soul and body; [^348]which Christ our Lord has comprised in that prayer he himself has taught us.
+
+#### Q. 119. What are the words of that prayer? [^349]Our Father which art in heaven,
+1. Hallowed be thy name.
+2. Thy kingdom come.
+3. Thy will be done on earth, as it is in heaven.
+4. Give us this day our daily bread.
+5. And forgive us our debts, as we forgive our debtors.
+6. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, and the power, and the glory, for ever. Amen.
+
+### 46. Lord's Day
+#### Q. 120. Why has Christ commanded us to address God thus: "Our Father"?
+That immediately, in the very beginning of our prayer, he might excite in us a childlike reverence for, and confidence in God, which are the foundation of our prayer:  namely, that God is become our Father in Christ, and will much less deny us what we ask of him in true faith, than our parents will refuse us earthly things. [^350]
+
+#### Q. 121. Why is it here added, "Which art in heaven"?
+Lest we should form any earthly conceptions of God's heavenly majesty, [^351]and that we may expect from his almighty power all things necessary for soul and body. [^352]
+
+### 47. Lord's Day
+#### Q. 122. Which is the first petition?
+"Hallowed be thy name"; that is, grant us, first, rightly to know thee, [^353]and to sanctify, glorify and praise thee, [^354] in all thy works, in which thy power, wisdom, goodness, justice, mercy and truth, are clearly displayed; and further also, that we may so order and direct our whole lives, our thoughts, words and actions, that thy name may never be blasphemed, but rather honoured and praised on our account. [^355]
+
+### 48. Lord's Day
+#### Q. 123. Which is the second petition?
+"Thy kingdom come"; that is, rule us so by thy word and Spirit, that we may submit ourselves more and more to thee; [^356]preserve and increase thy church; [^357] destroy the works of the devil, and all violence which would exalt itself against thee; and also all wicked counsels devised against thy holy word; [^358] till the full perfection of thy kingdom take place, [^359] wherein thou shalt be all in all. [^360]
+
+### 49. Lord's Day
+#### Q. 124. Which is the third petition?
+"Thy will be done on earth as it is in heaven"; that is, grant that we and all men may renounce our own will, [^361]and without murmuring obey thy will, which is only good; [^362] that every one may attend to, and perform the duties of his station and calling, [^363] as willingly and faithfully as the angels do in heaven. [^364]
+
+### 50. Lord's Day
+#### Q. 125. Which is the fourth petition?
+"Give us this day our daily bread"; that is, be pleased to provide us with all things necessary for the body, [^365]that we may thereby acknowledge thee to be the only fountain of all good, [^366] and that neither our care nor industry, nor even thy gifts, can profit us without thy blessing; [^367] and therefore that we may withdraw our trust from all creatures, and place it alone in thee. [^368]
+
+### 51. Lord's Day
+#### Q. 126. Which is the fifth petition?
+"And forgive us our debts as we forgive our debtors"; that is, be pleased for the sake of Christ's blood, not to impute to us poor sinners, our transgressions, nor that depravity, which always cleaves to us; [^369]even as we feel this evidence of thy grace in us, that it is our firm resolution from the heart to forgive our neighbour. [^370]
+
+### 52. Lord's Day
+#### Q. 127. Which is the sixth petition?
+"And lead us not into temptation, but deliver us from evil"; that is, since we are so weak in ourselves, that we cannot stand a moment; [^371]and besides this, since our mortal enemies, the devil, [^372] the world, [^373] and our own flesh, [^374] cease not to assault us, do thou therefore preserve and strengthen us by the power of thy Holy Spirit, that we may not be overcome in this spiritual warfare, [^375] but constantly and strenuously may resist our foes, till at last we obtain a complete victory. [^376]
+
+#### Q. 128. How dost thou conclude thy prayer?
+"For thine is the kingdom, and the power, and the glory, forever";  that is, all these we ask of thee, because thou, being our King and almighty, art willing and able to give us all good; [^377]and all this we pray for, that thereby not we, but thy holy name, may be glorified for ever. [^378]
+
+#### Q. 129. What does the word "Amen" signify?
+"Amen" signifies, it shall truly and certainly be: for my prayer is more assuredly heard of God, than I feel in my heart that I desire these things of him. [^379]
+
+[^1]: Rom.14:7,8. 
+[^2]: 1 Cor.6:19. 
+[^3]: 1 Cor.3:23; Tit.2:14. 
+[^4]: 1 Pet.1:18,19; 1 John 1:7; 1 John 2:2,12. 
+[^5]: Heb.2:14; 1 John 3:8; John 8:34-36. 
+[^6]: John 6:39; John 10:28; 2 Thess.3:3; 1 Pet.1:5. 
+[^7]: Matt.10:29-31; Luke 21:18. 
+[^8]: Rom.8:28. 
+[^9]: 2 Cor.1:20-22; 2 Cor.5:5; Eph.1:13,14; Rom.8:16. 
+[^10]: Rom.8:14; 1 John 3:3.
+[^11]: Matt.11:28-30; Luke 24:46-48; 1 Cor.6:11; Tit.3:3-7. 
+[^12]: John 9:41; John 15:22. 
+[^13]: John 17:3; Acts 4:12; Acts 10:43. 
+[^14]: Eph.5:8-11; 1 Pet.2:9,10; Rom.6:1,2,12,13.
+[^15]: Rom.3:20.
+[^16]:: Deut.6:5; Lev.19:18; Mark 12:30; Luke 10:27.
+[^17]: Rom.3:10,20,23; 1 John 1:8,10. 
+[^18]: Rom.8:7; Eph.2:3; Tit.3:3; Gen.6:5; Gen.8:21; Jer.17:9; Rom.7:23.
+[^19]: Gen.1:31. 
+[^20]: Gen.1:26,27. 
+[^21]: Col.3:9,10; Eph.4:23,24; 2 Cor.3:18.
+[^22]: Gen.3; Rom.5:12,18,19. 
+[^23]: Ps.51:5; Gen.5:3.
+[^24]: Gen.8:21; John 3:6; Gen.6:5; Job 14:4; Job 15:14,16,36; Isa.53:6.
+[^25]: John 3:3,5; 1 Cor.12:3; 2 Cor.3:5.
+[^26]: Eph.4:24; Eccl.7:29. 
+[^27]: John 8:44; 2 Cor.11:3; Gen.3:4. 
+[^28]: Gen.3:6; Rom.5:12; Gen.3:13; 1 Tim.2:13,14.
+[^29]: Gen.2:17; Rom.5:12. 
+[^30]: Ps.5:5; Ps.50:21; Nah.1:2; Exod.20:5; Exod.34:7; Rom.1:18; Eph.5:6; Heb.9:27. 
+[^31]: Deut.27:26; Gal.3:10.
+[^32]: Exod.34:6,7; Exod.20:6. 
+[^33]: Ps.7:9; Exod.20:5; Exod.23:7; Exod.34:7; Ps.5:5,6; Nah.1:2,3.
+[^34]: Gen.2:17; Exod.20:5; Exod.23:7; Ezek.18:4; Matt.5:26; 2 Thess.1:6; Luke 16:2. 
+[^35]: Rom.8:3,4.
+[^36]:. Job 9:2,3; Job 15:15,16; Job 4:18,19; Ps.130:3; Matt.6:12; Matt.18:25; Matt.16:26.
+[^37]: Ezek.18:4; Gen.3:17; Heb.2:14-17. 
+[^38]: Nah.1:6; Ps.130:3.
+[^39]: 1 Cor.15:21; Jer.33:16; Isa.53:9; 2 Cor.5:21. 
+[^40]: Heb.7:16,26. 
+[^41]: Isa.7:14; Isa.9:6; Rom.9:5; Jer.23:5,6; Jer.23:6; Luke 11:22.
+[^42]: Ezek.18:4,20; Rom.5:12,15,18; 1 Cor.15:21; Heb.2:14-16; 1 Pet.3:18; Isa.53:3-5,10,11. 
+[^43]: Heb.7:26,27; Ps.49:7,8; 1 Pet.3:18.
+[^44]: Isa.9:6; Isa.63:3. 
+[^45]: Isa.53:4,11. 
+[^46]: Deut.4:24; Nah.1:6; Ps.130:3. 
+[^47]: Isa.53:5,11; Acts 2:24; 1 Pet.3:18; John 3:16; Acts 20:28; John 1:4.
+[^48]: 1 John 5:20; Rom.9:5; Rom.8:3; Gal.4:4; Isa.9:6; Jer.23:6; Mal.3:1. 
+[^49]: Luke 1:42; Luke 2:6,7; Rom.1:3; Rom.9:5; Philip.2:7; Heb.2:14,16,17; Heb.4:15. 
+[^50]: Isa.53:9,11; Jer.23:5; Luke 1:35; John 8:46; Heb.4:15; Heb.7:26; 1 Pet.1:19; 1 Pet 2:22; 1 Pet.3:18. 
+[^51]: 1 Tim.2:5; Heb.2:9; Matt.1:23; 1 Tim.3:16; Luke 2:11. 
+[^52]: 1 Cor.1:30.
+[^53]: Gen.3:15. 
+[^54]: Gen.22:18; Gen.12:3; Gen.49:10,11. 
+[^55]: Isa.53; Isa.42:1-4; Isa.43:25; Isa.49:5,6,22,23; Jer.23:5,6; Jer.31:32,33; Jer.32:39-41; Mic.7:18-20; Acts 10:43; Rom.1:2; Heb.1:1; Acts 3:22-24; Acts 10:43; John 5:46. 
+[^56]: Heb.10:1,7; Col.2:7; John 5:46. 
+[^57]: Rom.10:4; Gal.4:4,5; Gal.3:24; Col.2:17.
+[^58]: Matt.7:14; Matt.22:14. 
+[^59]: Mark 16:16; John 1:12; John 3:16,18,36; Isa.53:11; Ps.2:12; Rom.11:17,19,20; Rom.3:22; Heb.4:2,3; Heb.5:9; Heb.10:39; Heb.11:6.
+[^60]: James 2:19. 
+[^61]: 2 Cor.4:13; Eph.2:7-9; Eph.3:12; Gal.2:16; Heb.11:1,7-10; Heb.4:16; James 1:6; Matt.16:17; Philip.1:19; Rom.4:16-21; Rom.5:1; Rom.1:16; Rom.10:10,17; Rom.3:24.25. 
+[^62]: Gal.5:22; Matt.16:17; 2 Cor.4:13; John 6:29; Eph.2:8; Philip.1:19; Acts 16:14. 
+[^63]: Rom.1:16; Rom.10:17; 1 Cor.1:21; Acts 10:44; Acts 16:14. 
+[^64]: Rom.1:17; Gal.3:11; Heb.10:10,38; Gal.2:16.
+[^65]: Eph.2:8; Rom.3:24; Rom.5:19; Luke 1:77,78.
+[^66]: John 20:31; Matt.28:19; Mark 1:15.
+[^67]: Deut.6:4; Eph.4:6; Isa.44:6; Isa.45:5; 1 Cor.8:4,6. 
+[^68]: Isa.61:1; Luke 4:18; Gen.1:2,3; Ps.33:6; Isa.48:16; Ps.110:1; Matt.3:16,17; Matt.28:19; 1 John 5:7; Isa.6:1,3; John 14:26; John 15:26; 2 Cor.13:13; Gal.4:6; Eph.2:18; Tit.3:5,6.
+[^69]: Gen.1,2; Job 33:4; Job 38,39; Ps.33:6; Acts 4:24; Acts 14:15; Isa.45:7. 
+[^70]: Matt.10:29; Heb.1:3; Ps.104:27-30; Ps.115:3; Matt.10:29; Eph.1:11. 
+[^71]: John 1:12; Rom.8:15; Gal.4:5-7; Eph.1:5. 
+[^72]: Ps.55:23; Matt.6:25,26; Luke 12:22. 
+[^73]: Rom.8:28. 
+[^74]: Rom.10:12; Luke 12:22; Rom.8:23; Isa.46:4; Rom.10:12. 
+[^75]: Matt.6:25-34; Matt.7:9-11.
+[^76]: Acts 17:25-28; Jer.23:23,24; Isa.29:15,16; Ezek.8:12. 
+[^77]: Heb.1:3. 
+[^78]: Jer.5:24; Acts 14:17. 
+[^79]: John 9:3. 
+[^80]: Prov.22:2. 
+[^81]: Matt.10:20; Prov.16:33.
+[^82]: Rom.5:3; James 1:3; Ps.39:9; Job 1:21,22. 
+[^83]: Deut.8:10; 1 Thess.5:18. 
+[^84]: Ps.55:22; Rom.5:4. 
+[^85]: Rom.8:38,39. 
+[^86]: Job 1:12; Job 2:6; Acts 17:25,28; Prov.21:1.
+[^87]: Matt.1:21; Heb.7:24,25. 
+[^88]: Acts 4:12; John 15:4,5; 1 Tim.2:5; Isa.43:11; 1 John 5:11.
+[^89]: 1 Cor.1:13,30,31; Gal.5:4. 
+[^90]: Heb.12:2; Isa.9:6; Col.1:19,20; Col.2:10; 1 John 1:7,16.
+[^91]: Heb.1:9; Ps.45:8; Isa.61:1; Luke 4:18. 
+[^92]: Deut.18:15; Acts 3:22; Acts 7:37; Isa.55:4. 
+[^93]: John 1:18; John 15:15. 
+[^94]: Ps.110:4. 
+[^95]: Heb.10:12,14; Heb.9:12,14,28. 
+[^96]: Rom.8:34; Heb.9:24; 1 John 2:1; Rom.5:9,10. 
+[^97]: Ps.2:6; Zech.9:9; Matt.21:5; Luke 1:33; Matt.28:18; John 10:28; Rev.12:10,11.
+[^98]: Acts 11:26. 
+[^99]: 1 Cor.6:15. 
+[^100]: 1 John 2:27; Acts 2:17. 
+[^101]: Matt.10:32; Rom.10:10; Mark 8:38. 
+[^102]: Rom.12:1; 1 Pet.2:5,9; Rev.5:8,10; Rev.1:6. 
+[^103]: 1 Pet.2:11; Rom.6:12,13; Gal.5:16,17; Eph.6:11; 1 Tim.1:18,19. 
+[^104]: 2 Tim.2:12; Matt.25:34.
+[^105]: John 1:1-3,14,18; Heb.1:1,2; John 3:16; 1 John 4:9; Rom.8:32. 
+[^106]: Rom.8:15-17; John 1:12; Gal.4:6; Eph.1:5,6.
+[^107]: 1 Pet.1:18,19; 1 Pet.2:9; 1 Cor.6:20; 1 Cor.7:23; 1 Tim.2:6; John 20:28.
+[^108]: Rom.1:4; Rom.9:5. 
+[^109]: 1 John 5:20; John 1:1; John 17:3; Rom.1:3; Col.1:15. 
+[^110]: Gal.4:4; Luke 1:31,42,43. 
+[^111]: John 1:14; Matt.1:18,20; Luke 1:32,35. 
+[^112]: Ps.132:11; Rom.1:3; 2 Sam.7:12; Acts 2:30. 
+[^113]: Philip.2:7; Heb.2:14,17. 
+[^114]: Heb.4:15.
+[^115]: Heb.7:26,27; Heb.2:17. 
+[^116]: 1 Pet.1:18,19; 1 Pet.3:18; 1 Cor.1:30,31; Rom.8:3,4; Isa.53:11; Ps.32:1.
+[^117]: Isa.53:4; 1 Pet.2:24; 1 Pet.3:18; 1 Tim.2:6. 
+[^118]: Isa.53:10,12; Eph.5:2; 1 Cor.5:7; 1 John 2:2; 1 John 4:10; Rom.3:25; Heb.9:28; Heb.10:14. 
+[^119]: Gal.3:13; Col.1:13; Heb.9:12; 1 Pet.1:18,19. 
+[^120]: Rom.3:25; 2 Cor.5:21; John 3:16; John 6:51; Heb.9:15; Heb.10:19.
+[^121]: John 18:38; Matt.27:24; Acts 4:27,28; Luke 23:14,15; John 19:4.
+[^122]: Ps.69:4; Isa.53:4,5; 2 Cor.5:21; Gal.3:13.
+[^123]: Gal.3:13. 
+[^124]: Deut.21:23.
+[^125]: Gen.2:17. 
+[^126]: Rom.8:3,4; Heb.2:9,14,15.
+[^127]: Matt.27:59,60; Luke 23:52,53; John 19:38-42; Acts 13:29.
+[^128]: Mark 8:37; Ps.49:7. 
+[^129]: John 5:24; Philip.1:23; Rom.7:24.
+[^130]: Rom.6:6. 
+[^131]: Rom.6:6-8,11,12; Col.2:12. 
+[^132]: Rom.12:1.
+[^133]: Ps.18:5,6; Ps.116:3; Matt.26:38; Heb.5:7; Isa.53:10; Matt.27:46.
+[^134]: Isa.53:5.
+[^135]: 1 Cor.15:16; Rom.4:25; 1 Pet.1:3. 
+[^136]: Rom.6:4; Col.3:1,3; Eph.2:5,6. 
+[^137]: 1 Cor.15:12,20,21; Rom.8:11.
+[^138]: Acts 1:9; Matt.26:64; Mark 16:19; Luke 24:51. 
+[^139]: Heb.7:25; Heb.4:14; Heb.9:24; Rom.8:34; Eph.4:10; Col.3:1. 
+[^140]: Acts 1:11; Matt.24:30.
+[^141]: Matt.28:20. 
+[^142]: Heb.8:4; Matt.26:11; John 16:28; John 17:11; Acts 3:21. 
+[^143]: John 14:17-19; John 16:13; Matt.28:20; Eph.4:8,12.
+[^144]: Acts 7:49; Jer.23:24. 
+[^145]: Col.2:9; John 3:13; John 11:15; Matt.28:6.
+[^146]: 1 John 2:1; Rom.8:34. 
+[^147]: John 14:2; John 17:24; John 20:17; Eph.2:6. 
+[^148]: John 14:16,7; Acts 2:1-4,33; 2 Cor.1:22; 2 Cor.5:5. 
+[^149]: Col.3:1; Philip.3:14.
+[^150]: Eph.1:20,21,23; Col.1:18. 
+[^151]: Matt.28:18; John 5:22.
+[^152]: Acts 2:33; Eph.4:8. 
+[^153]: Ps.2:9; Ps.110:1,2; John 10:28; Eph.4:8.
+[^154]: Luke 21:28; Rom.8:23; Philip.3:20; Tit.2:13; 1 Thess.4:16. 
+[^155]: 2 Thess.1:6,8-10; Matt.25:41-43. 
+[^156]: Matt.25:34; 2 Thess.1:7.
+[^157]: 1 John 5:7; Gen.1:2; Isa.48:16; 1 Cor.3:16; 1 Cor.6:19; Acts 5:3,4. 
+[^158]: Gal.4:6; Matt.28:19,20; 2 Cor.1:21,22; Eph.1:13. 
+[^159]: Gal.3:14; 1 Pet.1:2; 1 Cor.6:17. 
+[^160]: Acts 9:31; John 15:26. 
+[^161]: John 14:16; 1 Pet.4:14.
+[^162]: Eph.5:26; John 10:11; Acts 20:28; Eph.4:11-13. 
+[^163]: Ps.71:17,18; Isa.59:21; 1 Cor.11:26. 
+[^164]: Matt.16:18; John 10:28-30; Ps.129:1-5. 
+[^165]: Isa.59:21; Rom.1:16; Rom.10:14-17; Eph.5:26. 
+[^166]: Gen.26:4; Rev.5:9.
+[^167]: Rom.8:29,30; Eph.1:10-13. 
+[^168]: Acts 2:46; Eph.4:3-6. 
+[^169]: Ps.23:6; 1 Cor.1:8,9; John 10:28; 1 John 2:19; 1 Pet.1:5. 
+[^170]: 1 John 3:14,19-21; 2 Cor.13:5; Rom.8:10.
+[^171]:	1 John 1:3; 1 Cor.1:9; Rom.8:32; 1 Cor.12:12,13; 1 Cor.6:17. 
+[^172]: 1Cor.12:21; 1 Cor.13:1,5; Philip.2:4-8.
+[^173]: 1 John 2:2; 1 John 1:7; 2 Cor.5:19,21. 
+[^174]: Jer.31:34; Ps.103:3,4; Ps.103:10,12; Mic.7:19,23-25. 
+[^175]: Rom.8:1-4; John 3:18; John 5:24.
+[^176]: Luke 16:22; Luke 23:43; Philip.1:21,23. 
+[^177]: 1 Cor.15:53,54; Job 19:25,26; 1 John 3:2; Philip.3:21.
+[^178]: 2 Cor.5:2,3. 
+[^179]: 1 Cor.2:9; John 17:3.
+[^180]: Hab.2:4; Rom.1:17; John 3:36.
+[^181]: Rom.3:21-25,28; Rom.5:1,2; Gal.2:16; Eph.2:8,9; Philip.3:9. 
+[^182]: Rom.3:9. 
+[^183]: Rom.7:23. 
+[^184]: Tit.3:5; Deut.9:6; Ezek.36:22. 
+[^185]: Rom.3:24; Eph.2:8. 
+[^186]: Rom.4:4,5; 2 Cor.5:19. 
+[^187]: 1 John 2:2. 
+[^188]: 1 John 2:1. 
+[^189]: 2 Cor.5:21. 
+[^190]: Rom.3:22; John 3:18.
+[^191]: 1 Cor.1:30; 1 Cor.2:2. 
+[^192]: 1 John 5:10.
+[^193]: Gal.3:10; Deut.27:26. 
+[^194]: Isa.64:6.
+[^195]: Luke 17:10.
+[^196]: Matt.7:18; John 15:5.
+[^197]: Eph.2:8,9; Eph.6:23; John 3:5; Philip.1:29. 
+[^198]: Matt.28:19,20; 1 Pet.1:22,23.
+[^199]: Gen.17:11; Rom.4:11; Deut.30:6; Lev.6:25; Heb.9:7-9,24; Ezek.20:12; Isa.6:6,7; Isa.54:9.
+[^200]: Rom.6:3; Gal.3:27.
+[^201]: Matt.28:19. 
+[^202]: Matt.28:19; Acts 2:38; Matt.3:11; Mark 16:16; John 1:33; Rom.6:3,4. 
+[^203]: 1 Pet.3:21; Mark 1:4; Luke 3:3
+[^204]: Heb.12:24; 1 Pet.1:2; Rev.1:5; Rev.7:14; Zech.13:1; Ezek.36:25.
+[^205]: John 1:33; John 3:5; 1 Cor.6:11; 1 Cor.12:13; Rom.6:4; Col.2:12.
+[^206]: Tit.3:5; Acts 22:16.
+[^207]: Matt.3:11; 1 Pet.3:21; Eph.5:26,27. 
+[^208]: 1 John 1:7; 1 Cor.6:11.
+[^209]: Rev.1:5; Rev.7:14; 1 Cor.6:11. 
+[^210]: Mark 16:16; Gal.3:27.
+[^211]: Gen.17:7. 
+[^212]: Matt.19:14. 
+[^213]: Luke 1:15; Ps.22:10; Isa.44:1-3; Acts 2:39. 
+[^214]: Acts 10:47. 
+[^215]: Gen.17:14. 
+[^216]: Col.2:11-13.
+[^217]: Matt.26:26-28; Mark 14:22-24; Luke 22:19,20; 1 Cor.10:16,17; 1 Cor.11:23-25; 1 Cor.12:13.
+[^218]: John 6:35,40,47-54. 
+[^219]: John 6:55,56. 
+[^220]: Col.3:1; Acts 3:21; 1 Cor.11:26. 
+[^221]: Eph.3:16; Eph.5:29,30,32; 1 Cor.6:15,17,19; 1 John 3:24; 1 John 4:13; John 14:23. 
+[^222]: John 6:56-58; John 15:1-6; Eph.4:15,16.
+[^223]: 1 Cor.11:23-25; Matt.26:26-28; Mark 14:22-24; Luke 22:19,20; 1 Cor.10:16,17.
+[^224]: Matt.26:29. 
+[^225]: Eph.5:26; Tit.3:5. 
+[^226]: Mark 14:24; 1 Cor.10:16,17,26-28. 
+[^227]: Gen.17:10,11,14,19; Exod.12:11,13,27,43,48; Exod.13:9; 1 Pet.3:21; 1 Cor.10:1-4.
+[^228]: John 6:51,55. 
+[^229]: 1 Cor.10:16,17.
+[^230]: Heb.7:27; Heb.9:12,25-28; Heb.10:10,12-14; John 19:30; Matt.26:28; Luke 22:19,20. 
+[^231]: 1 Cor.6:17; 1 Cor.10:16. 
+[^232]: Heb.1:3; Heb.8:1,2; John 20:17. 
+[^233]: Matt.6:20,21; John 4:21-24; Luke 24:52; Acts 7:55,56; Col.3:1; Philip.3:20,21; 1 Thess.1:10; Heb.9:6-10. 
+[^234]: Heb.9:26; Heb.10:12,14,19-31.
+[^235]: 1 Cor.10:19-22; 1 Cor.11:28,29.
+[^236]: 1 Cor.11:20,34; Isa.1:11-15; Isa.66:3; Jer.7:21-23; Ps.50:16.
+[^237]: Matt.16:18,19; Matt.18:15-19; John 20:21-23.
+[^238]: Matt.18:15-18; 1 Cor.5:2-5,11; 2 Thess.3:14,15; 2 Cor.2:6-8.
+[^239]: Rom.6:13; Rom.12:1,2; 1 Pet.2:5,9,10; 1 Cor.6:20. 
+[^240]: Matt.5:16; 1 Pet.2:12; 1 Pet.1:6,7. 
+[^241]: 2 Pet.1:10; Matt.7:17; Gal.5:6,22,23. 
+[^242]: 1 Pet.3:1,2; Rom.14:19.
+[^243]: 1 Cor.6:9,10; Eph.5:5,6; 1 John 3:14.
+[^244]: Rom.6:1,4-6; Eph.4:22-24; Col.3:5-10; 1 Cor.5:7; 2 Cor.7:10.
+[^245]: Rom.8:13; Joel 2:13; Hos.6:1.
+[^246]: Rom.5:1; Rom.14:17; Isa.57:15. 
+[^247]: Rom.6:10,11; Gal.2:20.
+[^248]: Rom.14:23. 
+[^249]: Lev.18:4; 1 Sam.15:22; Eph.2:10. 
+[^250]: 1 Cor.10:31.
+[^251]: Deut.12:32; Ezek.20:18,19; Isa.29:13; Matt.15:7-9.
+[^252]: Exod.34:28; Deut.4:13; Deut.10:3,4. 
+[^253]: Matt.22:37-40.
+[^254]: 1 John 5:21; 1 Cor.6:9,10; 1 Cor.10:7,14. 
+[^255]: Lev.19:31; Deut.18:9-12. 
+[^256]: Matt.4:10; Rev.19:10; Rev.22:8,9. 
+[^257]: John 17:3. 
+[^258]: Jer.17:5,7. 
+[^259]: 1 Pet.5:5,6. 
+[^260]: Heb.10:36; Col.1:11; Rom.5:3,4; 1 Cor.10:10; Philip.2:14. 
+[^261]: Ps.104:27-30; Isa.45:7; James 1:17. 
+[^262]: Deut.6:5; Matt.22:37. 
+[^263]: Deut.6:2; Ps.111:10; Prov.1:7; Prov.9:10; Matt.10:28. 
+[^264]: Matt.4:10; Deut.10:20,21. 
+[^265]: Matt.5:29,30; Matt.10:37; Acts 5:29.
+[^266]: Eph.5:5; 1 Chron.16:26; Philip.3:19; Gal.4:8; Eph.2:12; 1 John 2:23; 2 John 1:9; John 5:23.
+[^267]: Deut.4:15-19; Isa.40:18-25; Rom.1:23,24; Acts 17:29. 
+[^268]: 1 Sam.15:23; Deut.12:30-32; Matt.15:9.
+[^269]: Isa.40:25. 
+[^270]: Exod.23:24,25; Exod.34:13,14,17; Num.33:52; Deut.7:5; Deut.12:3; Deut.16:21; 2 Kin.18:3,4.
+[^271]: Jer.10:8; Hab.2:18,19. 
+[^272]: Rom.10:14,15,17; 2 Pet.1:19; 2 Tim.3:16,17.
+[^273]: Lev.24:11-16. 
+[^274]: Lev.19:12. 
+[^275]: Matt.5:37; James 5:12. 
+[^276]: Lev.5:1; Prov.29:24. 
+[^277]: Jer.4:2; Isa.45:23. 
+[^278]: Rom.10:9,10; Matt.10:32. 
+[^279]: Ps.50:15; 1 Tim.2:8. 
+[^280]: Rom.2:24; 1 Tim.6:1; Col.3:16,17.
+[^281]: Prov.29:24; Lev.5:1. 
+[^282]: Lev.24:15,16.
+[^283]: Deut.6:13; Deut.10:20; Isa.48:1; Heb.6:16. 
+[^284]: Gen.21:24; Gen.31:53,54; Jos.9:15,19; 1 Sam.24:22; 2 Sam.3:35; 1 Kin.1:28-30; Rom.1:9; 2 Cor.1:23.
+[^285]: 2 Cor.1:23; Rom.9:1. 
+[^286]: Matt.5:34-36; James 5:12.
+[^287]: Tit.1:5; 2 Tim.3:14,15; 1 Tim.5:17; 1 Cor.9:11,13,14; 2 Tim.2:2.
+[^288]: Ps.40:10,11; Ps.68:27; Acts 2:42,46. 
+[^289]: 1 Tim.4:13,19; 1 Cor.14:29,31. 
+[^290]: 1 Cor.11:33. 
+[^291]: 1 Tim.2:1-3,8-11; 1 Cor.14:16.
+[^292]: 1 Cor.16:2. 
+[^293]: Isa.66:23.
+[^294]: Eph.5:22; Eph.6:1-5; Col.3:18,20-24; Prov.1:8; Prov.4:1; Prov.15:20; Prov.20:20; Exod.21:17; Rom.13:1-7. 
+[^295]: Prov.23:22; Gen.9:24,25; 1 Pet.2:18. 
+[^296]: Eph.6:4,9; Col.3:19-21; Rom.13:2,3; Matt.22:21.
+[^297]: Matt.5:21,22; Matt.26:52; Gen.9:6. 
+[^298]: Eph.4:26; Rom.12:19; Matt.5:25; Matt.18:35. 
+[^299]: Rom.13:14; Col.2:23; Matt.4:7. 
+[^300]: Gen.9:6; Exod.21:14; Matt.26:52; Rom.13:4.
+[^301]: Prov.14:30; Rom.1:29. 
+[^302]: 1 John 2:9,11. 
+[^303]: James 1:20; Gal.5:19,21. 
+[^304]: 1 John 3:15.
+[^305]: Matt.7:12; Matt.22:39; Rom.12:10. 
+[^306]: Eph.4:2; Gal.6:1,2; Matt.5:5,7,9; Rom.12:18; Luke 6:36; 1 Pet.3:8; Col.3:12; Rom.12:10,15.
+[^307]: Exod.23:5. 
+[^308]: Matt.5:44,45; Rom.12:20,21.
+[^309]: Lev.18:27,28. 
+[^310]: Jude 1:23. 
+[^311]: 1 Thess.4:3-5. 
+[^312]: Heb.13:4; 1 Cor.7:7-9,27.
+[^313]: Eph.5:3,4; 1 Cor.6:18-20. 
+[^314]: Matt.5:27,28. 
+[^315]: Eph.5:18; 1 Cor.15:33.
+[^316]: 1 Cor.6:10. 
+[^317]: 1 Cor.5:10; Isa.33:1. 
+[^318]: Luke 3:14; 1 Thess.4:6.
+[^319]: Prov.11:1; Prov.16:11; Ezek.45:9-12; Deut.25:13-16. 
+[^320]: Ps.15:5; Luke 6:35. 
+[^321]: 1 Cor.6:10. 
+[^322]: Prov.23:20,21; Prov.21:20.
+[^323]: Matt.7:12. 
+[^324]: Eph.4:28.
+[^325]: Prov.19:5,9; Prov.21:28. 
+[^326]: Ps.15:3; Ps.50:19,20. 
+[^327]: Rom.1:29,30. 
+[^328]: Matt.7:1,2; Luke 6:37. 
+[^329]: John 8:44. 
+[^330]: Prov.12:22; Prov.13:5. 
+[^331]: 1 Cor.13:6; Eph.4:25. 
+[^332]: 1 Pet.4:8.
+[^333]: Rom.7:7.
+[^334]: 1 John 1:8-10; Rom.7:14,15; Eccl.7:20; 1 Cor.13:9. 
+[^335]: Rom.7:22; Ps.1:2; James 2:10.
+[^336]: Rom.3:20; 1 John 1:9; Ps.32:5. 
+[^337]: Matt.5:6; Rom.7:24,25. 
+[^338]: 1 Cor.9:24; Philip.3:11-14.
+[^339]: Ps.50:14,15. 
+[^340]: Matt.7:7,8; Luke 11:9,10,13; 1 Thess.5:17.
+[^341]: John 4:24; Ps.145:18. 
+[^342]: Rev.19:10; John 4:22-24. 
+[^343]: Rom.8:26; 1 John 5:14; James 1:5. 
+[^344]: 2 Chron.20:12. 
+[^345]: Ps.2:11; Ps.34:19;Isa.66:2. 
+[^346]: Rom.10:14; James 1:6. 
+[^347]: John 14:13,14; John 16:23; Dan.9:17,18. 
+[^348]: Matt.7:8; Ps.27:8.
+[^349]: James 1:17; Matt.6:33.
+[^350]: Matt.6:9-13; Luke 11:2-4.
+[^351]: Matt.7:9-11; Luke 11:11-13.
+[^352]: Jer.23:23,24; Acts 17:24,25,27. 
+[^353]: Rom.10:12.
+[^354]: John 17:3; Jer.9:24; Jer.31:33,34; Matt.16:17; James 1:5; Ps.119:105. 
+[^355]: Ps.119:137; Luke 1:46,47,68,69; Rom.11:33-36. 
+[^356]: Ps.71:8; Ps.115:1.
+[^357]: Matt.6:33; Ps.119:5; Ps.143:10. 
+[^358]: Ps.51:18; Ps.122:6-9. 
+[^359]: 1 John 3:8; Rom.16:20. 
+[^360]: Rev.22:17,20; Rom.8:22,23. 
+[^361]: 1 Cor.15:28.
+[^362]: Matt.16:24; Tit.2:11,12. 
+[^363]: Luke 22:42; Eph.5:10; Rom.12:2. 
+[^364]: 1 Cor.7:24. 
+[^365]: Ps.103:20,21.
+[^366]: Ps.104:27,28; Ps.145:15,16; Matt.6:25,26. 
+[^367]: James 1:17; Acts 14:17; Acts 17:27,28. 
+[^368]: 1 Cor.15:58; Deut.8:3; Ps.37:3-5,16; Ps.127:1,2. 
+[^369]: Ps.55:23; Ps.62:11; Ps.146:3; Jer.17:5,7.
+[^370]: Ps.51:1-7; Ps.143:2; 1 John 2:1,2; Rom.8:1. 
+[^371]: Matt.6:14,15.
+[^372]: John 15:5; Ps.103:14. 
+[^373]: 1 Pet.5:8; Eph.6:12. 
+[^374]: John 15:19. 
+[^375]: Rom.7:23; Gal.5:17. 
+[^376]: Matt.26:41; Mark 13:33. 
+[^377]: 1 Thess.3:13; 1 Thess.5:23.
+[^378]: Rom.10:11,12; 2 Pet.2:9. 
+[^379]: John 14:13; Jer.33:8,9; Ps.115:1.
