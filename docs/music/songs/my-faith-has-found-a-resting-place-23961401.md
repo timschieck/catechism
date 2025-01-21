@@ -5,7 +5,7 @@ tags: ['atonement', 'redemption', 'trust', 'hope', 'jesus', 'blood', 'salvation'
 
 [Planning Center](https://services.planningcenteronline.com/songs/23961401)
 
-## Songwriter: Lidie Hornsby Edmunds
+## Songwriter(s): Lidie Hornsby Edmunds
 ### Last scheduled: Mar 19, 2023          
 
 No Lyrics

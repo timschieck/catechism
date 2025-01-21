@@ -5,7 +5,7 @@ tags: ['confession', 'declaration', 'praise', 'worship']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11909243)
 
-## Songwriter: Daniel Carson, Matt Maher, Christy Nockels, and Jesse Reeves
+## Songwriter(s): Daniel Carson, Matt Maher, Christy Nockels, and Jesse Reeves
 ### Last scheduled: Oct 13, 2024          
 
 Verse 1  

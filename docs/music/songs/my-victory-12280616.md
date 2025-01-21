@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12280616)
 
-## Songwriter: Darren Mulligan, David Crowder, Ed Cash, and Hank Bentley
+## Songwriter(s): Darren Mulligan, David Crowder, Ed Cash, and Hank Bentley
 ### Last scheduled: Nov 17, 2019          
 
 Verse 1  

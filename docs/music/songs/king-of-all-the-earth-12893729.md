@@ -5,7 +5,7 @@ tags: ['adoration', 'jesus', 'kingship', 'praise']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12893729)
 
-## Songwriter: Bryan Torwalt and Katie Torwalt
+## Songwriter(s): Bryan Torwalt and Katie Torwalt
 ### Last scheduled: None          
 
 Verse 1  

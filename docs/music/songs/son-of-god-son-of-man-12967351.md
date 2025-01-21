@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12967351)
 
-## Songwriter: Anthony Skinner, Don Poythress, Tony Wood, and Travis Ryan
+## Songwriter(s): Anthony Skinner, Don Poythress, Tony Wood, and Travis Ryan
 ### Last scheduled: None          
 
 No Lyrics

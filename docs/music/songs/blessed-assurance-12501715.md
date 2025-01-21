@@ -5,7 +5,7 @@ tags: ['adoration', 'assurance', 'testimony']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12501715)
 
-## Songwriter: Phoebe Palmer Knapp and Fanny Jane Crosby
+## Songwriter(s): Phoebe Palmer Knapp and Fanny Jane Crosby
 ### Last scheduled: Dec 29, 2024          
 
 Verse 1  

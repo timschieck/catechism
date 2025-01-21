@@ -5,7 +5,7 @@ tags: ['friendship', 'jesus', 'prayer']
 
 [Planning Center](https://services.planningcenteronline.com/songs/25088000)
 
-## Songwriter: Charles Crozat Converse and Joseph Medlicott Scriven
+## Songwriter(s): Charles Crozat Converse and Joseph Medlicott Scriven
 ### Last scheduled: None          
 
 No Lyrics

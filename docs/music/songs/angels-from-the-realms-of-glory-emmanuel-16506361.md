@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/16506361)
 
-## Songwriter: Brenton Brown and Paul Baloche
+## Songwriter(s): Brenton Brown and Paul Baloche
 ### Last scheduled: Dec 23, 2018          
 
 Verse 1  

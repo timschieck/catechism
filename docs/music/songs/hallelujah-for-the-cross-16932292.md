@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/16932292)
 
-## Songwriter: Ben Glover, Chris McClarney, and Jeff Pardo
+## Songwriter(s): Ben Glover, Chris McClarney, and Jeff Pardo
 ### Last scheduled: May 19, 2019          
 
 Verse 1  

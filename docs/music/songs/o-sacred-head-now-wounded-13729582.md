@@ -5,7 +5,7 @@ tags: ['crucifixion', 'friendship', 'refuge', 'salvation']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13729582)
 
-## Songwriter: Bernard Of Clairvaux, Debbie Fortnum, and Hans Leo Hassler
+## Songwriter(s): Bernard Of Clairvaux, Debbie Fortnum, and Hans Leo Hassler
 ### Last scheduled: Apr 14, 2017          
 
 Verse 1  

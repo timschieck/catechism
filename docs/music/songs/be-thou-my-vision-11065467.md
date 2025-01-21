@@ -5,7 +5,7 @@ tags: ['aspiration', 'consecration', 'dedication', 'life-in-christ', 'vision']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11065467)
 
-## Songwriter: Mary Elizabeth Byrne and Eleanor Henrietta Hull
+## Songwriter(s): Mary Elizabeth Byrne and Eleanor Henrietta Hull
 ### Last scheduled: Dec 29, 2024          
 
 VERSE 1  

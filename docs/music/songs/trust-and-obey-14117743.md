@@ -5,7 +5,7 @@ tags: ['assurance', 'baptism', 'devotion', 'life', 'obedience', 'testimony', 'tr
 
 [Planning Center](https://services.planningcenteronline.com/songs/14117743)
 
-## Songwriter: Daniel Brink Towner, John Henry Sammis, and Russell Mauldin
+## Songwriter(s): Daniel Brink Towner, John Henry Sammis, and Russell Mauldin
 ### Last scheduled: Jul 10, 2022          
 
 Chorus 1  

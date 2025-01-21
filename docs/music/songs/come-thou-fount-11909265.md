@@ -5,7 +5,7 @@ tags: ['aspiration', 'blessing']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11909265)
 
-## Songwriter: Robert Robinson and John Wyeth
+## Songwriter(s): Robert Robinson and John Wyeth
 ### Last scheduled: Nov 17, 2024          
 
 Verse 1  

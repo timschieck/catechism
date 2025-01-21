@@ -5,7 +5,7 @@ tags: ['desert-song', 'exaltation', 'reign', 'kingship', 'love', 'rescue', 'surr
 
 [Planning Center](https://services.planningcenteronline.com/songs/9805153)
 
-## Songwriter: Reuben Morgan
+## Songwriter(s): Reuben Morgan
 ### Last scheduled: Aug 11, 2019          
 
 No Lyrics

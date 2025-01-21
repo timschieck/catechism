@@ -5,7 +5,7 @@ tags: ['beautiful', 'devotion', 'forgiveness', 'gods-love', 'grace', 'honor', 'k
 
 [Planning Center](https://services.planningcenteronline.com/songs/18744296)
 
-## Songwriter: Billy Foote
+## Songwriter(s): Billy Foote
 ### Last scheduled: Feb 16, 2020          
 
 No Lyrics

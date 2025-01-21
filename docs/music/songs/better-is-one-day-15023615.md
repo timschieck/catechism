@@ -5,7 +5,7 @@ tags: ['devotion', 'drawing-near-to-god', 'holy-spirit', 'living-god', 'presence
 
 [Planning Center](https://services.planningcenteronline.com/songs/15023615)
 
-## Songwriter: Matt Redman
+## Songwriter(s): Matt Redman
 ### Last scheduled: Feb 24, 2019          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13317303)
 
-## Songwriter: Ben Fielding and Matt Crocker
+## Songwriter(s): Ben Fielding and Matt Crocker
 ### Last scheduled: Oct 17, 2021          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['redemption', 'salvation']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12318977)
 
-## Songwriter: Michael Bleecker and Matt Boswell
+## Songwriter(s): Michael Bleecker and Matt Boswell
 ### Last scheduled: Sept 18, 2016          
 
 Verse 1  

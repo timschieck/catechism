@@ -5,7 +5,7 @@ tags: ['jesus', 'adoration', 'praise']
 
 [Planning Center](https://services.planningcenteronline.com/songs/20315920)
 
-## Songwriter: Jonathan Baird, Meghan Baird, Ryan Baird, and Stephen Altrogge
+## Songwriter(s): Jonathan Baird, Meghan Baird, Ryan Baird, and Stephen Altrogge
 ### Last scheduled: May 19, 2024          
 
 Intro  

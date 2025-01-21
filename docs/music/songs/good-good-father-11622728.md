@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11622728)
 
-## Songwriter: Anthony Brown and Pat Barrett
+## Songwriter(s): Anthony Brown and Pat Barrett
 ### Last scheduled: Nov 14 & 15, 2020          
 
 Verse 1  

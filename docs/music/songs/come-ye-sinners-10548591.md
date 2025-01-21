@@ -5,7 +5,7 @@ tags: ['bread-of-life', 'healing', 'jesus', 'savior', 'shepherd', 'sin']
 
 [Planning Center](https://services.planningcenteronline.com/songs/10548591)
 
-## Songwriter: Dan Hamilton, Taylor Johnson, Ryan Owens, and Robbie Seay
+## Songwriter(s): Dan Hamilton, Taylor Johnson, Ryan Owens, and Robbie Seay
 ### Last scheduled: Jun 30, 2024          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/15148899)
 
-## Songwriter: Rend Collective
+## Songwriter(s): Rend Collective
 ### Last scheduled: Feb 9, 2020          
 
 Verse 1  

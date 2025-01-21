@@ -5,7 +5,7 @@ tags: ['awesome', 'creation', 'creativity', 'gods-attributes', 'greatness', 'lov
 
 [Planning Center](https://services.planningcenteronline.com/songs/16115619)
 
-## Songwriter: Jesse Reeves and Laura Story
+## Songwriter(s): Jesse Reeves and Laura Story
 ### Last scheduled: Nov 17, 2019          
 
 No Lyrics

@@ -5,7 +5,7 @@ tags: ['heaven', 'kingdom-of-god', 'prayer']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12485586)
 
-## Songwriter: Rend Collective Experiment
+## Songwriter(s): Rend Collective Experiment
 ### Last scheduled: Aug 20, 2023          
 
 Verse 1  

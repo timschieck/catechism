@@ -5,7 +5,7 @@ tags: ['aspiration', 'consecration', 'dedication', 'invitation', 'petition']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14637432)
 
-## Songwriter: Annie Sherwood Hawks and Robert Lowry
+## Songwriter(s): Annie Sherwood Hawks and Robert Lowry
 ### Last scheduled: Nov 12, 2017          
 
 Verse 1  

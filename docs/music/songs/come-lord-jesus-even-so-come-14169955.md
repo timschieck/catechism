@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14169955)
 
-## Songwriter: Chris Tomlin, Jason Ingram, and Jess Cates
+## Songwriter(s): Chris Tomlin, Jason Ingram, and Jess Cates
 ### Last scheduled: Oct 13, 2019          
 
 Verse 1  

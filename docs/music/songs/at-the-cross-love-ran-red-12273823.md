@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12273823)
 
-## Songwriter: Chris Tomlin, Ed Cash, Jonas Myrin, Matt Armstrong, and Matt Redman
+## Songwriter(s): Chris Tomlin, Ed Cash, Jonas Myrin, Matt Armstrong, and Matt Redman
 ### Last scheduled: Apr 13 & 19, 2019          
 
 Verse 1  

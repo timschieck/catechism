@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/15169703)
 
-## Songwriter: Dustin Smith, Jonny Robinson, Michael Farren, and Rich Thompson
+## Songwriter(s): Dustin Smith, Jonny Robinson, Michael Farren, and Rich Thompson
 ### Last scheduled: Aug 18, 2019          
 
 Verse 1  

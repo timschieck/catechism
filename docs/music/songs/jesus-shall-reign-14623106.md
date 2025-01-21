@@ -5,7 +5,7 @@ tags: ['exaltation', 'jesus', 'king', 'kingship']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14623106)
 
-## Songwriter: John C. Hatton and Isaac Watts
+## Songwriter(s): John C. Hatton and Isaac Watts
 ### Last scheduled: Nov 5, 2017          
 
 Verse 1  

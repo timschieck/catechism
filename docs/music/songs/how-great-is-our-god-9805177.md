@@ -1,11 +1,11 @@
 ---
 title: "How Great Is Our God"
-tags: ['challenges', 'childrens', 'community', 'confidence', 'do-not-be-conform', 'do-not-be-conform-to-the-world', 'faith', 'gods-attributes', 'gods-word', 'god', 'you-are-god', 'hardship-of-being-christian', 'holiness', 'how-gr']
+tags: ['majesty', 'greatness']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/9805177)
 
-## Songwriter: Ed Cash, Jesse Reeves, and Chris Tomlin
+## Songwriter(s): Ed Cash, Jesse Reeves, and Chris Tomlin
 ### Last scheduled: Mar 22, 2020          
 
 Verse 1  

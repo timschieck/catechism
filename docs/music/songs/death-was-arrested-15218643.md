@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/15218643)
 
-## Songwriter: Adam Kersh, Brandon Coker, Heath Balltzglier, and Paul Taylor
+## Songwriter(s): Adam Kersh, Brandon Coker, Heath Balltzglier, and Paul Taylor
 ### Last scheduled: Jun 2, 2024          
 
 Verse 1  

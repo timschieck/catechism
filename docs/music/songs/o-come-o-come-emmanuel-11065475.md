@@ -5,7 +5,7 @@ tags: ['advent', 'christmas', 'heaven', 'jesus', 'liberty', 'light', 'salvation'
 
 [Planning Center](https://services.planningcenteronline.com/songs/11065475)
 
-## Songwriter: Henry Sloane Coffin, Thomas Helmore, and John Mason Neale
+## Songwriter(s): Henry Sloane Coffin, Thomas Helmore, and John Mason Neale
 ### Last scheduled: Dec 24, 2024          
 
 VERSE 1  

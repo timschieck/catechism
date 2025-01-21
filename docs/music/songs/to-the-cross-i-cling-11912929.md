@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11912929)
 
-## Songwriter: Michael Bleecker, Matt Boswell, and Isaac Wimberley
+## Songwriter(s): Michael Bleecker, Matt Boswell, and Isaac Wimberley
 ### Last scheduled: None          
 
 Verse 1  

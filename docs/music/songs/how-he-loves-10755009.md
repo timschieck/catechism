@@ -5,7 +5,7 @@ tags: ['amazed-by-you', 'father', 'follow-you', 'glory', 'gods-attributes', 'how
 
 [Planning Center](https://services.planningcenteronline.com/songs/10755009)
 
-## Songwriter: John Mark McMillan
+## Songwriter(s): John Mark McMillan
 ### Last scheduled: Nov 3, 2024          
 
 Verse 1  

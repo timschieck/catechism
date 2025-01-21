@@ -5,7 +5,7 @@ tags: ['calvary', 'cleansing', 'comfort', 'crucifixion', 'forgiveness', 'lamb-of
 
 [Planning Center](https://services.planningcenteronline.com/songs/13963552)
 
-## Songwriter: Philip Paul Bliss and Glenn Dodson
+## Songwriter(s): Philip Paul Bliss and Glenn Dodson
 ### Last scheduled: Jan 27, 2019          
 
 No Lyrics

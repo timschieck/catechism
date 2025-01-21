@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/17643283)
 
-## Songwriter: Ed Cash and Rend Collective
+## Songwriter(s): Ed Cash and Rend Collective
 ### Last scheduled: Jul 7, 2019          
 
 No Lyrics

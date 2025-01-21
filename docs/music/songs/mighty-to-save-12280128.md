@@ -5,7 +5,7 @@ tags: ['anger', 'baptism', 'beautiful', 'communion', 'compassion', 'easter', 'ev
 
 [Planning Center](https://services.planningcenteronline.com/songs/12280128)
 
-## Songwriter: Ben Fielding and Reuben Morgan
+## Songwriter(s): Ben Fielding and Reuben Morgan
 ### Last scheduled: Jul 15, 2018          
 
 Verse 1  

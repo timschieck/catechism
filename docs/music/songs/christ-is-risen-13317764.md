@@ -5,7 +5,7 @@ tags: ['awakening', 'be-glorified', 'christ', 'easter', 'freedom', 'gods-love', 
 
 [Planning Center](https://services.planningcenteronline.com/songs/13317764)
 
-## Songwriter: Mia Fieldes and Matt Maher
+## Songwriter(s): Mia Fieldes and Matt Maher
 ### Last scheduled: Apr 12, 2020          
 
 Verse 1  

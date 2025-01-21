@@ -5,7 +5,7 @@ tags: ['praise', 'proclamation', 'worship']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12750908)
 
-## Songwriter: Leslie Jordan and David Leonard
+## Songwriter(s): Leslie Jordan and David Leonard
 ### Last scheduled: None          
 
 Verse 1  

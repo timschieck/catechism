@@ -5,7 +5,7 @@ tags: ['eternal-life', 'everlasting-life', 'faith', 'heaven']
 
 [Planning Center](https://services.planningcenteronline.com/songs/17416922)
 
-## Songwriter: Sanford F. Bennett
+## Songwriter(s): Sanford F. Bennett
 ### Last scheduled: May 17, 2019          
 
 Chorus 1  

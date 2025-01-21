@@ -5,7 +5,7 @@ tags: ['comfort', 'gods-attributes', 'im-forgiven', 'jesus', 'majesty', 'mighty'
 
 [Planning Center](https://services.planningcenteronline.com/songs/12501311)
 
-## Songwriter: Darlene Zschech
+## Songwriter(s): Darlene Zschech
 ### Last scheduled: Aug 16, 2020          
 
 Verse 1  

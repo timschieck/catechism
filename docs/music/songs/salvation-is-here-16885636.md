@@ -5,7 +5,7 @@ tags: ['affirmation', 'gods-presence', 'i-will-never-be', 'joy', 'praise', 'salv
 
 [Planning Center](https://services.planningcenteronline.com/songs/16885636)
 
-## Songwriter: Joel Houston
+## Songwriter(s): Joel Houston
 ### Last scheduled: Feb 3, 2019          
 
 Verse 1  

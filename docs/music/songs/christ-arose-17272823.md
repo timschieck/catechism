@@ -5,7 +5,7 @@ tags: ['ascension', 'easter', 'eternal-life', 'resurrection', 'seasonal', 'victo
 
 [Planning Center](https://services.planningcenteronline.com/songs/17272823)
 
-## Songwriter: Robert Lowry
+## Songwriter(s): Robert Lowry
 ### Last scheduled: Jul 28, 2024          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['adoration', 'ascension', 'kingship', 'praise', 'resurrection', 'worship'
 
 [Planning Center](https://services.planningcenteronline.com/songs/13713749)
 
-## Songwriter: Matthew Bridges, George Job Elvey, and Godfrey Thring
+## Songwriter(s): Matthew Bridges, George Job Elvey, and Godfrey Thring
 ### Last scheduled: Nov 17, 2024          
 
 Verse 1  

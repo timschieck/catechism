@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14695295)
 
-## Songwriter: Ben Glover and Reuben Morgan
+## Songwriter(s): Ben Glover and Reuben Morgan
 ### Last scheduled: Dec 24, 2023          
 
 Verse 1  

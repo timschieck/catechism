@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14732714)
 
-## Songwriter: Paul Baloche
+## Songwriter(s): Paul Baloche
 ### Last scheduled: None          
 
 Verse 1  

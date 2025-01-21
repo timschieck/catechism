@@ -5,7 +5,7 @@ tags: ['adoration', 'assurance', 'deliverance', 'grace', 'leadership', 'love', '
 
 [Planning Center](https://services.planningcenteronline.com/songs/14965967)
 
-## Songwriter: Edwin Othello Excell, John Newton, and John P. Rees
+## Songwriter(s): Edwin Othello Excell, John Newton, and John P. Rees
 ### Last scheduled: Aug 11, 2024          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13232516)
 
-## Songwriter: Dustin Kensrue
+## Songwriter(s): Dustin Kensrue
 ### Last scheduled: Jan 12, 2025          
 
 VERSE 1  

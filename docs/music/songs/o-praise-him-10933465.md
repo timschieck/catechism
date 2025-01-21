@@ -5,7 +5,7 @@ tags: ['holiness', 'praise']
 
 [Planning Center](https://services.planningcenteronline.com/songs/10933465)
 
-## Songwriter: David Crowder
+## Songwriter(s): David Crowder
 ### Last scheduled: None          
 
 Verse 1  

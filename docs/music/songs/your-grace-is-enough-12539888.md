@@ -5,7 +5,7 @@ tags: ['adoration', 'christmas', 'faithfulness', 'giving', 'gods-attributes', 'g
 
 [Planning Center](https://services.planningcenteronline.com/songs/12539888)
 
-## Songwriter: Matt Maher
+## Songwriter(s): Matt Maher
 ### Last scheduled: Sept 10, 2023          
 
 Verse 1  

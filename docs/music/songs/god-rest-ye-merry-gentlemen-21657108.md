@@ -5,7 +5,7 @@ tags: ['seasonal', 'comfort', 'christmas', 'peace']
 
 [Planning Center](https://services.planningcenteronline.com/songs/21657108)
 
-## Songwriter: None
+## Songwriter(s): None
 ### Last scheduled: Dec 4, 2022          
 
 Verse 1  

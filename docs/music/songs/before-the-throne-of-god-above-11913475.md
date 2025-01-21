@@ -5,7 +5,7 @@ tags: ['gods-attributes', 'jesus', 'lamb-of-god', 'majesty', 'redemption', 'savi
 
 [Planning Center](https://services.planningcenteronline.com/songs/11913475)
 
-## Songwriter: Charitie Lees Bancroft and Vikki Cook
+## Songwriter(s): Charitie Lees Bancroft and Vikki Cook
 ### Last scheduled: Nov 17, 2024          
 
 Verse 1  

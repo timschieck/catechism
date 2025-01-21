@@ -5,7 +5,7 @@ tags: ['awesome', 'bow', 'cross', 'father', 'glory-to-god-in-the-highest', 'holi
 
 [Planning Center](https://services.planningcenteronline.com/songs/9805211)
 
-## Songwriter: Louie Giglio and Chris Tomlin
+## Songwriter(s): Louie Giglio and Chris Tomlin
 ### Last scheduled: Oct 11, 2020          
 
 No Lyrics

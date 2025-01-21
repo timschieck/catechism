@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12727507)
 
-## Songwriter: Shane Barnard
+## Songwriter(s): Shane Barnard
 ### Last scheduled: Jun 24, 2018          
 
 No Lyrics

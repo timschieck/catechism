@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14617600)
 
-## Songwriter: Andi Rozier, Jason Ingram, and Meredith Andrews
+## Songwriter(s): Andi Rozier, Jason Ingram, and Meredith Andrews
 ### Last scheduled: Apr 28, 2019          
 
 Verse 1  

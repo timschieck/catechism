@@ -5,7 +5,7 @@ tags: ['exaltation', 'jesus', 'king', 'worship']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12291738)
 
-## Songwriter: Robert Grant, Johann Michael Haydn, and Chris Tomlin
+## Songwriter(s): Robert Grant, Johann Michael Haydn, and Chris Tomlin
 ### Last scheduled: Jun 5, 2022          
 
 Verse 1  

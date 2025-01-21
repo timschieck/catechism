@@ -5,7 +5,7 @@ tags: ['atonement', 'comfort', 'consecration', 'rock', 'testimony']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13731593)
 
-## Songwriter: Thomas Hastings and Augustus Montague Toplady
+## Songwriter(s): Thomas Hastings and Augustus Montague Toplady
 ### Last scheduled: Jun 16, 2024          
 
 VERSE 1  

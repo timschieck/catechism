@@ -5,7 +5,7 @@ tags: ['hope']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14554728)
 
-## Songwriter: Henri Frederick Hemy, Edward Mote, and James George Walton
+## Songwriter(s): Henri Frederick Hemy, Edward Mote, and James George Walton
 ### Last scheduled: Jun 2, 2024          
 
 Intro  

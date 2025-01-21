@@ -1,11 +1,11 @@
 ---
 title: "O Little Town Of Bethlehem"
-tags: ['christmas', 'o-little-town-of-bethleham', 'seasonal']
+tags: ['christmas', 'advent']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/16642529)
 
-## Songwriter: Phillips Brooks and Lewis Henry Redner
+## Songwriter(s): Phillips Brooks and Lewis Henry Redner
 ### Last scheduled: Dec 24, 2024          
 
 Verse 1  

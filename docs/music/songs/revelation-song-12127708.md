@@ -1,11 +1,11 @@
 ---
 title: "Revelation Song"
-tags: ['all-the-way-my-saviour-leads-me', 'call', 'christmas', 'communion', 'consumed', 'cross', 'forgiveness', 'gods-love', 'heaven', 'holy', 'holy-is-the-lord', 'craig-smith', 'how-he-loves', 'inside-out', 'king-of-kings', 'lamb', 'mig']
+tags: ['heaven', 'holy']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12127708)
 
-## Songwriter: Jennie Lee Riddle
+## Songwriter(s): Jennie Lee Riddle
 ### Last scheduled: May 27, 2018          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/15705584)
 
-## Songwriter: Chris Quilala and Phil Wickham
+## Songwriter(s): Chris Quilala and Phil Wickham
 ### Last scheduled: Oct 21, 2018          
 
 Verse 1  

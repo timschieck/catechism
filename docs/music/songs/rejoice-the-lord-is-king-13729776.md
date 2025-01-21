@@ -5,7 +5,7 @@ tags: ['gods-attributes', 'hope', 'love', 'truth']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13729776)
 
-## Songwriter: Dennis Allen, John Darwall, and Charles Wesley
+## Songwriter(s): Dennis Allen, John Darwall, and Charles Wesley
 ### Last scheduled: Sept 17, 2017          
 
 VERSE 1  

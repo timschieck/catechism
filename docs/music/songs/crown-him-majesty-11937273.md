@@ -5,7 +5,7 @@ tags: ['adoration', 'exaltation']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11937273)
 
-## Songwriter: Matthew Bridges, Ed Cash, George Job Elvey, Matt Maher, Godfrey Thring, and Chris Tomlin
+## Songwriter(s): Matthew Bridges, Ed Cash, George Job Elvey, Matt Maher, Godfrey Thring, and Chris Tomlin
 ### Last scheduled: Oct 8, 2023          
 
 Verse 1  

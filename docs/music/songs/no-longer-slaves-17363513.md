@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/17363513)
 
-## Songwriter: Jonathan David Helser and Melissa Helser
+## Songwriter(s): Jonathan David Helser and Melissa Helser
 ### Last scheduled: Nov 14, 2021          
 
 Verse 1  

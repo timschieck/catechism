@@ -5,7 +5,7 @@ tags: ['communion', 'contentment', 'cross', 'drifting', 'good-friday', 'gratitud
 
 [Planning Center](https://services.planningcenteronline.com/songs/14505610)
 
-## Songwriter: Lowell Mason, Jesse Reeves, Chris Tomlin, J. D. Walt, and Isaac Watts
+## Songwriter(s): Lowell Mason, Jesse Reeves, Chris Tomlin, J. D. Walt, and Isaac Watts
 ### Last scheduled: Sept 22, 2024          
 
 No Lyrics

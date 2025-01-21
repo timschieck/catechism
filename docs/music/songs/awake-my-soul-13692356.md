@@ -5,7 +5,7 @@ tags: ['life', 'renewal', 'salvation']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13692356)
 
-## Songwriter: Daniel Carson, Jesse Reeves, and Chris Tomlin
+## Songwriter(s): Daniel Carson, Jesse Reeves, and Chris Tomlin
 ### Last scheduled: Apr 7, 2019          
 
 Verse 1  

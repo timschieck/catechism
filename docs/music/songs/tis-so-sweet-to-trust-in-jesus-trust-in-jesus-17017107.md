@@ -5,7 +5,7 @@ tags: ['assurance', 'christian-life', 'cleansing', 'declaration', 'faith', 'grac
 
 [Planning Center](https://services.planningcenteronline.com/songs/17017107)
 
-## Songwriter: William James Kirkpatrick and Louisa M. R. Stead
+## Songwriter(s): William James Kirkpatrick and Louisa M. R. Stead
 ### Last scheduled: Oct 6, 2024          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['christmas', 'jesus', 'seasonal']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14780981)
 
-## Songwriter: Edmund Hamilton Sears and Richard Storrs Willis
+## Songwriter(s): Edmund Hamilton Sears and Richard Storrs Willis
 ### Last scheduled: Dec 4, 2022          
 
 Verse 1  

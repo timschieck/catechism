@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/16015471)
 
-## Songwriter: Aaron Ivey, Brett Land, Jaleesa McCreary, and Marcus Dawes
+## Songwriter(s): Aaron Ivey, Brett Land, Jaleesa McCreary, and Marcus Dawes
 ### Last scheduled: Sept 9, 2018          
 
 Verse 1  

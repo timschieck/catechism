@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/24270181)
 
-## Songwriter: Matt Boswell and Matt Papa
+## Songwriter(s): Matt Boswell and Matt Papa
 ### Last scheduled: Sept 8, 2024          
 
 Verse 1  

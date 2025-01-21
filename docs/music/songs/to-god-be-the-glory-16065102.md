@@ -5,7 +5,7 @@ tags: ['adoration', 'glory', 'gods-attributes', 'power', 'praise', 'rejoice', 't
 
 [Planning Center](https://services.planningcenteronline.com/songs/16065102)
 
-## Songwriter: Fanny J. Crosby, William H. Doane, and William Howard Doane
+## Songwriter(s): Fanny J. Crosby, William H. Doane, and William Howard Doane
 ### Last scheduled: Nov 12, 2023          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/17965733)
 
-## Songwriter: Dustin Kensrue
+## Songwriter(s): Dustin Kensrue
 ### Last scheduled: None          
 
 Verse 1  

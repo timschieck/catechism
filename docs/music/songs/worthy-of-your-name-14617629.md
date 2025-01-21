@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14617629)
 
-## Songwriter: Brett Younker and Sean Curran
+## Songwriter(s): Brett Younker and Sean Curran
 ### Last scheduled: None          
 
 Verse 1  

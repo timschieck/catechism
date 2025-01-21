@@ -5,7 +5,7 @@ tags: ['angels', 'christmas', 'singing']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12967683)
 
-## Songwriter: Chris Tomlin
+## Songwriter(s): Chris Tomlin
 ### Last scheduled: Dec 22, 2024          
 
 No Lyrics

@@ -5,7 +5,7 @@ tags: ['children', 'gods-attributes', 'grace', 'guidance', 'prayer', 'shepherd']
 
 [Planning Center](https://services.planningcenteronline.com/songs/16074272)
 
-## Songwriter: William Batchelder Bradbury and Dorothy A. Thrupp
+## Songwriter(s): William Batchelder Bradbury and Dorothy A. Thrupp
 ### Last scheduled: Sept 2, 2018          
 
 Verse 1  

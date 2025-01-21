@@ -5,7 +5,7 @@ tags: ['blood', 'cross', 'redemption', 'sacrifice', 'salvation']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13702739)
 
-## Songwriter: William Cowper and Lowell Mason
+## Songwriter(s): William Cowper and Lowell Mason
 ### Last scheduled: Sept 15, 2024          
 
 Verse 1  

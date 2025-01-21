@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12846216)
 
-## Songwriter: Brenton Brown, Brian Johnson, and Leeland Mooring
+## Songwriter(s): Brenton Brown, Brian Johnson, and Leeland Mooring
 ### Last scheduled: Jan 19, 2025          
 
 Verse 1  

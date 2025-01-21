@@ -5,7 +5,7 @@ tags: ['adoration', 'christian-life', 'praise', 'worship']
 
 [Planning Center](https://services.planningcenteronline.com/songs/10548561)
 
-## Songwriter: Matt Maher, Matt Redman, Jesse Reeves, and Tim Wanstall
+## Songwriter(s): Matt Maher, Matt Redman, Jesse Reeves, and Tim Wanstall
 ### Last scheduled: Dec 27, 2020          
 
 Verse 1  

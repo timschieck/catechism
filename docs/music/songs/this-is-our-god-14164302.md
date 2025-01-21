@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14164302)
 
-## Songwriter: Dave Fournier, Doug Plank, George Romanacce, Neil Degraide, and Zach Jones
+## Songwriter(s): Dave Fournier, Doug Plank, George Romanacce, Neil Degraide, and Zach Jones
 ### Last scheduled: Oct 20, 2019          
 
 Verse 1  

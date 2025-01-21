@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12127536)
 
-## Songwriter: Mary Elizabeth Byrne, Eleanor Henrietta Hull, and Rend Collective Experiment
+## Songwriter(s): Mary Elizabeth Byrne, Eleanor Henrietta Hull, and Rend Collective Experiment
 ### Last scheduled: Apr 7, 2019          
 
 Verse 1  

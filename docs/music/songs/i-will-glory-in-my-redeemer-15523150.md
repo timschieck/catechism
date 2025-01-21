@@ -5,7 +5,7 @@ tags: ['jesus', 'redemption', 'salvation', 'savior']
 
 [Planning Center](https://services.planningcenteronline.com/songs/15523150)
 
-## Songwriter: Steve Cook and Vikki Cook
+## Songwriter(s): Steve Cook and Vikki Cook
 ### Last scheduled: Oct 1, 2023          
 
 Verse 1  

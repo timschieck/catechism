@@ -5,7 +5,7 @@ tags: ['foundation', 'the-word', 'church', 'dedication', 'salvation']
 
 [Planning Center](https://services.planningcenteronline.com/songs/24966790)
 
-## Songwriter: Samuel John Stone and Samuel Sebastian Wesley
+## Songwriter(s): Samuel John Stone and Samuel Sebastian Wesley
 ### Last scheduled: May 5, 2024          
 
 Verse 1  

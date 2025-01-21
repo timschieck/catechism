@@ -5,7 +5,7 @@ tags: ['adoration', 'greatness', 'majesty', 'power', 'second-coming', 'worship']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11621975)
 
-## Songwriter: Stuart Wesley Keene Hine
+## Songwriter(s): Stuart Wesley Keene Hine
 ### Last scheduled: May 19, 2024          
 
 Verse 1  

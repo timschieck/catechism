@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12119630)
 
-## Songwriter: Travis Alan Cottrell, David Moffitt, and Sue C. Smith
+## Songwriter(s): Travis Alan Cottrell, David Moffitt, and Sue C. Smith
 ### Last scheduled: Nov 4, 2018          
 
 Verse 1  

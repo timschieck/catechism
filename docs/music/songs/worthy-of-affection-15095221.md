@@ -5,7 +5,7 @@ tags: ['deliverance', 'holiness', 'lordship-of-jesus', 'worthiness']
 
 [Planning Center](https://services.planningcenteronline.com/songs/15095221)
 
-## Songwriter: Shane Barnard and Shane Everett
+## Songwriter(s): Shane Barnard and Shane Everett
 ### Last scheduled: Jun 9, 2019          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['grace', 'jesus', 'worship']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14061486)
 
-## Songwriter: Matt Redman
+## Songwriter(s): Matt Redman
 ### Last scheduled: Nov 3, 2019          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['jesus', 'life', 'surrender']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12025173)
 
-## Songwriter: Jordan Kauflin
+## Songwriter(s): Jordan Kauflin
 ### Last scheduled: Jan 12, 2025          
 
 VERSE 1  

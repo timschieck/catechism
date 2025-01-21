@@ -5,7 +5,7 @@ tags: ['ancient-of-days', 'gods-attributes', 'light', 'praise', 'wisdom']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14681653)
 
-## Songwriter: John Roberts and Walter Chalmers Smith
+## Songwriter(s): John Roberts and Walter Chalmers Smith
 ### Last scheduled: Dec 15, 2024          
 
 Verse 1  

@@ -5,7 +5,7 @@ tags: ['grace', 'kingship', 'worthiness']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12000288)
 
-## Songwriter: Josh Farro, Jeremy Riddle, and Phil Wickham
+## Songwriter(s): Josh Farro, Jeremy Riddle, and Phil Wickham
 ### Last scheduled: Sept 1, 2024          
 
 Verse 1  

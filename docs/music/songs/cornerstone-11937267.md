@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11937267)
 
-## Songwriter: William Batchelder Bradbury, Eric Liljero, Reuben Morgan, Edward Mote, and Jonas Myrin
+## Songwriter(s): William Batchelder Bradbury, Eric Liljero, Reuben Morgan, Edward Mote, and Jonas Myrin
 ### Last scheduled: Aug 18, 2024          
 
 Verse 1  

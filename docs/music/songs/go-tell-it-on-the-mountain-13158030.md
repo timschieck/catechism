@@ -5,7 +5,7 @@ tags: ['christmas', 'evangelism', 'jesus', 'mission', 'proclamation', 'seasonal'
 
 [Planning Center](https://services.planningcenteronline.com/songs/13158030)
 
-## Songwriter: John W. Work
+## Songwriter(s): John W. Work
 ### Last scheduled: Dec 1, 2024          
 
 Chorus 1  

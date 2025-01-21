@@ -5,7 +5,7 @@ tags: ['crucifixion', 'jesus', 'reconciliation', 'redemption', 'sacrifice']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12050114)
 
-## Songwriter: John Thomas Grape, Elvina M. Hall, and Alex Nifong
+## Songwriter(s): John Thomas Grape, Elvina M. Hall, and Alex Nifong
 ### Last scheduled: Sept 29, 2024          
 
 Verse 1  

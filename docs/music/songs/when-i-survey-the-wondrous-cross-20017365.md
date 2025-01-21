@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/20017365)
 
-## Songwriter: Isaac Watts
+## Songwriter(s): Isaac Watts
 ### Last scheduled: Jan 21, 2024          
 
 VERSE 1  

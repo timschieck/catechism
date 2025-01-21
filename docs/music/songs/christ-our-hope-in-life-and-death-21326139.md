@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/21326139)
 
-## Songwriter: Jordan Kauflin, Keith Getty, Matt Boswell, Matt Papa, and Matthew Merker
+## Songwriter(s): Jordan Kauflin, Keith Getty, Matt Boswell, Matt Papa, and Matthew Merker
 ### Last scheduled: Nov 24, 2024          
 
 Intro  

@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/15692206)
 
-## Songwriter: Shane Barnard
+## Songwriter(s): Shane Barnard
 ### Last scheduled: Jun 17, 2018          
 
 Chorus 1  

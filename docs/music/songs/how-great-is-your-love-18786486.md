@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/18786486)
 
-## Songwriter: Phil Wickham, Kristian Stanfill, and Brett Younker
+## Songwriter(s): Phil Wickham, Kristian Stanfill, and Brett Younker
 ### Last scheduled: Mar 15, 2020          
 
 No Lyrics

@@ -5,7 +5,7 @@ tags: ['christmas', 'seasonal']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14899890)
 
-## Songwriter: Terl Bryant, C. Frederick Oakley, Matt Redman, and John Francis Wade
+## Songwriter(s): Terl Bryant, C. Frederick Oakley, Matt Redman, and John Francis Wade
 ### Last scheduled: Dec 8, 2019          
 
 Verse 1  

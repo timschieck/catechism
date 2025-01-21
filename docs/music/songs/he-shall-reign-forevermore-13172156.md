@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13172156)
 
-## Songwriter: Chris Tomlin and Matt Maher
+## Songwriter(s): Chris Tomlin and Matt Maher
 ### Last scheduled: Dec 2, 2018          
 
 Verse 1  

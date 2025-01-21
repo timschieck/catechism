@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/11909231)
 
-## Songwriter: Rend Collective Experiment
+## Songwriter(s): Rend Collective Experiment
 ### Last scheduled: Feb 6, 2022          
 
 Verse 1  

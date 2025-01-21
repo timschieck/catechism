@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/15292590)
 
-## Songwriter: Dustin R. Smith, James Ferguson, and Rich Thompson
+## Songwriter(s): Dustin R. Smith, James Ferguson, and Rich Thompson
 ### Last scheduled: Jul 16, 2023          
 
 Chorus 1  

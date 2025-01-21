@@ -5,7 +5,7 @@ tags: ['advent', 'christmas', 'eternal-life', 'hope', 'jesus', 'kingship', 'libe
 
 [Planning Center](https://services.planningcenteronline.com/songs/13041515)
 
-## Songwriter: Rowland Hugh Prichard and Charles Wesley
+## Songwriter(s): Rowland Hugh Prichard and Charles Wesley
 ### Last scheduled: Dec 1, 2024          
 
 No Lyrics

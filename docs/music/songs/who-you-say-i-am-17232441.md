@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/17232441)
 
-## Songwriter: Ben Fielding and Reuben Morgan
+## Songwriter(s): Ben Fielding and Reuben Morgan
 ### Last scheduled: Apr 14, 2019          
 
 Verse 1  

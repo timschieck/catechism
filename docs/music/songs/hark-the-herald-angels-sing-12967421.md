@@ -5,7 +5,7 @@ tags: ['angels', 'christmas', 'praise', 'proclamation', 'rejoice', 'seasonal']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12967421)
 
-## Songwriter: Felix Mendelssohn and Charles Wesley
+## Songwriter(s): Felix Mendelssohn and Charles Wesley
 ### Last scheduled: Dec 24, 2024          
 
 Verse 1  

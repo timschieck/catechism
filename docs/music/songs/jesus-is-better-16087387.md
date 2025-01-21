@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/16087387)
 
-## Songwriter: Aaron Ivey and Brett Land
+## Songwriter(s): Aaron Ivey and Brett Land
 ### Last scheduled: Jul 21, 2019          
 
 Verse 1  

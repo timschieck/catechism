@@ -5,7 +5,7 @@ tags: ['adoration', 'almighty', 'awesome', 'character', 'declaration', 'exaltati
 
 [Planning Center](https://services.planningcenteronline.com/songs/12119610)
 
-## Songwriter: John Bacchus Dykes and Reginald Heber
+## Songwriter(s): John Bacchus Dykes and Reginald Heber
 ### Last scheduled: Nov 10, 2024          
 
 No Lyrics

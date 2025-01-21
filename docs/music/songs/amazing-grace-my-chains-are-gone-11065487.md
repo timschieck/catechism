@@ -5,7 +5,7 @@ tags: ['commitment', 'content', 'enough', 'freedom', 'grace', 'mercy', 'party', 
 
 [Planning Center](https://services.planningcenteronline.com/songs/11065487)
 
-## Songwriter: Edwin Othello Excell, Louie Giglio, John Newton, John P. Rees, and Chris Tomlin
+## Songwriter(s): Edwin Othello Excell, Louie Giglio, John Newton, John P. Rees, and Chris Tomlin
 ### Last scheduled: Mar 29, 2020          
 
 Verse 1  

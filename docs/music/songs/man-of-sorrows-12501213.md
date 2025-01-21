@@ -5,7 +5,7 @@ tags: ['cross', 'easter', 'resurrection', 'sacrifice']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12501213)
 
-## Songwriter: Matt Crocker and Brooke Ligertwood
+## Songwriter(s): Matt Crocker and Brooke Ligertwood
 ### Last scheduled: Mar 30, 2018          
 
 Verse 1  

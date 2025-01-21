@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/26663170)
 
-## Songwriter: Bryan Fowler, Keith Getty, Matt Boswell, and Matt Papa
+## Songwriter(s): Bryan Fowler, Keith Getty, Matt Boswell, and Matt Papa
 ### Last scheduled: Nov 24, 2024          
 
 Intro  

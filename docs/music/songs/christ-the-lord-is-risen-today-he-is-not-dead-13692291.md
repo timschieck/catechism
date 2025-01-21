@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13692291)
 
-## Songwriter: Charles Wesley, Kurtis Parks, and Samuel Arnold
+## Songwriter(s): Charles Wesley, Kurtis Parks, and Samuel Arnold
 ### Last scheduled: Jul 28, 2024          
 
 Verse 1  

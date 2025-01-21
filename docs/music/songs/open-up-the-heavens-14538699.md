@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/14538699)
 
-## Songwriter: Meredith Andrews, Stuart Garrard, James McDonald, and Andi Rozier
+## Songwriter(s): Meredith Andrews, Stuart Garrard, James McDonald, and Andi Rozier
 ### Last scheduled: Oct 28, 2018          
 
 Verse 1  

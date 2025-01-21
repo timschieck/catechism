@@ -5,7 +5,7 @@ tags: ['atonement', 'cross', 'jesus', 'thankfulness']
 
 [Planning Center](https://services.planningcenteronline.com/songs/13557045)
 
-## Songwriter: Pat Sczebel
+## Songwriter(s): Pat Sczebel
 ### Last scheduled: Jun 16, 2019          
 
 Verse 1  

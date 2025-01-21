@@ -5,7 +5,7 @@ tags: ['no-themes']
 
 [Planning Center](https://services.planningcenteronline.com/songs/21465605)
 
-## Songwriter: Brian Johnson, Mack Brock, and Phil Wickham
+## Songwriter(s): Brian Johnson, Mack Brock, and Phil Wickham
 ### Last scheduled: Feb 26, 2023          
 
 Verse 1  

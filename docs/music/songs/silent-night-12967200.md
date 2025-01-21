@@ -5,7 +5,7 @@ tags: ['advent', 'birth', 'children', 'christmas', 'holiness', 'jesus', 'lamb-of
 
 [Planning Center](https://services.planningcenteronline.com/songs/12967200)
 
-## Songwriter: Franz Xaver Gruber
+## Songwriter(s): Franz Xaver Gruber
 ### Last scheduled: Jan 31, 2021          
 
 Verse 1  

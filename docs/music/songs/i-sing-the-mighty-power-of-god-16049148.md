@@ -5,7 +5,7 @@ tags: ['creation', 'declaration', 'music-singing', 'nature', 'praise']
 
 [Planning Center](https://services.planningcenteronline.com/songs/16049148)
 
-## Songwriter: Isaac Watts
+## Songwriter(s): Isaac Watts
 ### Last scheduled: Sept 2, 2018          
 
 Verse 1  

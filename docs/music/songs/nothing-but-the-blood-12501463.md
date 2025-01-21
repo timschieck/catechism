@@ -5,7 +5,7 @@ tags: ['blood', 'grace', 'righteousness', 'salvation', 'sanctification']
 
 [Planning Center](https://services.planningcenteronline.com/songs/12501463)
 
-## Songwriter: Robert Lowry
+## Songwriter(s): Robert Lowry
 ### Last scheduled: Aug 4, 2024          
 
 No Lyrics
