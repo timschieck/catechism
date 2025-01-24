@@ -1,12 +1,12 @@
 ---
 title: "His Mercy Is More"
-tags: ['no-themes']
+tags: ['forgiveness', 'gods-love', 'mercy', 'praise', 'redemption', 'salvation']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/16091305)
 
 ## Songwriter(s): Matt Boswell and Matt Papa
-### Last scheduled: Jun 9, 2024          
+### Last scheduled: Jan 26, 2025          
 
 Verse 1  
 What love could re - member no wrongs we have done  

@@ -6,7 +6,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/12807736)
 
 ## Songwriter(s): Nate Garvey, Adoniram Judson Gordon, and W. Spencer Walton
-### Last scheduled: Sept 8, 2024          
+### Last scheduled: Jan 26, 2025          
 
 Verse 1  
   

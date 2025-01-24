@@ -1,6 +1,6 @@
 ---
 title: "All Glory Be To Christ"
-tags: ['no-themes']
+tags: ['christ', 'glory']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/13232516)

@@ -1,12 +1,12 @@
 ---
 title: "All My Boast Is In Jesus"
-tags: ['no-themes']
+tags: ['cross', 'glory', 'hope', 'jesus']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/26663170)
 
 ## Songwriter(s): Bryan Fowler, Keith Getty, Matt Boswell, and Matt Papa
-### Last scheduled: Nov 24, 2024          
+### Last scheduled: Jan 26, 2025          
 
 Intro  
   
