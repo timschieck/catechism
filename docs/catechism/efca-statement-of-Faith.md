@@ -1,6 +1,7 @@
 ---
 title: EFCA Statement of Faith
 ---
+The following has been adapted from the EFCA Statement of Faith (June 9th, 2019) to be used in a question and answer format for public worship services.
 
 ## 1. God
 We believe in one God, Creator of all things, holy, infinitely perfect, and eternally existing in a loving unity of three equally divine Persons: the Father, the Son and the Holy Spirit. Having limitless knowledge and sovereign power, God has graciously purposed from eternity to redeem a people for Himself and to make all things new for His own glory. 
@@ -31,7 +32,11 @@ We believe that Jesus Christ, as our representative and substitute, shed His blo
 ## 7. The Church
 We believe that the true church comprises all who have been justified by God's grace through faith alone in Christ alone. They are united by the Holy Spirit in the body of Christ, of which He is the Head. The true church is manifest in local churches, whose membership should be composed only of believers. The Lord Jesus mandated two ordinances, baptism and the Lord’s Supper, which visibly and tangibly express the gospel. Though they are not the means of salvation, when celebrated by the church in genuine faith, these ordinances confirm and nourish the believer.
 ## 8. Christian Living
-We believe that God's justifying grace must not be separated from His sanctifying power and purpose. God commands us to love Him supremely and others sacrificially, and to live out our faith with care for one another, compassion toward the poor and justice for the oppressed. With God’s Word, the Spirit’s power, and fervent prayer in Christ’s name, we are to combat the spiritual forces of evil. In obedience to Christ’s commission, we are to make disciples among all people, always bearing witness to the gospel in word and deed.
+**Leader:** How are we to live in this present time as children of God who have been wholly forgiven of sin?
+**All:** We believe that God's justifying grace must not be separated from His sanctifying power and purpose. God commands us to love Him supremely and others sacrificially, and to live out our faith with care for one another, compassion toward the poor and justice for the oppressed. 
+**Leader:** What are the works that God has prepared for us to do?
+**All:** With God’s Word, the Spirit’s power, and fervent prayer in Christ’s name, we are to combat the spiritual forces of evil. In obedience to Christ’s commission, we are to make disciples among all people, always bearing witness to the gospel in word and deed.
+
 ## 9. Christ’s Return
 We believe in the personal, bodily and glorious return of our Lord Jesus Christ. The coming of Christ, at a time known only to God, demands constant expectancy and, as our blessed hope, motivates the believer to godly living, sacrificial service and energetic mission.
 ## 10. Response and Eternal Destiny
