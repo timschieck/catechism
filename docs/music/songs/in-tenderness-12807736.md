@@ -1,6 +1,6 @@
 ---
 title: "In Tenderness"
-tags: ['no-themes']
+tags: ['adoration', 'atonement', 'blood', 'grace', 'jesus', 'lamb-of-god', 'love', 'praise', 'sacrifice']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12807736)

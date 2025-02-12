@@ -1,11 +1,11 @@
 ---
 title: "Holy Holy Holy (Nicaea)"
-tags: ['adoration', 'almighty', 'awesome', 'character', 'declaration', 'exaltation', 'faith', 'gods-creation', 'greatness', 'heaven', 'holiness', 'honor', 'living-water', 'lordship-of-jesus', 'majesty', 'mercy', 'om']
+tags: ['adoration', 'almighty', 'awesome', 'exaltation', 'faith', 'greatness', 'heaven', 'holiness', 'holy', 'lordship', 'majesty', 'mercy']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12119610)
 
 ## Songwriter(s): John Bacchus Dykes and Reginald Heber
-### Last scheduled: Nov 10, 2024          
+### Last scheduled: Feb 2, 2025          
 
 No Lyrics
