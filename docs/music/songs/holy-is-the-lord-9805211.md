@@ -1,6 +1,6 @@
 ---
 title: "Holy Is The Lord"
-tags: ['awesome', 'bow', 'cross', 'father', 'glory-to-god-in-the-highest', 'holiness', 'joy', 'lifting-of-hands', 'missions', 'purpose', 'relationship', 'repent', 'singing', 'struggling-as-a-christian', 'trials', 'unashamed', 'worship']
+tags: ['awesome', 'holiness', 'joy']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/9805211)

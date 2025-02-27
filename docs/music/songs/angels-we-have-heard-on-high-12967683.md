@@ -1,6 +1,6 @@
 ---
 title: "Angels We Have Heard On High"
-tags: ['angels', 'christmas', 'singing']
+tags: ['christmas', 'singing', 'advent']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12967683)

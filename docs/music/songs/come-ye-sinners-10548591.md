@@ -1,12 +1,12 @@
 ---
 title: "Come Ye Sinners"
-tags: ['bread-of-life', 'healing', 'jesus', 'savior', 'shepherd', 'sin']
+tags: ['healing', 'jesus', 'savior', 'shepherd', 'sin']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/10548591)
 
 ## Songwriter(s): Dan Hamilton, Taylor Johnson, Ryan Owens, and Robbie Seay
-### Last scheduled: Jun 30, 2024          
+### Last scheduled: Feb 23, 2025          
 
 Verse 1  
   
@@ -36,11 +36,12 @@ Lost and ruined by the fall
 If you tarry till you're better  
 You will never come at all  
   
+  
 Verse 4  
   
 Let not conscience make you linger  
 Nor of fitness fondly dream  
-He requireth  
+All the fitness He requireth  
 Is to feel you rneed of him  
   
 Chorus 2  

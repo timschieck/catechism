@@ -1,6 +1,6 @@
 ---
 title: "Immortal Invisible"
-tags: ['ancient-of-days', 'gods-attributes', 'light', 'praise', 'wisdom']
+tags: ['light', 'praise', 'wisdom']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/14681653)

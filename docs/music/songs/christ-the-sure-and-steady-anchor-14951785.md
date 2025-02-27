@@ -6,7 +6,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/14951785)
 
 ## Songwriter(s): Matthew Boswell and Matthew Papa
-### Last scheduled: Nov 10, 2024          
+### Last scheduled: Feb 23, 2025          
 
 Verse 1  
   

@@ -1,6 +1,6 @@
 ---
 title: "O Come All Ye Faithful"
-tags: ['adoration', 'another-chance', 'christmas', 'jesus-loves-me', 'praise', 'seasonal']
+tags: ['adoration', 'christmas']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12967171)

@@ -1,6 +1,6 @@
 ---
 title: "Silent Night"
-tags: ['advent', 'birth', 'children', 'christmas', 'holiness', 'jesus', 'lamb-of-god', 'lordship-of-jesus', 'messiah', 'peace', 'reverence', 'savior', 'saviour', 'son-of-god']
+tags: ['advent', 'christmas', 'lordship', 'messiah', 'peace', 'reverence', 'savior', 'son-of-god']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12967200)

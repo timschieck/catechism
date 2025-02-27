@@ -1,6 +1,6 @@
 ---
 title: "Mighty To Save"
-tags: ['anger', 'baptism', 'beautiful', 'communion', 'compassion', 'easter', 'evangelism', 'faithful', 'forgiveness', 'god-you-reing', 'help', 'his-love', 'holy-spirit', 'hope', 'joshua-11-6', 'journey', 'joy', 'kingdom', 'kingdom-od-god', 'li']
+tags: ['compassion', 'salvation']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12280128)

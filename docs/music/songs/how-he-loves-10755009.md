@@ -1,12 +1,12 @@
 ---
 title: "How He Loves"
-tags: ['amazed-by-you', 'father', 'follow-you', 'glory', 'gods-attributes', 'how-he-loves', 'how-he-loves-by-kim-walker', 'i-give-myself-away', 'love', 'oh-how-he-loves-us', 'wisdom']
+tags: ['father', 'glory', 'love']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/10755009)
 
 ## Songwriter(s): John Mark McMillan
-### Last scheduled: Nov 3, 2024          
+### Last scheduled: Feb 16, 2025          
 
 Verse 1  
   

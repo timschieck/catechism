@@ -1,6 +1,6 @@
 ---
 title: "Joyful Joyful We Adore Thee"
-tags: ['ceremony', 'wedding', 'joy', 'gods-attributes', 'father', 'praise', 'adoration', 'rejoice', 'worship']
+tags: ['joy', 'father', 'praise', 'adoration', 'rejoice']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/21944372)

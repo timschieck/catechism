@@ -1,6 +1,6 @@
 ---
 title: "Hark The Herald Angels Sing"
-tags: ['angels', 'christmas', 'praise', 'proclamation', 'rejoice', 'seasonal']
+tags: ['christmas', 'praise', 'proclamation', 'rejoice']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12967421)
