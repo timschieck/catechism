@@ -1,6 +1,6 @@
 ---
 title: "Christ Is Mine Forevermore"
-tags: ['no-themes']
+tags: ['christ', 'eternal']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/15169772)

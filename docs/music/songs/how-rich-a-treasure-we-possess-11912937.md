@@ -1,6 +1,6 @@
 ---
 title: "How Rich A Treasure We Possess"
-tags: ['no-themes']
+tags: ['blood', 'forgiveness', 'redemption', 'treasure']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/11912937)

@@ -6,7 +6,7 @@ tags: ['creation', 'creator', 'kingship']
 [Planning Center](https://services.planningcenteronline.com/songs/13009881)
 
 ## Songwriter(s): Maltbie D. Babcock, Aaron Purdy, Jennie Lee Riddle, and Franklin Lawrence Sheppard
-### Last scheduled: Nov 5, 2023          
+### Last scheduled: Mar 2, 2025          
 
 Verse 1  
   

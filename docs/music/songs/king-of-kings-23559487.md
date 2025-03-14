@@ -6,7 +6,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/23559487)
 
 ## Songwriter(s): Brooke Ligertwood, Jason Ingram, and Scott Ligertwood
-### Last scheduled: Sept 1, 2024          
+### Last scheduled: Mar 9, 2025          
 
 VERSE 1  
 In the darkness we were waiting  
