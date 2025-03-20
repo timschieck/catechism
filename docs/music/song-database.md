@@ -10,7 +10,7 @@
 | [All Hail The Power Of Jesus Name](songs/all-hail-the-power-of-jesus-name-23673984.md) | ['gospel', 'christ', 'majesty', 'name-of-jesus', 'gods-attributes', 'power', 'lordship-of-jesus', 'jesus', 'praise', 'adoration', 'eternal-life', 'grace', 'worship'] | 2024-09-08 |
 | [All I Have Is Christ](songs/all-i-have-is-christ-12025173.md) | ['jesus', 'life', 'surrender'] | 2025-01-12 |
 | [All My Boast Is In Jesus](songs/all-my-boast-is-in-jesus-26663170.md) | ['cross', 'glory', 'hope', 'jesus'] | 2025-01-26 |
-| [All The Poor And Powerless](songs/all-the-poor-and-powerless-12750908.md) | ['praise', 'proclamation', 'worship'] | None |
+| [All The Poor And Powerless](songs/all-the-poor-and-powerless-12750908.md) | ['praise', 'proclamation', 'worship'] | 2000-01-01 |
 | [Always](songs/always-9805217.md) | ['faith', 'god-incarnate', 'help', 'suffering-trials', 'trust'] | 2021-10-10 |
 | [Amazing Grace](songs/amazing-grace-14965967.md) | ['adoration', 'assurance', 'deliverance', 'grace', 'leadership', 'love', 'praise', 'redemption', 'salvation', 'testimony'] | 2025-03-02 |
 | [Amazing Grace (My Chains Are Gone)](songs/amazing-grace-my-chains-are-gone-11065487.md) | ['commitment', 'content', 'enough', 'freedom', 'grace', 'mercy', 'party', 'testimony'] | 2020-03-29 |
@@ -73,7 +73,7 @@
 | [He Shall Reign Forevermore](songs/he-shall-reign-forevermore-13172156.md) | ['no-themes'] | 2018-12-02 |
 | [He Will Hold Me Fast](songs/he-will-hold-me-fast-12092634.md) | ['no-themes'] | 2025-01-19 |
 | [Here For You](songs/here-for-you-10548561.md) | ['adoration', 'christian-life', 'praise', 'worship'] | 2020-12-27 |
-| [Here Is Love](songs/here-is-love-10633575.md) | ['gods-attributes', 'gods-love', 'love', 'proclamation'] | None |
+| [Here Is Love](songs/here-is-love-10633575.md) | ['gods-attributes', 'gods-love', 'love', 'proclamation'] | 2000-01-01 |
 | [His Mercy Is More](songs/his-mercy-is-more-16091305.md) | ['forgiveness', 'gods-love', 'mercy', 'praise', 'redemption', 'salvation'] | 2025-01-26 |
 | [Holy Holy Holy (Nicaea)](songs/holy-holy-holy-nicaea-12119610.md) | ['adoration', 'almighty', 'awesome', 'exaltation', 'faith', 'greatness', 'heaven', 'holiness', 'holy', 'lordship', 'majesty', 'mercy'] | 2025-02-02 |
 | [Holy Is The Lord](songs/holy-is-the-lord-9805211.md) | ['awesome', 'holiness', 'joy'] | 2020-10-11 |
@@ -113,15 +113,15 @@
 | [Joy To The World](songs/joy-to-the-world-13132288.md) | ['adoration', 'birth', 'christmas', 'gods-love', 'gods-sovereignty', 'joy', 'proclamation'] | 2024-12-08 |
 | [Joyful Joyful We Adore Thee](songs/joyful-joyful-we-adore-thee-21944372.md) | ['joy', 'father', 'praise', 'adoration', 'rejoice'] | 2023-11-12 |
 | [Just As I Am](songs/just-as-i-am-12119630.md) | ['no-themes'] | 2018-11-04 |
-| [King Of All The Earth](songs/king-of-all-the-earth-12893729.md) | ['adoration', 'jesus', 'kingship', 'praise'] | None |
-| [King Of Heaven](songs/king-of-heaven-14732714.md) | ['no-themes'] | None |
+| [King Of All The Earth](songs/king-of-all-the-earth-12893729.md) | ['adoration', 'jesus', 'kingship', 'praise'] | 2000-01-01 |
+| [King Of Heaven](songs/king-of-heaven-14732714.md) | ['no-themes'] | 2000-01-01 |
 | [King Of Kings](songs/king-of-kings-23559487.md) | ['blood', 'christ', 'cross', 'gods-love', 'jesus', 'praise', 'redemption', 'resurrection', 'salvation', 'trinity'] | 2025-03-09 |
 | [King Of My Heart](songs/king-of-my-heart-17743800.md) | ['no-themes'] | 2024-09-01 |
 | [Lamb Of God](songs/lamb-of-god-14617600.md) | ['no-themes'] | 2019-04-28 |
 | [Life Defined](songs/life-defined-15692206.md) | ['no-themes'] | 2018-06-17 |
 | [Lift Your Head Weary Sinner (Chains)](songs/lift-your-head-weary-sinner-chains-12590652.md) | ['no-themes'] | 2018-09-09 |
 | [Living Hope](songs/living-hope-16755701.md) | ['no-themes'] | 2024-11-03 |
-| [Lord From Sorrows Deep I Call](songs/lord-from-sorrows-deep-i-call-24270181.md) | ['no-themes'] | 2025-03-23 |
+| [Lord From Sorrows Deep I Call](songs/lord-from-sorrows-deep-i-call-24270181.md) | ['faith', 'foundation', 'hope', 'petition', 'praise', 'prayer', 'rock', 'salvation', 'sorrow', 'trust'] | 2025-03-23 |
 | [Lord I Need You](songs/lord-i-need-you-11909243.md) | ['confession', 'declaration', 'praise', 'worship'] | 2025-03-09 |
 | [Man Of Sorrows](songs/man-of-sorrows-12501213.md) | ['cross', 'easter', 'resurrection', 'sacrifice'] | 2018-03-30 |
 | [Mercy](songs/mercy-13817972.md) | ['mercy', 'praise', 'singing'] | 2019-08-04 |
@@ -131,21 +131,21 @@
 | [My God is All I Need](songs/my-god-is-all-i-need-24470745.md) | ['no-themes'] | 2025-01-05 |
 | [My Hope](songs/my-hope-12553306.md) | ['assurance', 'faith', 'foundation', 'hope', 'rock', 'testimony'] | 2024-10-20 |
 | [My Hope Is Built On Nothing Less](songs/my-hope-is-built-on-nothing-less-14554728.md) | ['hope'] | 2024-06-02 |
-| [My One Comfort](songs/my-one-comfort-17965733.md) | ['no-themes'] | None |
+| [My One Comfort](songs/my-one-comfort-17965733.md) | ['no-themes'] | 2000-01-01 |
 | [My Victory](songs/my-victory-12280616.md) | ['no-themes'] | 2019-11-17 |
 | [Nailed to the Cross](songs/nailed-to-the-cross-14643442.md) | ['no-themes'] | 2019-04-19 |
 | [No Longer Slaves](songs/no-longer-slaves-17363513.md) | ['no-themes'] | 2021-11-14 |
-| [No Longer Slaves](songs/no-longer-slaves-18013882.md) | ['no-themes'] | None |
+| [No Longer Slaves](songs/no-longer-slaves-18013882.md) | ['no-themes'] | 2000-01-01 |
 | [Nothing But The Blood](songs/nothing-but-the-blood-12501463.md) | ['blood', 'grace', 'righteousness', 'salvation', 'sanctification'] | 2025-02-02 |
 | [O Come All Ye Faithful](songs/o-come-all-ye-faithful-12967171.md) | ['adoration', 'christmas'] | 2023-12-24 |
 | [O Come Let Us Adore Him](songs/o-come-let-us-adore-him-14899890.md) | ['christmas', 'seasonal'] | 2019-12-08 |
 | [O Come O Come Emmanuel](songs/o-come-o-come-emmanuel-11065475.md) | ['advent', 'christmas', 'heaven', 'jesus', 'liberty', 'light', 'salvation', 'seasonal', 'the-light', 'victory'] | 2024-12-24 |
 | [O Come To The Altar](songs/o-come-to-the-altar-15238594.md) | ['no-themes'] | 2023-07-02 |
-| [O Fount Of Love](songs/o-fount-of-love-11912963.md) | ['no-themes'] | None |
+| [O Fount Of Love](songs/o-fount-of-love-11912963.md) | ['no-themes'] | 2000-01-01 |
 | [O God Of Our Salvation](songs/o-god-of-our-salvation-12318977.md) | ['redemption', 'salvation'] | 2016-09-18 |
 | [O Holy Night](songs/o-holy-night-13170113.md) | ['christmas', 'jesus', 'joy', 'seasonal'] | 2024-12-22 |
 | [O Little Town Of Bethlehem](songs/o-little-town-of-bethlehem-16642529.md) | ['christmas', 'advent'] | 2024-12-24 |
-| [O Praise Him](songs/o-praise-him-10933465.md) | ['holiness', 'praise'] | None |
+| [O Praise Him](songs/o-praise-him-10933465.md) | ['holiness', 'praise'] | 2000-01-01 |
 | [O Praise The Name (Anástasis)](songs/o-praise-the-name-anástasis-14310026.md) | ['easter'] | 2024-09-22 |
 | [O Sacred Head Now Wounded](songs/o-sacred-head-now-wounded-13729582.md) | ['crucifixion', 'friendship', 'refuge', 'salvation'] | 2017-04-14 |
 | [O Worship The King](songs/o-worship-the-king-12291738.md) | ['exaltation', 'jesus', 'king', 'worship'] | 2022-06-05 |
@@ -157,13 +157,13 @@
 | [Open Up The Heavens](songs/open-up-the-heavens-14538699.md) | ['no-themes'] | 2018-10-28 |
 | [Our God](songs/our-god-10633557.md) | ['courage', 'declaration', 'faith', 'god', 'incarnate', 'greatness', 'great', 'justice', 'miracles'] | 2019-07-21 |
 | [Praise My Soul The King Of Heaven](songs/praise-my-soul-the-king-of-heaven-25919245.md) | ['no-themes'] | 2024-03-17 |
-| [Praise The King](songs/praise-the-king-11909207.md) | ['no-themes'] | 2025-03-16 |
+| [Praise The King](songs/praise-the-king-11909207.md) | ['alive', 'easter', 'forgiveness', 'praise', 'resurrection'] | 2025-03-16 |
 | [Praise To The Lord The Almighty](songs/praise-to-the-lord-the-almighty-13730270.md) | ['adoration', 'creation', 'gods-protection', 'praise'] | 2025-02-09 |
 | [Psalm 139: Far Too Wonderful](songs/psalm-139-far-too-wonderful-16894308.md) | ['no-themes'] | 2019-02-10 |
 | [Psalm 46 (Lord Of Hosts)](songs/psalm-46-lord-of-hosts-12553346.md) | ['no-themes'] | 2018-05-20 |
 | [Psalm 51: Wisdom In The Secret Heart](songs/psalm-51-wisdom-in-the-secret-heart-12727507.md) | ['no-themes'] | 2018-06-24 |
 | [Reason I Sing](songs/reason-i-sing-26849791.md) | ['hope', 'praise', 'salvation', 'singing'] | 2024-10-13 |
-| [Rejoice](songs/rejoice-12470476.md) | ['no-themes'] | 2025-03-16 |
+| [Rejoice](songs/rejoice-12470476.md) | ['covenant', 'father', 'gods-love', 'rejoice'] | 2025-03-16 |
 | [Rejoice The Lord Is King](songs/rejoice-the-lord-is-king-13729776.md) | ['gods-attributes', 'hope', 'love', 'truth'] | 2017-09-17 |
 | [Rescuer](songs/rescuer-14405378.md) | ['no-themes'] | 2020-01-19 |
 | [Revelation Song](songs/revelation-song-12127708.md) | ['heaven', 'holy'] | 2018-05-27 |
@@ -196,7 +196,7 @@
 | [This Is Our God](songs/this-is-our-god-14164302.md) | ['no-themes'] | 2019-10-20 |
 | [Thou Didst Leave Thy Throne](songs/thou-didst-leave-thy-throne-27252590.md) | ['sacrifice', 'kingship', 'salvation', 'rejoice', 'christmas', 'son-of-god'] | 2024-12-01 |
 | [To God Be The Glory](songs/to-god-be-the-glory-16065102.md) | ['adoration', 'glory', 'gods-attributes', 'power', 'praise', 'rejoice', 'testimony', 'worship'] | 2023-11-12 |
-| [To The Cross I Cling](songs/to-the-cross-i-cling-11912929.md) | ['no-themes'] | None |
+| [To The Cross I Cling](songs/to-the-cross-i-cling-11912929.md) | ['no-themes'] | 2000-01-01 |
 | [Trust And Obey](songs/trust-and-obey-14117743.md) | ['assurance', 'baptism', 'devotion', 'life', 'obedience', 'testimony', 'trust'] | 2022-07-10 |
 | [Trust You](songs/trust-you-12634358.md) | ['no-themes'] | 2024-12-29 |
 | [Turn Your Eyes](songs/turn-your-eyes-27614907.md) | ['adoration', 'encouragement', 'jesus', 'light'] | 2025-02-09 |
@@ -204,15 +204,15 @@
 | [We Have A Saviour](songs/we-have-a-saviour-14695295.md) | ['no-themes'] | 2023-12-24 |
 | [We've A Story To Tell](songs/weve-a-story-to-tell-24286132.md) | ['no-themes'] | 2023-05-21 |
 | [Weep With Me](songs/weep-with-me-16816385.md) | ['no-themes'] | 2019-08-11 |
-| [Were You There](songs/were-you-there-13736346.md) | ['ascension', 'crucifixion', 'jesus', 'resurrection', 'sacrifice'] | None |
+| [Were You There](songs/were-you-there-13736346.md) | ['ascension', 'crucifixion', 'jesus', 'resurrection', 'sacrifice'] | 2000-01-01 |
 | [What A Beautiful Name](songs/what-a-beautiful-name-14550679.md) | ['no-themes'] | 2025-02-09 |
-| [What A Friend We Have In Jesus](songs/what-a-friend-we-have-in-jesus-25088000.md) | ['friendship', 'jesus', 'prayer'] | None |
+| [What A Friend We Have In Jesus](songs/what-a-friend-we-have-in-jesus-25088000.md) | ['friendship', 'jesus', 'prayer'] | 2000-01-01 |
 | [What Child Is This](songs/what-child-is-this-12967186.md) | ['advent', 'birth', 'christmas', 'honor', 'jesus', 'joy', 'kingship', 'messiah', 'reverence', 'salvation', 'son-of-god'] | 2024-12-15 |
 | [When I Survey The Wondrous Cross](songs/when-i-survey-the-wondrous-cross-20017365.md) | ['no-themes'] | 2024-01-21 |
 | [Who You Say I Am](songs/who-you-say-i-am-17232441.md) | ['no-themes'] | 2019-04-14 |
 | [Wonderful Grace Of Jesus](songs/wonderful-grace-of-jesus-22637612.md) | ['grace', 'praise'] | 2022-07-10 |
 | [Worthy Of Affection](songs/worthy-of-affection-15095221.md) | ['deliverance', 'holiness', 'lordship-of-jesus', 'worthiness'] | 2019-06-09 |
-| [Worthy Of Your Name](songs/worthy-of-your-name-14617629.md) | ['no-themes'] | None |
+| [Worthy Of Your Name](songs/worthy-of-your-name-14617629.md) | ['no-themes'] | 2000-01-01 |
 | [Yet Not I But Through Christ In Me](songs/yet-not-i-but-through-christ-in-me-19199651.md) | ['no-themes'] | 2025-02-16 |
 | [You Are My King (Amazing Love)](songs/you-are-my-king-amazing-love-18744296.md) | ['beautiful', 'devotion', 'forgiveness', 'gods-love', 'grace', 'honor', 'kingship', 'offering', 'love', 'gods-attributes'] | 2020-02-16 |
 | [You Are My Vision](songs/you-are-my-vision-12127536.md) | ['no-themes'] | 2019-04-07 |
