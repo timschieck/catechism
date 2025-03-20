@@ -22,10 +22,9 @@
 | [Baby Son](songs/baby-son-19961689.md) | ['christmas', 'advent', 'incarnation'] | 2020-12-24 |
 | [Battle Belongs](songs/battle-belongs-24741797.md) | ['no-themes'] | 2025-01-19 |
 | [Be Thou My Vision](songs/be-thou-my-vision-11065467.md) | ['aspiration', 'consecration', 'dedication', 'life-in-christ', 'vision'] | 2025-02-23 |
-| [Because He Lives](songs/because-he-lives-17210989.md) | ['assurance', 'faith', 'jesus'] | 2024-09-29 |
+| [Because He Lives](songs/because-he-lives-17210989.md) | ['assurance', 'faith', 'jesus'] | 2025-03-16 |
 | [Before The Throne Of God Above](songs/before-the-throne-of-god-above-11913475.md) | ['gods-attributes', 'jesus', 'lamb-of-god', 'majesty', 'redemption', 'savior', 'worship'] | 2024-11-17 |
 | [Behold Our God](songs/behold-our-god-20315920.md) | ['jesus', 'adoration', 'praise'] | 2024-05-19 |
-| [Better Is One Day](songs/better-is-one-day-15023615.md) | ['devotion', 'drawing-near-to-god', 'holy-spirit', 'living-god', 'presence', 'satisfaction-in-christ', 'the-church', 'trust', 'worship'] | 2019-02-24 |
 | [Blessed Assurance](songs/blessed-assurance-12501715.md) | ['adoration', 'assurance', 'testimony'] | 2024-12-29 |
 | [Build My Life](songs/build-my-life-15782551.md) | ['no-themes'] | 2019-02-24 |
 | [Build Your Kingdom Here](songs/build-your-kingdom-here-12485586.md) | ['heaven', 'kingdom-of-god', 'prayer'] | 2023-08-20 |
@@ -37,7 +36,7 @@
 | [Christ Our Hope In Life And Death](songs/christ-our-hope-in-life-and-death-21326139.md) | ['no-themes'] | 2024-11-24 |
 | [Christ The Lord Is Risen Today (He Is Not Dead)](songs/christ-the-lord-is-risen-today-he-is-not-dead-13692291.md) | ['no-themes'] | 2024-07-28 |
 | [Christ The Sure And Steady Anchor](songs/christ-the-sure-and-steady-anchor-14951785.md) | ['no-themes'] | 2025-02-23 |
-| [Come Behold The Wondrous Mystery](songs/come-behold-the-wondrous-mystery-12146556.md) | ['no-themes'] | 2025-03-09 |
+| [Come Behold The Wondrous Mystery](songs/come-behold-the-wondrous-mystery-12146556.md) | ['crucifixion', 'deliverance', 'hope', 'light', 'resurrection', 'salvation', 'victory'] | 2025-03-09 |
 | [Come Lord Jesus (Even So Come)](songs/come-lord-jesus-even-so-come-14169955.md) | ['no-themes'] | 2019-10-13 |
 | [Come Thou Almighty King](songs/come-thou-almighty-king-21944367.md) | ['trinity', 'kingship', 'greatness', 'gods-attributes'] | 2023-11-12 |
 | [Come Thou Fount](songs/come-thou-fount-11909265.md) | ['aspiration', 'blessing'] | 2024-11-17 |
@@ -84,7 +83,7 @@
 | [How Firm A Foundation](songs/how-firm-a-foundation-12553463.md) | ['faithfulness', 'foundation'] | 2024-11-10 |
 | [How Great Is Our God](songs/how-great-is-our-god-9805177.md) | ['majesty', 'greatness'] | 2020-03-22 |
 | [How Great Is Your Love](songs/how-great-is-your-love-18786486.md) | ['no-themes'] | 2020-03-15 |
-| [How Great Thou Art](songs/how-great-thou-art-11621975.md) | ['adoration', 'greatness', 'majesty', 'power', 'second-coming', 'worship'] | 2024-05-19 |
+| [How Great Thou Art](songs/how-great-thou-art-11621975.md) | ['adoration', 'greatness', 'majesty', 'power', 'second-coming', 'worship'] | 2025-03-16 |
 | [How He Loves](songs/how-he-loves-10755009.md) | ['father', 'glory', 'love'] | 2025-02-16 |
 | [How Marvelous](songs/how-marvelous-11752621.md) | ['atonement', 'calvary', 'gods-attributes', 'love', 'will'] | 2025-01-26 |
 | [How Rich A Treasure We Possess](songs/how-rich-a-treasure-we-possess-11912937.md) | ['blood', 'forgiveness', 'redemption', 'treasure'] | 2024-10-06 |
@@ -116,13 +115,13 @@
 | [Just As I Am](songs/just-as-i-am-12119630.md) | ['no-themes'] | 2018-11-04 |
 | [King Of All The Earth](songs/king-of-all-the-earth-12893729.md) | ['adoration', 'jesus', 'kingship', 'praise'] | None |
 | [King Of Heaven](songs/king-of-heaven-14732714.md) | ['no-themes'] | None |
-| [King Of Kings](songs/king-of-kings-23559487.md) | ['no-themes'] | 2025-03-09 |
+| [King Of Kings](songs/king-of-kings-23559487.md) | ['blood', 'christ', 'cross', 'gods-love', 'jesus', 'praise', 'redemption', 'resurrection', 'salvation', 'trinity'] | 2025-03-09 |
 | [King Of My Heart](songs/king-of-my-heart-17743800.md) | ['no-themes'] | 2024-09-01 |
 | [Lamb Of God](songs/lamb-of-god-14617600.md) | ['no-themes'] | 2019-04-28 |
 | [Life Defined](songs/life-defined-15692206.md) | ['no-themes'] | 2018-06-17 |
 | [Lift Your Head Weary Sinner (Chains)](songs/lift-your-head-weary-sinner-chains-12590652.md) | ['no-themes'] | 2018-09-09 |
 | [Living Hope](songs/living-hope-16755701.md) | ['no-themes'] | 2024-11-03 |
-| [Lord From Sorrows Deep I Call](songs/lord-from-sorrows-deep-i-call-24270181.md) | ['no-themes'] | 2024-09-08 |
+| [Lord From Sorrows Deep I Call](songs/lord-from-sorrows-deep-i-call-24270181.md) | ['no-themes'] | 2025-03-23 |
 | [Lord I Need You](songs/lord-i-need-you-11909243.md) | ['confession', 'declaration', 'praise', 'worship'] | 2025-03-09 |
 | [Man Of Sorrows](songs/man-of-sorrows-12501213.md) | ['cross', 'easter', 'resurrection', 'sacrifice'] | 2018-03-30 |
 | [Mercy](songs/mercy-13817972.md) | ['mercy', 'praise', 'singing'] | 2019-08-04 |
@@ -158,22 +157,21 @@
 | [Open Up The Heavens](songs/open-up-the-heavens-14538699.md) | ['no-themes'] | 2018-10-28 |
 | [Our God](songs/our-god-10633557.md) | ['courage', 'declaration', 'faith', 'god', 'incarnate', 'greatness', 'great', 'justice', 'miracles'] | 2019-07-21 |
 | [Praise My Soul The King Of Heaven](songs/praise-my-soul-the-king-of-heaven-25919245.md) | ['no-themes'] | 2024-03-17 |
-| [Praise The King](songs/praise-the-king-11909207.md) | ['no-themes'] | 2024-08-11 |
+| [Praise The King](songs/praise-the-king-11909207.md) | ['no-themes'] | 2025-03-16 |
 | [Praise To The Lord The Almighty](songs/praise-to-the-lord-the-almighty-13730270.md) | ['adoration', 'creation', 'gods-protection', 'praise'] | 2025-02-09 |
 | [Psalm 139: Far Too Wonderful](songs/psalm-139-far-too-wonderful-16894308.md) | ['no-themes'] | 2019-02-10 |
 | [Psalm 46 (Lord Of Hosts)](songs/psalm-46-lord-of-hosts-12553346.md) | ['no-themes'] | 2018-05-20 |
 | [Psalm 51: Wisdom In The Secret Heart](songs/psalm-51-wisdom-in-the-secret-heart-12727507.md) | ['no-themes'] | 2018-06-24 |
 | [Reason I Sing](songs/reason-i-sing-26849791.md) | ['hope', 'praise', 'salvation', 'singing'] | 2024-10-13 |
-| [Rejoice](songs/rejoice-12470476.md) | ['no-themes'] | 2024-08-25 |
+| [Rejoice](songs/rejoice-12470476.md) | ['no-themes'] | 2025-03-16 |
 | [Rejoice The Lord Is King](songs/rejoice-the-lord-is-king-13729776.md) | ['gods-attributes', 'hope', 'love', 'truth'] | 2017-09-17 |
 | [Rescuer](songs/rescuer-14405378.md) | ['no-themes'] | 2020-01-19 |
 | [Revelation Song](songs/revelation-song-12127708.md) | ['heaven', 'holy'] | 2018-05-27 |
 | [Rock Of Ages](songs/rock-of-ages-13731593.md) | ['atonement', 'comfort', 'consecration', 'rock', 'testimony'] | 2024-06-16 |
-| [Salvation Is Here](songs/salvation-is-here-16885636.md) | ['affirmation', 'gods-presence', 'i-will-never-be', 'joy', 'praise', 'salvation', 'salvation-is-here', 'serving'] | 2019-02-03 |
 | [Saved My Soul](songs/saved-my-soul-15292590.md) | ['no-themes'] | 2023-07-16 |
 | [Shout To The Lord](songs/shout-to-the-lord-12501311.md) | ['comfort', 'gods-attributes', 'im-forgiven', 'jesus', 'majesty', 'mighty', 'power', 'praise', 'promise', 'saviour', 'shelter'] | 2020-08-16 |
 | [Silent Night](songs/silent-night-12967200.md) | ['advent', 'christmas', 'lordship', 'messiah', 'peace', 'reverence', 'savior', 'son-of-god'] | 2021-01-31 |
-| [Sing](songs/sing-25756812.md) | ['no-themes'] | 2025-03-02 |
+| [Sing](songs/sing-25756812.md) | ['conquering', 'creation', 'gods-love', 'grace', 'singing'] | 2025-03-02 |
 | [Sing We The Song Of Emmanuel](songs/sing-we-the-song-of-emmanuel-18429290.md) | ['no-themes'] | 2024-12-22 |
 | [Sovereign Over Us](songs/sovereign-over-us-12847733.md) | ['guidance', 'sovereignty', 'sustainer'] | 2021-08-01 |
 | [Standing On The Promises](songs/standing-on-the-promises-24710089.md) | ['gods-word', 'promise', 'assurance', 'declaration'] | 2023-08-13 |

@@ -6,6 +6,6 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/11909207)
 
 ## Songwriter(s): Corey Voss, Dustin Smith, Michael Bryce Jr., and Michael Farren
-### Last scheduled: Aug 11, 2024          
+### Last scheduled: Mar 16, 2025          
 
 No Lyrics

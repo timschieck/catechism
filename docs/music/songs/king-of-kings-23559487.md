@@ -1,6 +1,6 @@
 ---
 title: "King Of Kings"
-tags: ['no-themes']
+tags: ['blood', 'christ', 'cross', 'gods-love', 'jesus', 'praise', 'redemption', 'resurrection', 'salvation', 'trinity']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/23559487)

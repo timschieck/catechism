@@ -1,6 +1,6 @@
 ---
 title: "Come Behold The Wondrous Mystery"
-tags: ['no-themes']
+tags: ['crucifixion', 'deliverance', 'hope', 'light', 'resurrection', 'salvation', 'victory']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12146556)
