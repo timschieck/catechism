@@ -1,6 +1,6 @@
 ---
 title: "Great Things"
-tags: ['no-themes']
+tags: ['faithfulness', 'freedom', 'creator', 'greatness', 'power']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/22086974)

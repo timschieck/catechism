@@ -1,6 +1,6 @@
 ---
 title: "Goodness Of God"
-tags: ['no-themes']
+tags: ['faithfulness', 'goodness', 'praise', 'pursue', 'surrender', 'thankfulness']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/27946025)

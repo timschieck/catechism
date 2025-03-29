@@ -1,6 +1,6 @@
 ---
 title: "He Will Hold Me Fast"
-tags: ['no-themes']
+tags: ['faith', 'faithfulness', 'guidance', 'promise', 'protection', 'redemption', 'salvation', 'trust']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/12092634)

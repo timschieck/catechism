@@ -1,6 +1,6 @@
 ---
 title: "The Lord Is My Salvation"
-tags: ['no-themes']
+tags: ['glory', 'gods-love', 'power', 'praise', 'redeemer', 'salvation']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/17210944)

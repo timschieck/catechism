@@ -1,6 +1,6 @@
 ---
 title: "Christ Our Hope In Life And Death"
-tags: ['no-themes']
+tags: ['confidence', 'eternal', 'faith', 'goodness', 'grace', 'hope', 'life', 'redeemer', 'rock', 'truth']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/21326139)
