@@ -6,7 +6,7 @@ tags: ['forgiveness', 'gods-love', 'mercy', 'praise', 'redemption', 'salvation']
 [Planning Center](https://services.planningcenteronline.com/songs/16091305)
 
 ## Songwriter(s): Matt Boswell and Matt Papa
-### Last scheduled: Jan 26, 2025          
+### Last scheduled: Mar 23, 2025          
 
 Verse 1  
 What love could re - member no wrongs we have done  

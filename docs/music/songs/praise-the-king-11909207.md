@@ -1,6 +1,6 @@
 ---
 title: "Praise The King"
-tags: ['no-themes']
+tags: ['alive', 'easter', 'forgiveness', 'praise', 'resurrection']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/11909207)

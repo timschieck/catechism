@@ -6,7 +6,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/22086974)
 
 ## Songwriter(s): Jonas Myrin and Phil Wickham
-### Last scheduled: Feb 16, 2025          
+### Last scheduled: Mar 30, 2025          
 
 Verse 1  
   

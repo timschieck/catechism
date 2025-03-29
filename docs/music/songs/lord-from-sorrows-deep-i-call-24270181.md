@@ -1,6 +1,6 @@
 ---
 title: "Lord From Sorrows Deep I Call"
-tags: ['no-themes']
+tags: ['faith', 'foundation', 'hope', 'petition', 'praise', 'prayer', 'rock', 'salvation', 'sorrow', 'trust']
 ---
 
 [Planning Center](https://services.planningcenteronline.com/songs/24270181)

@@ -6,6 +6,6 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/17210944)
 
 ## Songwriter(s): Jonas Myrin, Keith Getty, Kristyn Getty, and Nathan Nockels
-### Last scheduled: Oct 20, 2024          
+### Last scheduled: Mar 30, 2025          
 
 No Lyrics
