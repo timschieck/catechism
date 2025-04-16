@@ -6,7 +6,7 @@ tags: ['blood', 'cross', 'redemption', 'sacrifice', 'salvation']
 [Planning Center](https://services.planningcenteronline.com/songs/13702739)
 
 ## Songwriter(s): William Cowper and Lowell Mason
-### Last scheduled: Sept 15, 2024          
+### Last scheduled: Apr 18, 2025          
 
 Verse 1  
 There is a fountain filled with blood  

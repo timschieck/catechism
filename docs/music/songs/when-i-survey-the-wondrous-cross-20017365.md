@@ -6,7 +6,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/20017365)
 
 ## Songwriter(s): Isaac Watts
-### Last scheduled: Jan 21, 2024          
+### Last scheduled: Apr 18, 2025          
 
 VERSE 1  
 When I survey the wondrous cross  

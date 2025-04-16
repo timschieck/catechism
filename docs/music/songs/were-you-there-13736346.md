@@ -6,7 +6,7 @@ tags: ['ascension', 'crucifixion', 'jesus', 'resurrection', 'sacrifice']
 [Planning Center](https://services.planningcenteronline.com/songs/13736346)
 
 ## Songwriter(s): Frederick J. Work and John Wesley Work
-### Last scheduled: None          
+### Last scheduled: Apr 18, 2025          
 
 Verse 1  
   

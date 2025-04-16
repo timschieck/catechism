@@ -6,7 +6,7 @@ tags: ['gods-attributes', 'gods-love', 'love', 'proclamation']
 [Planning Center](https://services.planningcenteronline.com/songs/10633575)
 
 ## Songwriter(s): Robert S. Lowry, Matt Redman, and William Rees
-### Last scheduled: None          
+### Last scheduled: Apr 18, 2025          
 
 Verse 1  
   

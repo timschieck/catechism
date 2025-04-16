@@ -6,6 +6,6 @@ tags: ['alive', 'easter', 'forgiveness', 'praise', 'resurrection']
 [Planning Center](https://services.planningcenteronline.com/songs/11909207)
 
 ## Songwriter(s): Corey Voss, Dustin Smith, Michael Bryce Jr., and Michael Farren
-### Last scheduled: Mar 16, 2025          
+### Last scheduled: Apr 20, 2025          
 
 No Lyrics
