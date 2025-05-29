@@ -4,7 +4,12 @@ title: EFCA Statement of Faith
 The following has been adapted from the EFCA Statement of Faith (June 9th, 2019) to be used in a question and answer format for public worship services.
 
 ## 1. God
-We believe in one God, Creator of all things, holy, infinitely perfect, and eternally existing in a loving unity of three equally divine Persons: the Father, the Son and the Holy Spirit. Having limitless knowledge and sovereign power, God has graciously purposed from eternity to redeem a people for Himself and to make all things new for His own glory. 
+**Leader:** What do we believe concerning God?  
+**All:** We believe in one God, Creator of all things, holy, infinitely perfect, and eternally existing in a loving unity of three equally divine Persons: the Father, the Son and the Holy Spirit.  
+
+**Leader:** How has this holy God chosen to act towards a sinful and broken creation?  
+**All:** Having limitless knowledge and sovereign power, God has graciously purposed from eternity to redeem a people for Himself and to make all things new for His own glory.
+
 ## 2. The Bible    
 **Leader:** What is the Bible?  
 **All:** We believe that God has spoken in the Scriptures, both Old and New Testaments, through the words of human authors. As the verbally inspired Word of God, the Bible is without error in the original writings, the complete revelation of His will for salvation, and the ultimate authority by which every realm of human knowledge and endeavor should be judged. 
