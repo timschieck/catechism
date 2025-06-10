@@ -6,7 +6,7 @@ tags: ['confidence', 'eternal', 'faith', 'goodness', 'grace', 'hope', 'life', 'r
 [Planning Center](https://services.planningcenteronline.com/songs/21326139)
 
 ## Songwriter(s): Jordan Kauflin, Keith Getty, Matt Boswell, Matt Papa, and Matthew Merker
-### Last scheduled: Mar 23, 2025          
+### Last scheduled: Apr 20, 2025          
 
 Intro  
   

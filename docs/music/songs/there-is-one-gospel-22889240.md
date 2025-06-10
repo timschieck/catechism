@@ -6,7 +6,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/22889240)
 
 ## Songwriter(s): None
-### Last scheduled: Oct 27, 2024          
+### Last scheduled: Jun 1, 2025          
 
 Verse 1  
   

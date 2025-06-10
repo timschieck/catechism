@@ -6,7 +6,7 @@ tags: ['aspiration', 'blessing']
 [Planning Center](https://services.planningcenteronline.com/songs/11909265)
 
 ## Songwriter(s): Robert Robinson and John Wyeth
-### Last scheduled: Mar 23, 2025          
+### Last scheduled: May 25, 2025          
 
 VERSE 1  
 Come Thou fount of ev'ry blessing  

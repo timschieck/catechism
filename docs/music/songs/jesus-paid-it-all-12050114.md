@@ -6,7 +6,7 @@ tags: ['crucifixion', 'jesus', 'reconciliation', 'redemption', 'sacrifice']
 [Planning Center](https://services.planningcenteronline.com/songs/12050114)
 
 ## Songwriter(s): John Thomas Grape, Elvina M. Hall, and Alex Nifong
-### Last scheduled: Sept 29, 2024          
+### Last scheduled: May 11, 2025          
 
 Verse 1  
 And I hear the Savior say  
