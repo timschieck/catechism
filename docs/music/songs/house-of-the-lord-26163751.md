@@ -6,6 +6,6 @@ tags: ['forgiveness', 'grace', 'joy', 'praise', 'redemption', 'victory', 'worshi
 [Planning Center](https://services.planningcenteronline.com/songs/26163751)
 
 ## Songwriter(s): Jonathan Smith and Phil Wickham
-### Last scheduled: Apr 13, 2025          
+### Last scheduled: Jun 29, 2025          
 
 No Lyrics

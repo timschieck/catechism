@@ -6,6 +6,6 @@ tags: ['christ', 'eternal']
 [Planning Center](https://services.planningcenteronline.com/songs/15169772)
 
 ## Songwriter(s): Jonny Robinson and Rich Thompson
-### Last scheduled: May 25, 2025          
+### Last scheduled: Jun 22, 2025          
 
 No Lyrics

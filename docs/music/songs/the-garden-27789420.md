@@ -6,7 +6,7 @@ tags: ['lamb-of-god', 'prayer', 'waiting']
 [Planning Center](https://services.planningcenteronline.com/songs/27789420)
 
 ## Songwriter(s): Mitch Wong, Sandra McCracken, and Sarah Kroger Quaglia
-### Last scheduled: Mar 2, 2025          
+### Last scheduled: Jun 15, 2025          
 
 INTRO  
   
