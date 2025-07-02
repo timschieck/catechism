@@ -18,7 +18,12 @@ The following has been adapted from the EFCA Statement of Faith (June 9th, 2019)
 **All:** By believing in all that it teaches, obeying all that it requires, and trusting in all that it promises. 
 
 ## 3. The Human Condition   
-We believe that God created Adam and Eve in His image, but they sinned when tempted by Satan. In union with Adam, human beings are sinners by nature and by choice, alienated from God, and under His wrath. Only through God’s saving work in Jesus Christ can we be rescued, reconciled and renewed.
+**Leader:** What do we believe concerning humanity?
+**All:** We believe that God created Adam and Eve in His image, but they sinned when tempted by Satan. In union with Adam, human beings are sinners by nature and by choice, alienated from God, and under His wrath.  
+
+**Leader:** How can we, as sinful humans, be saved?  
+**All:** Only through God’s saving work in Jesus Christ can we be rescued, reconciled and renewed.  
+
 ## 4. Jesus Christ
 We believe that Jesus Christ is God incarnate, fully God and fully man, one Person in two natures. Jesus—Israel's promised Messiah—was conceived through the Holy Spirit and born of the virgin Mary. He lived a sinless life, was crucified under Pontius Pilate, arose bodily from the dead, ascended into heaven and sits at the right hand of God the Father as our High Priest and Advocate.   
 ## 5. The Work of Christ
