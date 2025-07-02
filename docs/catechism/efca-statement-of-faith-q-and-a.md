@@ -18,7 +18,7 @@ The following has been adapted from the EFCA Statement of Faith (June 9th, 2019)
 **All:** By believing in all that it teaches, obeying all that it requires, and trusting in all that it promises. 
 
 ## 3. The Human Condition   
-**Leader:** What do we believe concerning humanity?
+**Leader:** What do we believe concerning humanity?  
 **All:** We believe that God created Adam and Eve in His image, but they sinned when tempted by Satan. In union with Adam, human beings are sinners by nature and by choice, alienated from God, and under His wrath.  
 
 **Leader:** How can we, as sinful humans, be saved?  
