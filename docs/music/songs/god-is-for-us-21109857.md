@@ -6,7 +6,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/21109857)
 
 ## Songwriter(s): James Ferguson, James Tealy, Jonny Robinson, Rich Thompson, Tiarne Kleyn, Michael Farren, and Jesse Reeves
-### Last scheduled: Apr 6, 2025          
+### Last scheduled: Jul 6, 2025          
 
 Intro  
   
