@@ -25,7 +25,13 @@ The following has been adapted from the EFCA Statement of Faith (June 9th, 2019)
 **All:** Only through God’s saving work in Jesus Christ can we be rescued, reconciled and renewed.  
 
 ## 4. Jesus Christ
-We believe that Jesus Christ is God incarnate, fully God and fully man, one Person in two natures. Jesus—Israel's promised Messiah—was conceived through the Holy Spirit and born of the virgin Mary. He lived a sinless life, was crucified under Pontius Pilate, arose bodily from the dead, ascended into heaven and sits at the right hand of God the Father as our High Priest and Advocate.   
+**Leader:** Who is Jesus?  
+**All:** We believe that Jesus Christ is God incarnate, fully God and fully man, one Person in two natures.  
+**Leader:** How did God become man?  
+**All:** Jesus—Israel's promised Messiah—was conceived through the Holy Spirit and born of the virgin Mary.  
+**Leader:** What did Jesus do after being born as a human?  
+**All:** He lived a sinless life, was crucified under Pontius Pilate, arose bodily from the dead, ascended into heaven and sits at the right hand of God the Father as our High Priest and Advocate.  
+
 ## 5. The Work of Christ
 We believe that Jesus Christ, as our representative and substitute, shed His blood on the cross as the perfect, all-sufficient sacrifice for our sins. His atoning death and victorious resurrection constitute the only ground for salvation.
    
