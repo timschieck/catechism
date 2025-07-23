@@ -1,14 +1,14 @@
 ---
-title: "The Garden"
-tags: ['lamb-of-god', 'prayer', 'waiting']
----
+    title: "The Garden"
+    tags: ['lamb-of-god', 'prayer', 'waiting']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/27789420)
+    [Planning Center](https://services.planningcenteronline.com/songs/27789420)
 
-## Songwriter(s): Mitch Wong, Sandra McCracken, and Sarah Kroger Quaglia
-### Last scheduled: Jun 15, 2025          
+    ## Songwriter(s): Mitch Wong, Sandra McCracken, and Sarah Kroger Quaglia
+    ### Last scheduled: Jun 15, 2025          
 
-INTRO  
+    INTRO  
   
 VERSE 1  
 Though I have borne the fruit of sin  
@@ -51,3 +51,4 @@ Hal - le - lujah, He waits for me
 OUTRO  
 (me)  
 
+    

@@ -1,14 +1,14 @@
 ---
-title: "How He Loves"
-tags: ['father', 'glory', 'love']
----
+    title: "How He Loves"
+    tags: ['father', 'glory', 'love']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/10755009)
+    [Planning Center](https://services.planningcenteronline.com/songs/10755009)
 
-## Songwriter(s): John Mark McMillan
-### Last scheduled: Feb 16, 2025          
+    ## Songwriter(s): John Mark McMillan
+    ### Last scheduled: Feb 16, 2025          
 
-Verse 1  
+    Verse 1  
   
 He is jealous for me loves like a hurricane  
 I am a tree bending beneath  
@@ -44,3 +44,4 @@ Like a sloppy wet (unforeseen) kiss
 And my heart turns violently inside of my chest  
 I don't have time to maintain these regrets  
 When I think about the way that
+    

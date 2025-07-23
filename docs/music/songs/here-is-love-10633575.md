@@ -1,14 +1,14 @@
 ---
-title: "Here Is Love"
-tags: ['gods-attributes', 'gods-love', 'love', 'proclamation']
----
+    title: "Here Is Love"
+    tags: ['gods-attributes', 'gods-love', 'love', 'proclamation']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/10633575)
+    [Planning Center](https://services.planningcenteronline.com/songs/10633575)
 
-## Songwriter(s): Robert S. Lowry, Matt Redman, and William Rees
-### Last scheduled: Apr 18, 2025          
+    ## Songwriter(s): Robert S. Lowry, Matt Redman, and William Rees
+    ### Last scheduled: Apr 18, 2025          
 
-Verse 1  
+    Verse 1  
   
 Here is love vast as the ocean  
 Loving-kindness as the flood  
@@ -54,3 +54,4 @@ Vast as the ocean
 Yes here is love  
 Vast as the ocean  
 (REPEAT)
+    

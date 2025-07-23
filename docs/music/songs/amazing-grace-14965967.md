@@ -1,14 +1,14 @@
 ---
-title: "Amazing Grace"
-tags: ['adoration', 'assurance', 'deliverance', 'grace', 'leadership', 'love', 'praise', 'redemption', 'salvation', 'testimony']
----
+    title: "Amazing Grace"
+    tags: ['adoration', 'assurance', 'deliverance', 'grace', 'leadership', 'love', 'praise', 'redemption', 'salvation', 'testimony']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/14965967)
+    [Planning Center](https://services.planningcenteronline.com/songs/14965967)
 
-## Songwriter(s): Edwin Othello Excell, John Newton, and John P. Rees
-### Last scheduled: Mar 2, 2025          
+    ## Songwriter(s): Edwin Othello Excell, John Newton, and John P. Rees
+    ### Last scheduled: Mar 2, 2025          
 
-Verse 1  
+    Verse 1  
   
 Amazing grace how sweet the sound  
 That saved a wretch like me  
@@ -49,3 +49,4 @@ When we've been there ten thousand years
 Bright shining as the sun  
 We've no less days to sing God's praise  
 Than when we first begun
+    

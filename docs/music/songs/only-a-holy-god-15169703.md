@@ -1,14 +1,14 @@
 ---
-title: "Only A Holy God"
-tags: ['no-themes']
----
+    title: "Only A Holy God"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/15169703)
+    [Planning Center](https://services.planningcenteronline.com/songs/15169703)
 
-## Songwriter(s): Dustin Smith, Jonny Robinson, Michael Farren, and Rich Thompson
-### Last scheduled: Aug 18, 2019          
+    ## Songwriter(s): Dustin Smith, Jonny Robinson, Michael Farren, and Rich Thompson
+    ### Last scheduled: Aug 18, 2019          
 
-Verse 1  
+    Verse 1  
   
 Who else commands all the hosts of heaven  
 Who else could make every king bow down  
@@ -44,3 +44,4 @@ Who else would offer His only Son
 Who else invites me to call Him Father  
 Only a Holy God  
 Only my Holy God
+    

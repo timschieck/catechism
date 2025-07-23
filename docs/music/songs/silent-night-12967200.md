@@ -1,14 +1,14 @@
 ---
-title: "Silent Night"
-tags: ['advent', 'christmas', 'lordship', 'messiah', 'peace', 'reverence', 'savior', 'son-of-god']
----
+    title: "Silent Night"
+    tags: ['advent', 'christmas', 'lordship', 'messiah', 'peace', 'reverence', 'savior', 'son-of-god']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12967200)
+    [Planning Center](https://services.planningcenteronline.com/songs/12967200)
 
-## Songwriter(s): Franz Xaver Gruber
-### Last scheduled: Jan 31, 2021          
+    ## Songwriter(s): Franz Xaver Gruber
+    ### Last scheduled: Jan 31, 2021          
 
-Verse 1  
+    Verse 1  
 Silent night holy night  
 All is calm all is bright  
 ‘Round yon virgin mother and Child  
@@ -52,3 +52,4 @@ In the night where nobody sees
   
 We smile in the mystery  
 In the night where nobody sees
+    

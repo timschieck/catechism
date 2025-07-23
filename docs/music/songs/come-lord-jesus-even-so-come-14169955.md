@@ -1,14 +1,14 @@
 ---
-title: "Come Lord Jesus (Even So Come)"
-tags: ['no-themes']
----
+    title: "Come Lord Jesus (Even So Come)"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/14169955)
+    [Planning Center](https://services.planningcenteronline.com/songs/14169955)
 
-## Songwriter(s): Chris Tomlin, Jason Ingram, and Jess Cates
-### Last scheduled: Oct 13, 2019          
+    ## Songwriter(s): Chris Tomlin, Jason Ingram, and Jess Cates
+    ### Last scheduled: Oct 13, 2019          
 
-Verse 1  
+    Verse 1  
   
 All of creation all of the earth  
 Make straight a highway a path for the Lord  
@@ -62,3 +62,4 @@ God we wait You're coming soon
 God we wait we wait for You  
 Yes we wait You're coming soon  
 God we wait You're coming soon oh
+    

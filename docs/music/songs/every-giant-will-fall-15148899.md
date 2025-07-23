@@ -1,14 +1,14 @@
 ---
-title: "Every Giant Will Fall"
-tags: ['no-themes']
----
+    title: "Every Giant Will Fall"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/15148899)
+    [Planning Center](https://services.planningcenteronline.com/songs/15148899)
 
-## Songwriter(s): Rend Collective
-### Last scheduled: Feb 9, 2020          
+    ## Songwriter(s): Rend Collective
+    ### Last scheduled: Feb 9, 2020          
 
-Verse 1  
+    Verse 1  
   
 I can see the promised land  
 Though there's pain within the plan  
@@ -59,3 +59,4 @@ Misc 3
   
 (Ending)  
 Oh nothing is impossible
+    

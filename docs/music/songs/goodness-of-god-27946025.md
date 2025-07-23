@@ -1,14 +1,14 @@
 ---
-title: "Goodness Of God"
-tags: ['faithfulness', 'goodness', 'praise', 'pursue', 'surrender', 'thankfulness']
----
+    title: "Goodness Of God"
+    tags: ['faithfulness', 'goodness', 'praise', 'pursue', 'surrender', 'thankfulness']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/27946025)
+    [Planning Center](https://services.planningcenteronline.com/songs/27946025)
 
-## Songwriter(s): Ed Cash and Jenn Johnson
-### Last scheduled: Jun 8, 2025          
+    ## Songwriter(s): Ed Cash and Jenn Johnson
+    ### Last scheduled: Aug 10, 2025          
 
-Verse 1  
+    Verse 1  
   
 I love You Lord  
 Oh Your mercy never fails me  
@@ -46,3 +46,4 @@ I’m surrendered now
 I give You everything  
 Your goodness is running after  
 It's running after me
+    

@@ -1,14 +1,14 @@
 ---
-title: "No Longer Slaves"
-tags: ['no-themes']
----
+    title: "No Longer Slaves"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/17363513)
+    [Planning Center](https://services.planningcenteronline.com/songs/17363513)
 
-## Songwriter(s): Jonathan David Helser and Melissa Helser
-### Last scheduled: Nov 14, 2021          
+    ## Songwriter(s): Jonathan David Helser and Melissa Helser
+    ### Last scheduled: Nov 14, 2021          
 
-Verse 1  
+    Verse 1  
   
 You unravel me with a melody  
 You surround me with a song  
@@ -37,3 +37,4 @@ You split the sea so I could walk right through it
 My fears were drowned in perfect love  
 You rescued me so I could stand and sing  
 I am a child of God
+    

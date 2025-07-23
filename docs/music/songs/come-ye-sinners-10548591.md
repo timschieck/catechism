@@ -1,14 +1,14 @@
 ---
-title: "Come Ye Sinners"
-tags: ['healing', 'jesus', 'savior', 'shepherd', 'sin']
----
+    title: "Come Ye Sinners"
+    tags: ['healing', 'jesus', 'savior', 'shepherd', 'sin']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/10548591)
+    [Planning Center](https://services.planningcenteronline.com/songs/10548591)
 
-## Songwriter(s): Dan Hamilton, Taylor Johnson, Ryan Owens, and Robbie Seay
-### Last scheduled: Feb 23, 2025          
+    ## Songwriter(s): Dan Hamilton, Taylor Johnson, Ryan Owens, and Robbie Seay
+    ### Last scheduled: Feb 23, 2025          
 
-Verse 1  
+    Verse 1  
   
 Come ye sinners the poor and needy  
 Weak and wounded sick and sore  
@@ -55,3 +55,4 @@ Tag
   
 In the arms of my dear Savior  
 O there are ten thousand charms
+    

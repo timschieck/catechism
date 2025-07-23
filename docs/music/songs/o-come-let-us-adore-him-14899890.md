@@ -1,14 +1,14 @@
 ---
-title: "O Come Let Us Adore Him"
-tags: ['christmas', 'seasonal']
----
+    title: "O Come Let Us Adore Him"
+    tags: ['christmas', 'seasonal']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/14899890)
+    [Planning Center](https://services.planningcenteronline.com/songs/14899890)
 
-## Songwriter(s): Terl Bryant, C. Frederick Oakley, Matt Redman, and John Francis Wade
-### Last scheduled: Dec 8, 2019          
+    ## Songwriter(s): Terl Bryant, C. Frederick Oakley, Matt Redman, and John Francis Wade
+    ### Last scheduled: Dec 8, 2019          
 
-Verse 1  
+    Verse 1  
   
 O come let us adore Him  
 O come let us adore Him  
@@ -28,3 +28,4 @@ We'll give You all the glory
 We'll give You all the glory  
 We'll give You all the glory  
 Christ the Lord
+    

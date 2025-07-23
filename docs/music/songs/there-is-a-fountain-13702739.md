@@ -1,14 +1,14 @@
 ---
-title: "There Is A Fountain"
-tags: ['blood', 'cross', 'redemption', 'sacrifice', 'salvation']
----
+    title: "There Is A Fountain"
+    tags: ['blood', 'cross', 'redemption', 'sacrifice', 'salvation']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/13702739)
+    [Planning Center](https://services.planningcenteronline.com/songs/13702739)
 
-## Songwriter(s): William Cowper and Lowell Mason
-### Last scheduled: Apr 18, 2025          
+    ## Songwriter(s): William Cowper and Lowell Mason
+    ### Last scheduled: Apr 18, 2025          
 
-Verse 1  
+    Verse 1  
 There is a fountain filled with blood  
 Drawn from Immanuel’s veins  
 And sinners plunged beneath that flood  
@@ -63,3 +63,4 @@ I’ll sing Thy power to save
 I’ll sing Thy power to save  
 Then in a nobler sweeter song  
 I’ll sing Thy power to save
+    

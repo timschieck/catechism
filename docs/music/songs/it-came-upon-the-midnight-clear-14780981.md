@@ -1,14 +1,14 @@
 ---
-title: "It Came Upon The Midnight Clear"
-tags: ['christmas', 'jesus', 'seasonal']
----
+    title: "It Came Upon The Midnight Clear"
+    tags: ['christmas', 'jesus', 'seasonal']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/14780981)
+    [Planning Center](https://services.planningcenteronline.com/songs/14780981)
 
-## Songwriter(s): Edmund Hamilton Sears and Richard Storrs Willis
-### Last scheduled: Dec 4, 2022          
+    ## Songwriter(s): Edmund Hamilton Sears and Richard Storrs Willis
+    ### Last scheduled: Dec 4, 2022          
 
-Verse 1  
+    Verse 1  
   
 It came upon the midnight clear  
 That glorious song of old  
@@ -62,3 +62,4 @@ And man at war with man hears not
 The love song which they bring  
 O hush the noise ye men of strife  
 And hear the angels sing
+    

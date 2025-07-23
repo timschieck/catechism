@@ -1,14 +1,14 @@
 ---
-title: "My One Comfort"
-tags: ['no-themes']
----
+    title: "My One Comfort"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/17965733)
+    [Planning Center](https://services.planningcenteronline.com/songs/17965733)
 
-## Songwriter(s): Dustin Kensrue
-### Last scheduled: None          
+    ## Songwriter(s): Dustin Kensrue
+    ### Last scheduled: None          
 
-Verse 1  
+    Verse 1  
   
 My one comfort both in life and death  
 Is that I am not my own  
@@ -27,3 +27,4 @@ Misc 1
 (Bridge)  
 Jesus You have taken hold of me  
 And in Your grip of grace I'm finally free
+    

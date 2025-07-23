@@ -1,11 +1,12 @@
 ---
-title: "Psalm 46 (Lord Of Hosts)"
-tags: ['no-themes']
----
+    title: "Psalm 46 (Lord Of Hosts)"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12553346)
+    [Planning Center](https://services.planningcenteronline.com/songs/12553346)
 
-## Songwriter(s): Jennie Lee Riddle, Josh Miller, Josiah Warneking, and Shane Barnard
-### Last scheduled: May 20, 2018          
+    ## Songwriter(s): Jennie Lee Riddle, Josh Miller, Josiah Warneking, and Shane Barnard
+    ### Last scheduled: May 20, 2018          
 
-No Lyrics
+    No Lyrics
+    

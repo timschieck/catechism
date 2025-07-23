@@ -1,14 +1,14 @@
 ---
-title: "Christ The Lord Is Risen Today (He Is Not Dead)"
-tags: ['no-themes']
----
+    title: "Christ The Lord Is Risen Today (He Is Not Dead)"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/13692291)
+    [Planning Center](https://services.planningcenteronline.com/songs/13692291)
 
-## Songwriter(s): Charles Wesley, Kurtis Parks, and Samuel Arnold
-### Last scheduled: Apr 20, 2025          
+    ## Songwriter(s): Charles Wesley, Kurtis Parks, and Samuel Arnold
+    ### Last scheduled: Apr 20, 2025          
 
-Verse 1  
+    Verse 1  
   
 Christ the Lord is risen today alleluia  
 Sons of men and angels say alleluia  
@@ -40,3 +40,4 @@ Soar we now where Christ has led alleluia
 Following our exalted Head alleluia  
 Made like Him like Him we rise alleluia  
 Ours the cross the grave the skies alleluia
+    

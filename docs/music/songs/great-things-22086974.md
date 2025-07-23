@@ -1,14 +1,14 @@
 ---
-title: "Great Things"
-tags: ['faithfulness', 'freedom', 'creator', 'greatness', 'power']
----
+    title: "Great Things"
+    tags: ['faithfulness', 'freedom', 'creator', 'greatness', 'power']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/22086974)
+    [Planning Center](https://services.planningcenteronline.com/songs/22086974)
 
-## Songwriter(s): Jonas Myrin and Phil Wickham
-### Last scheduled: Mar 30, 2025          
+    ## Songwriter(s): Jonas Myrin and Phil Wickham
+    ### Last scheduled: Aug 10, 2025          
 
-Verse 1  
+    Verse 1  
   
 Come let us worship our King  
 Come let us bow at His feet  
@@ -51,3 +51,4 @@ Misc 2
 (Ending)  
 You have done great things  
 O God You do great things
+    

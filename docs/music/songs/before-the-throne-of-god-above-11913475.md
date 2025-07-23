@@ -1,14 +1,14 @@
 ---
-title: "Before The Throne Of God Above"
-tags: ['gods-attributes', 'jesus', 'lamb-of-god', 'majesty', 'redemption', 'savior', 'worship']
----
+    title: "Before The Throne Of God Above"
+    tags: ['gods-attributes', 'jesus', 'lamb-of-god', 'majesty', 'redemption', 'savior', 'worship']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/11913475)
+    [Planning Center](https://services.planningcenteronline.com/songs/11913475)
 
-## Songwriter(s): Charitie Lees Bancroft and Vikki Cook
-### Last scheduled: Nov 17, 2024          
+    ## Songwriter(s): Charitie Lees Bancroft and Vikki Cook
+    ### Last scheduled: Nov 17, 2024          
 
-Verse 1  
+    Verse 1  
 Before the throne of God a - bove  
 I have a strong and perfect plea  
 A great High Priest whose name is Love  
@@ -59,3 +59,4 @@ My soul is pur - chased with His blood
 My life is hid with Christ on high  
 With Christ my Saviour and my God  
 With Christ my Saviour and my God
+    

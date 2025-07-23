@@ -1,14 +1,14 @@
 ---
-title: "Death Was Arrested"
-tags: ['no-themes']
----
+    title: "Death Was Arrested"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/15218643)
+    [Planning Center](https://services.planningcenteronline.com/songs/15218643)
 
-## Songwriter(s): Adam Kersh, Brandon Coker, Heath Balltzglier, and Paul Taylor
-### Last scheduled: Jun 29, 2025          
+    ## Songwriter(s): Adam Kersh, Brandon Coker, Heath Balltzglier, and Paul Taylor
+    ### Last scheduled: Jun 29, 2025          
 
-Verse 1  
+    Verse 1  
   
 Alone in my sorrow and dead in my sin  
 Lost without hope with no place to begin  
@@ -50,3 +50,4 @@ Oh we're free free forever we're free
 Come join the song of all the redeemed  
 Yes we're free free forever amen  
 When death was arrested and my life began
+    

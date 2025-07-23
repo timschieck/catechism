@@ -1,14 +1,14 @@
 ---
-title: "Were You There"
-tags: ['ascension', 'crucifixion', 'jesus', 'resurrection', 'sacrifice']
----
+    title: "Were You There"
+    tags: ['ascension', 'crucifixion', 'jesus', 'resurrection', 'sacrifice']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/13736346)
+    [Planning Center](https://services.planningcenteronline.com/songs/13736346)
 
-## Songwriter(s): Frederick J. Work and John Wesley Work
-### Last scheduled: Apr 18, 2025          
+    ## Songwriter(s): Frederick J. Work and John Wesley Work
+    ### Last scheduled: Apr 18, 2025          
 
-Verse 1  
+    Verse 1  
   
 Were you there when they crucified my Lord  
 Were you there when they crucified my Lord  
@@ -35,3 +35,4 @@ Were you there when He rose up from the dead
 Were you there when He rose up from the dead  
 O sometimes I feel like shouting glory glory glory  
 Were you there when He rose up from the dead
+    

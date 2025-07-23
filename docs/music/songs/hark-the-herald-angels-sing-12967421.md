@@ -1,14 +1,14 @@
 ---
-title: "Hark The Herald Angels Sing"
-tags: ['christmas', 'praise', 'proclamation', 'rejoice']
----
+    title: "Hark The Herald Angels Sing"
+    tags: ['christmas', 'praise', 'proclamation', 'rejoice']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12967421)
+    [Planning Center](https://services.planningcenteronline.com/songs/12967421)
 
-## Songwriter(s): Felix Mendelssohn and Charles Wesley
-### Last scheduled: Dec 24, 2024          
+    ## Songwriter(s): Felix Mendelssohn and Charles Wesley
+    ### Last scheduled: Dec 24, 2024          
 
-Verse 1  
+    Verse 1  
   
 Hark the herald angels sing  
 Glory to the newborn King  
@@ -59,3 +59,4 @@ Second Adam from above
 Reinstate us in Thy love  
 Hark the herald angels sing  
 Glory to the newborn King
+    

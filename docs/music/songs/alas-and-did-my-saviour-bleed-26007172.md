@@ -1,14 +1,14 @@
 ---
-title: "Alas And Did My Saviour Bleed"
-tags: ['assurance', 'calvary', 'consecration', 'cross', 'crucifixion', 'love', 'redemption', 'sacrifice', 'salvation', 'savior']
----
+    title: "Alas And Did My Saviour Bleed"
+    tags: ['assurance', 'calvary', 'consecration', 'cross', 'crucifixion', 'love', 'redemption', 'sacrifice', 'salvation', 'savior']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/26007172)
+    [Planning Center](https://services.planningcenteronline.com/songs/26007172)
 
-## Songwriter(s): Michael Morrow and Isaac Watts
-### Last scheduled: Mar 29, 2024          
+    ## Songwriter(s): Michael Morrow and Isaac Watts
+    ### Last scheduled: Mar 29, 2024          
 
-Verse 1  
+    Verse 1  
 A - las and did my Savior bleed  
 And did my Sov’reign die  
 Would He devote that sacred head  
@@ -43,3 +43,4 @@ But drops of grief can ne’er repay
 The debt of love I owe  
 Here Lord I give myself away  
 ’Tis all that I can do
+    

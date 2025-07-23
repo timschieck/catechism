@@ -1,14 +1,14 @@
 ---
-title: "Build Your Kingdom Here"
-tags: ['heaven', 'kingdom-of-god', 'prayer']
----
+    title: "Build Your Kingdom Here"
+    tags: ['heaven', 'kingdom-of-god', 'prayer']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12485586)
+    [Planning Center](https://services.planningcenteronline.com/songs/12485586)
 
-## Songwriter(s): Rend Collective Experiment
-### Last scheduled: Aug 20, 2023          
+    ## Songwriter(s): Rend Collective Experiment
+    ### Last scheduled: Aug 20, 2023          
 
-Verse 1  
+    Verse 1  
   
 Come set Your rule and reign  
 In our hearts again  
@@ -54,3 +54,4 @@ Awake the kingdom seed in us
 Fill us with the strength and love of Christ  
 We are Your church  
 We are the hope on earth
+    

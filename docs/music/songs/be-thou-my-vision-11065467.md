@@ -1,14 +1,14 @@
 ---
-title: "Be Thou My Vision"
-tags: ['aspiration', 'consecration', 'dedication', 'life-in-christ', 'vision']
----
+    title: "Be Thou My Vision"
+    tags: ['aspiration', 'consecration', 'dedication', 'life-in-christ', 'vision']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/11065467)
+    [Planning Center](https://services.planningcenteronline.com/songs/11065467)
 
-## Songwriter(s): Mary Elizabeth Byrne and Eleanor Henrietta Hull
-### Last scheduled: Feb 23, 2025          
+    ## Songwriter(s): Mary Elizabeth Byrne and Eleanor Henrietta Hull
+    ### Last scheduled: Jul 20, 2025          
 
-VERSE 1  
+    VERSE 1  
 Be Thou my vision O Lord of my heart  
 Nought be all else to me, save Thou art  
 Thou my best thought, by day or by night  
@@ -35,3 +35,4 @@ High King of heaven, my victory won,
 May I reach heaven's joys, O bright heaven's Sun!  
 Heart of my own heart, whatever befall,  
 Still be my vision, O Ruler of all.
+    

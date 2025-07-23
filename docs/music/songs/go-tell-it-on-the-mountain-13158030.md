@@ -1,14 +1,14 @@
 ---
-title: "Go Tell It On The Mountain"
-tags: ['christmas', 'evangelism', 'jesus', 'mission', 'proclamation', 'seasonal']
----
+    title: "Go Tell It On The Mountain"
+    tags: ['christmas', 'evangelism', 'jesus', 'mission', 'proclamation', 'seasonal']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/13158030)
+    [Planning Center](https://services.planningcenteronline.com/songs/13158030)
 
-## Songwriter(s): John W. Work
-### Last scheduled: Dec 1, 2024          
+    ## Songwriter(s): John W. Work
+    ### Last scheduled: Dec 1, 2024          
 
-Chorus 1  
+    Chorus 1  
   
 Go tell it on the mountain  
 Over the hills and ev'rywhere  
@@ -35,3 +35,4 @@ Down in a lowly manger
 The humble Christ was born  
 And God sent us salvation  
 That blessed Christmas morn
+    

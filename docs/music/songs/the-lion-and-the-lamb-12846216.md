@@ -1,14 +1,14 @@
 ---
-title: "The Lion And The Lamb"
-tags: ['no-themes']
----
+    title: "The Lion And The Lamb"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12846216)
+    [Planning Center](https://services.planningcenteronline.com/songs/12846216)
 
-## Songwriter(s): Brenton Brown, Brian Johnson, and Leeland Mooring
-### Last scheduled: May 4, 2025          
+    ## Songwriter(s): Brenton Brown, Brian Johnson, and Leeland Mooring
+    ### Last scheduled: May 4, 2025          
 
-Verse 1  
+    Verse 1  
   
 He's coming on the clouds  
 Kings and kingdoms will bow down  
@@ -43,3 +43,4 @@ Misc 1
 (Bridge)  
 Who can stop the Lord almighty  
 Who can stop the Lord (almighty)
+    

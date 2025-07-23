@@ -1,14 +1,14 @@
 ---
-title: "Counting Every Blessing"
-tags: ['no-themes']
----
+    title: "Counting Every Blessing"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/16120788)
+    [Planning Center](https://services.planningcenteronline.com/songs/16120788)
 
-## Songwriter(s): Rend Collective
-### Last scheduled: Sept 16, 2018          
+    ## Songwriter(s): Rend Collective
+    ### Last scheduled: Sept 16, 2018          
 
-Verse 1  
+    Verse 1  
   
 I was blind now I'm seeing in colour  
 I was dead now I'm living forever  
@@ -61,3 +61,4 @@ Misc 3
 For Your goodness I will ever praise You  
 Oh You are good to me  
 Oh You are good to me
+    

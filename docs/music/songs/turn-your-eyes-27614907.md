@@ -1,14 +1,14 @@
 ---
-title: "Turn Your Eyes"
-tags: ['adoration', 'encouragement', 'jesus', 'light']
----
+    title: "Turn Your Eyes"
+    tags: ['adoration', 'encouragement', 'jesus', 'light']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/27614907)
+    [Planning Center](https://services.planningcenteronline.com/songs/27614907)
 
-## Songwriter(s): Helen H. Lemmel, George Romanacce, Nic Trout, and Kevin Winebarger
-### Last scheduled: Feb 9, 2025          
+    ## Songwriter(s): Helen H. Lemmel, George Romanacce, Nic Trout, and Kevin Winebarger
+    ### Last scheduled: Feb 9, 2025          
 
-Verse 1  
+    Verse 1  
 Turn your eyes upon Jesus  
 Look full in His wonderful face  
 And the things of earth will grow strangely dim  
@@ -53,3 +53,4 @@ To You
   
 Outro  
 
+    

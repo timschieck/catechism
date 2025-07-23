@@ -1,14 +1,14 @@
 ---
-title: "All I Have Is Christ"
-tags: ['jesus', 'life', 'surrender']
----
+    title: "All I Have Is Christ"
+    tags: ['jesus', 'life', 'surrender']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12025173)
+    [Planning Center](https://services.planningcenteronline.com/songs/12025173)
 
-## Songwriter(s): Jordan Kauflin
-### Last scheduled: Jul 13, 2025          
+    ## Songwriter(s): Jordan Kauflin
+    ### Last scheduled: Jul 13, 2025          
 
-VERSE 1  
+    VERSE 1  
 I once was lost in darkest night  
 Yet thought I knew the way  
 The sin that promised joy and life  
@@ -44,3 +44,4 @@ O Father use my ransomed life
 In any way You choose  
 And let my song forever be  
 My only boast is You
+    

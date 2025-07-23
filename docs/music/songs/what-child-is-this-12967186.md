@@ -1,14 +1,14 @@
 ---
-title: "What Child Is This"
-tags: ['advent', 'birth', 'christmas', 'honor', 'jesus', 'joy', 'kingship', 'messiah', 'reverence', 'salvation', 'son-of-god']
----
+    title: "What Child Is This"
+    tags: ['advent', 'birth', 'christmas', 'honor', 'jesus', 'joy', 'kingship', 'messiah', 'reverence', 'salvation', 'son-of-god']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12967186)
+    [Planning Center](https://services.planningcenteronline.com/songs/12967186)
 
-## Songwriter(s): Chris Tomlin and William Chatterton Dix
-### Last scheduled: Dec 15, 2024          
+    ## Songwriter(s): Chris Tomlin and William Chatterton Dix
+    ### Last scheduled: Dec 15, 2024          
 
-Verse 1  
+    Verse 1  
   
 What Child is this who laid to rest  
 On Mary's lap is sleeping  
@@ -42,3 +42,4 @@ Nails spears shall pierce Him through
 The cross He bore for me for you  
 Hail hail the Word made flesh  
 The Babe the Son of Mary
+    

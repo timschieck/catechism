@@ -1,14 +1,14 @@
 ---
-title: "This Is Our God"
-tags: ['no-themes']
----
+    title: "This Is Our God"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/14164302)
+    [Planning Center](https://services.planningcenteronline.com/songs/14164302)
 
-## Songwriter(s): Dave Fournier, Doug Plank, George Romanacce, Neil Degraide, and Zach Jones
-### Last scheduled: Oct 20, 2019          
+    ## Songwriter(s): Dave Fournier, Doug Plank, George Romanacce, Neil Degraide, and Zach Jones
+    ### Last scheduled: Oct 20, 2019          
 
-Verse 1  
+    Verse 1  
   
 God our Father full of power  
 Maker of the heavens Maker of the world  
@@ -46,3 +46,4 @@ Speaking through the prophets empowering the Church
 Life is given by and through Him  
 With the Son and Father worshiped and adored  
 Holy is His Name
+    

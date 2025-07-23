@@ -1,14 +1,14 @@
 ---
-title: "O Worship The King"
-tags: ['exaltation', 'jesus', 'king', 'worship']
----
+    title: "O Worship The King"
+    tags: ['exaltation', 'jesus', 'king', 'worship']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12291738)
+    [Planning Center](https://services.planningcenteronline.com/songs/12291738)
 
-## Songwriter(s): Robert Grant, Johann Michael Haydn, and Chris Tomlin
-### Last scheduled: Jun 5, 2022          
+    ## Songwriter(s): Robert Grant, Johann Michael Haydn, and Chris Tomlin
+    ### Last scheduled: Jun 5, 2022          
 
-Verse 1  
+    Verse 1  
   
 O worship the King all glorious above  
 O gratefully sing His wonderful love  
@@ -43,3 +43,4 @@ Misc 1
 (Interlude)  
 Shine in the light  
 You shine in the light
+    

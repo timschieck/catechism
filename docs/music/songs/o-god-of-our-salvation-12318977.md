@@ -1,14 +1,14 @@
 ---
-title: "O God Of Our Salvation"
-tags: ['redemption', 'salvation']
----
+    title: "O God Of Our Salvation"
+    tags: ['redemption', 'salvation']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12318977)
+    [Planning Center](https://services.planningcenteronline.com/songs/12318977)
 
-## Songwriter(s): Michael Bleecker and Matt Boswell
-### Last scheduled: Sept 18, 2016          
+    ## Songwriter(s): Michael Bleecker and Matt Boswell
+    ### Last scheduled: Sept 18, 2016          
 
-Verse 1  
+    Verse 1  
   
 O God of our salvation  
 Who reigns upon the throne  
@@ -59,3 +59,4 @@ Misc 3
 (Amen) Who reigns upon the throne  
 (Amen) The sov'reign Father great is He  
 (Amen) From Whom all blessings flow
+    

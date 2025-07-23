@@ -1,14 +1,14 @@
 ---
-title: "Christ Is Risen"
-tags: ['awakening', 'be-glorified', 'christ', 'easter', 'freedom', 'gods-love', 'proclamation', 'renewal', 'resurrection', 'strength', 'the-cross', 'transformation', 'unity', 'victory', 'vision']
----
+    title: "Christ Is Risen"
+    tags: ['awakening', 'be-glorified', 'christ', 'easter', 'freedom', 'gods-love', 'proclamation', 'renewal', 'resurrection', 'strength', 'the-cross', 'transformation', 'unity', 'victory', 'vision']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/13317764)
+    [Planning Center](https://services.planningcenteronline.com/songs/13317764)
 
-## Songwriter(s): Mia Fieldes and Matt Maher
-### Last scheduled: Apr 12, 2020          
+    ## Songwriter(s): Mia Fieldes and Matt Maher
+    ### Last scheduled: Apr 12, 2020          
 
-Verse 1  
+    Verse 1  
   
 Let no one caught in sin remain  
 Inside the lie of inward shame  
@@ -48,3 +48,4 @@ Singing O death where is your sting
 O hell where is your victory  
 O church come stand in the light  
 Our God is not dead He's alive He's alive
+    

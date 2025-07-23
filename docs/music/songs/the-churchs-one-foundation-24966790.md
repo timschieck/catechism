@@ -1,14 +1,14 @@
 ---
-title: "The Church's One Foundation"
-tags: ['foundation', 'the-word', 'church', 'dedication', 'salvation']
----
+    title: "The Church's One Foundation"
+    tags: ['foundation', 'the-word', 'church', 'dedication', 'salvation']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/24966790)
+    [Planning Center](https://services.planningcenteronline.com/songs/24966790)
 
-## Songwriter(s): Samuel John Stone and Samuel Sebastian Wesley
-### Last scheduled: May 5, 2024          
+    ## Songwriter(s): Samuel John Stone and Samuel Sebastian Wesley
+    ### Last scheduled: May 5, 2024          
 
-Verse 1  
+    Verse 1  
 The Church's one foundation  
 Is Jesus Christ her Lord  
 She is His new creation  
@@ -52,3 +52,4 @@ O happy ones and holy
 Lord, give us grace that we  
 Like them the meek and lowly  
 On high may dwell with Thee.
+    

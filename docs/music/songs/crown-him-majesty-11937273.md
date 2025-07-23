@@ -1,14 +1,14 @@
 ---
-title: "Crown Him (Majesty)"
-tags: ['adoration', 'exaltation']
----
+    title: "Crown Him (Majesty)"
+    tags: ['adoration', 'exaltation']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/11937273)
+    [Planning Center](https://services.planningcenteronline.com/songs/11937273)
 
-## Songwriter(s): Matthew Bridges, Ed Cash, George Job Elvey, Matt Maher, Godfrey Thring, and Chris Tomlin
-### Last scheduled: Oct 8, 2023          
+    ## Songwriter(s): Matthew Bridges, Ed Cash, George Job Elvey, Matt Maher, Godfrey Thring, and Chris Tomlin
+    ### Last scheduled: Oct 8, 2023          
 
-Verse 1  
+    Verse 1  
   
 Crown Him with many crowns  
 The Lamb upon His throne  
@@ -52,3 +52,4 @@ Misc 2
 (Ending)  
 Praise God who reigns forevermore  
 You're the God who reigns forevermore
+    

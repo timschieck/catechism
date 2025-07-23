@@ -1,14 +1,14 @@
 ---
-title: "O Holy Night"
-tags: ['christmas', 'jesus', 'joy', 'seasonal']
----
+    title: "O Holy Night"
+    tags: ['christmas', 'jesus', 'joy', 'seasonal']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/13170113)
+    [Planning Center](https://services.planningcenteronline.com/songs/13170113)
 
-## Songwriter(s): Adolphe Charles Adam, Placide Cappeau, and John S. Dwight
-### Last scheduled: Dec 22, 2024          
+    ## Songwriter(s): Adolphe Charles Adam, Placide Cappeau, and John S. Dwight
+    ### Last scheduled: Dec 22, 2024          
 
-Verse 1  
+    Verse 1  
   
 O holy night the stars are brightly shining  
 It is the night of the dear Savior's birth  
@@ -61,3 +61,4 @@ His power and glory
 Evermore proclaim  
 His power and glory  
 Evermore proclaim
+    

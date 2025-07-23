@@ -1,14 +1,14 @@
 ---
-title: "Revelation Song"
-tags: ['heaven', 'holy']
----
+    title: "Revelation Song"
+    tags: ['heaven', 'holy']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12127708)
+    [Planning Center](https://services.planningcenteronline.com/songs/12127708)
 
-## Songwriter(s): Jennie Lee Riddle
-### Last scheduled: May 27, 2018          
+    ## Songwriter(s): Jennie Lee Riddle
+    ### Last scheduled: May 27, 2018          
 
-Verse 1  
+    Verse 1  
   
 Worthy is the Lamb Who was slain  
 Holy holy is He  
@@ -38,3 +38,4 @@ Filled with wonder awestruck wonder
 At the mention of Your name  
 Jesus Your name is power breath and living water  
 Such a marv'lous mystery yeah
+    

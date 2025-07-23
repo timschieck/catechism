@@ -1,14 +1,14 @@
 ---
-title: "I Sing The Mighty Power Of God"
-tags: ['creation', 'declaration', 'music-singing', 'nature', 'praise']
----
+    title: "I Sing The Mighty Power Of God"
+    tags: ['creation', 'declaration', 'music-singing', 'nature', 'praise']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/16049148)
+    [Planning Center](https://services.planningcenteronline.com/songs/16049148)
 
-## Songwriter(s): Isaac Watts
-### Last scheduled: Sept 2, 2018          
+    ## Songwriter(s): Isaac Watts
+    ### Last scheduled: Sept 2, 2018          
 
-Verse 1  
+    Verse 1  
   
 I sing the mighty power of God  
 That made the mountains rise  
@@ -40,3 +40,4 @@ While all that borrows life from Thee
 Is ever in Thy care  
 And everywhere that we can be  
 Thou God art present there
+    

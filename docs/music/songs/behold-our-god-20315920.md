@@ -1,14 +1,14 @@
 ---
-title: "Behold Our God"
-tags: ['jesus', 'adoration', 'praise']
----
+    title: "Behold Our God"
+    tags: ['jesus', 'adoration', 'praise']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/20315920)
+    [Planning Center](https://services.planningcenteronline.com/songs/20315920)
 
-## Songwriter(s): Jonathan Baird, Meghan Baird, Ryan Baird, and Stephen Altrogge
-### Last scheduled: May 18, 2025          
+    ## Songwriter(s): Jonathan Baird, Meghan Baird, Ryan Baird, and Stephen Altrogge
+    ### Last scheduled: May 18, 2025          
 
-Intro  
+    Intro  
   
 Verse 1  
 Who has held the oceans in His hands?  
@@ -38,3 +38,4 @@ You will reign forever! (Let your glory fill the earth)
 You will reign forever! (Let your glory fill the earth)  
 You will reign forever! (Let your glory fill)  
 You will reign forever! (Let your glory fill)
+    

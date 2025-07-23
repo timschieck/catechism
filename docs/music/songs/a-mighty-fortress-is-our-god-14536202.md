@@ -1,14 +1,14 @@
 ---
-title: "A Mighty Fortress Is Our God"
-tags: ['conquering', 'fortress', 'lord-of-hosts', 'refuge', 'spiritual-warfare', 'surrender', 'trust']
----
+    title: "A Mighty Fortress Is Our God"
+    tags: ['conquering', 'fortress', 'lord-of-hosts', 'refuge', 'spiritual-warfare', 'surrender', 'trust']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/14536202)
+    [Planning Center](https://services.planningcenteronline.com/songs/14536202)
 
-## Songwriter(s): Frederick Hedge and Martin Luther
-### Last scheduled: Jun 16, 2024          
+    ## Songwriter(s): Frederick Hedge and Martin Luther
+    ### Last scheduled: Jun 16, 2024          
 
-Verse 1  
+    Verse 1  
 A mighty for - tress is our God  
 bul - wark nev - er fail - ing  
 Our helper He a - mid the flood  
@@ -58,3 +58,4 @@ This mor - tal life al - so
 The bod - y they may kill  
 God's truth a - bid - eth still  
 His king - dom is for - ev - er
+    

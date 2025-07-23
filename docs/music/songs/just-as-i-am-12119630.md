@@ -1,14 +1,14 @@
 ---
-title: "Just As I Am"
-tags: ['no-themes']
----
+    title: "Just As I Am"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12119630)
+    [Planning Center](https://services.planningcenteronline.com/songs/12119630)
 
-## Songwriter(s): Travis Alan Cottrell, David Moffitt, and Sue C. Smith
-### Last scheduled: Nov 4, 2018          
+    ## Songwriter(s): Travis Alan Cottrell, David Moffitt, and Sue C. Smith
+    ### Last scheduled: Nov 4, 2018          
 
-Verse 1  
+    Verse 1  
   
 Just as I am without one plea  
 But that Thy blood was shed for me  
@@ -45,3 +45,4 @@ Misc 1
 (Ending)  
 Praise God just as I am  
 Just as I am
+    

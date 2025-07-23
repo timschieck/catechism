@@ -1,14 +1,14 @@
 ---
-title: "Praise To The Lord The Almighty"
-tags: ['adoration', 'creation', 'gods-protection', 'praise']
----
+    title: "Praise To The Lord The Almighty"
+    tags: ['adoration', 'creation', 'gods-protection', 'praise']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/13730270)
+    [Planning Center](https://services.planningcenteronline.com/songs/13730270)
 
-## Songwriter(s): Joachim Neander and Catherine Winkworth
-### Last scheduled: May 18, 2025          
+    ## Songwriter(s): Joachim Neander and Catherine Winkworth
+    ### Last scheduled: May 18, 2025          
 
-Verse 1  
+    Verse 1  
   
 Praise to the Lord the Al - mighty the King of crea - tion  
 O my soul praise Him  
@@ -55,3 +55,4 @@ Who when the godless do triumph
 All virtue confoun - ding  
 Sheddeth His light chaseth the horrors of night  
 Saints with His mercy surroun - ding
+    

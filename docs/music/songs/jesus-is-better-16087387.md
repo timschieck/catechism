@@ -1,14 +1,14 @@
 ---
-title: "Jesus Is Better"
-tags: ['no-themes']
----
+    title: "Jesus Is Better"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/16087387)
+    [Planning Center](https://services.planningcenteronline.com/songs/16087387)
 
-## Songwriter(s): Aaron Ivey and Brett Land
-### Last scheduled: Jul 21, 2019          
+    ## Songwriter(s): Aaron Ivey and Brett Land
+    ### Last scheduled: Jul 21, 2019          
 
-Verse 1  
+    Verse 1  
   
 There is no other so sure and steady  
 My hope is held in Your hand  
@@ -58,3 +58,4 @@ We raise the anthem
 Our loudest praises ring  
 We crown Him Lord of all  
 We crown Him Lord of all
+    

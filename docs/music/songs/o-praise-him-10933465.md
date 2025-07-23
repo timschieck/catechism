@@ -1,14 +1,14 @@
 ---
-title: "O Praise Him"
-tags: ['holiness', 'praise']
----
+    title: "O Praise Him"
+    tags: ['holiness', 'praise']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/10933465)
+    [Planning Center](https://services.planningcenteronline.com/songs/10933465)
 
-## Songwriter(s): David Crowder
-### Last scheduled: None          
+    ## Songwriter(s): David Crowder
+    ### Last scheduled: None          
 
-Verse 1  
+    Verse 1  
   
 Turn your ear to heaven  
 And hear the noise inside  
@@ -48,3 +48,4 @@ Chorus 2
 Alleluia alleluia  
 He is holy  
 He is holy yeah
+    

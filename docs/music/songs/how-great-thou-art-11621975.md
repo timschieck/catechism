@@ -1,14 +1,14 @@
 ---
-title: "How Great Thou Art"
-tags: ['adoration', 'greatness', 'majesty', 'power', 'second-coming', 'worship']
----
+    title: "How Great Thou Art"
+    tags: ['adoration', 'greatness', 'majesty', 'power', 'second-coming', 'worship']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/11621975)
+    [Planning Center](https://services.planningcenteronline.com/songs/11621975)
 
-## Songwriter(s): Stuart Wesley Keene Hine
-### Last scheduled: Mar 16, 2025          
+    ## Songwriter(s): Stuart Wesley Keene Hine
+    ### Last scheduled: Mar 16, 2025          
 
-Verse 1  
+    Verse 1  
   
 O Lord my God  
 When I in awesome wonder  
@@ -62,3 +62,4 @@ Then I shall bow
 In humble adoration  
 And there proclaim  
 My God how great Thou art
+    

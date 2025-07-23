@@ -1,14 +1,14 @@
 ---
-title: "My Victory"
-tags: ['no-themes']
----
+    title: "My Victory"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/12280616)
+    [Planning Center](https://services.planningcenteronline.com/songs/12280616)
 
-## Songwriter(s): Darren Mulligan, David Crowder, Ed Cash, and Hank Bentley
-### Last scheduled: Nov 17, 2019          
+    ## Songwriter(s): Darren Mulligan, David Crowder, Ed Cash, and Hank Bentley
+    ### Last scheduled: Nov 17, 2019          
 
-Verse 1  
+    Verse 1  
   
 You came for criminals  
 And ev'ry Pharisee  
@@ -50,3 +50,4 @@ Misc 2
   
 (Ending)  
 Oh a cross meant to kill is my victory
+    

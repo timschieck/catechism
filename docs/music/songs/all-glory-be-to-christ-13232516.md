@@ -1,14 +1,14 @@
 ---
-title: "All Glory Be To Christ"
-tags: ['christ', 'glory']
----
+    title: "All Glory Be To Christ"
+    tags: ['christ', 'glory']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/13232516)
+    [Planning Center](https://services.planningcenteronline.com/songs/13232516)
 
-## Songwriter(s): Dustin Kensrue
-### Last scheduled: Apr 6, 2025          
+    ## Songwriter(s): Dustin Kensrue
+    ### Last scheduled: Apr 6, 2025          
 
-VERSE 1  
+    VERSE 1  
   
 Should nothing of our efforts stand  
 No legacy survive  
@@ -49,3 +49,4 @@ Behold our God shall live with us
 And be our steadfast light  
 And we shall ere his people be  
 All glory be to Christ
+    

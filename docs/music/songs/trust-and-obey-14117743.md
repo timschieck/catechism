@@ -1,14 +1,14 @@
 ---
-title: "Trust And Obey"
-tags: ['assurance', 'baptism', 'devotion', 'life', 'obedience', 'testimony', 'trust']
----
+    title: "Trust And Obey"
+    tags: ['assurance', 'baptism', 'devotion', 'life', 'obedience', 'testimony', 'trust']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/14117743)
+    [Planning Center](https://services.planningcenteronline.com/songs/14117743)
 
-## Songwriter(s): Daniel Brink Towner, John Henry Sammis, and Russell Mauldin
-### Last scheduled: Jul 10, 2022          
+    ## Songwriter(s): Daniel Brink Towner, John Henry Sammis, and Russell Mauldin
+    ### Last scheduled: Jul 10, 2022          
 
-Chorus 1  
+    Chorus 1  
   
 Trust and obey  
 For there's no other way  
@@ -46,3 +46,4 @@ Misc 1
   
 (Ending)  
 Trust and obey
+    

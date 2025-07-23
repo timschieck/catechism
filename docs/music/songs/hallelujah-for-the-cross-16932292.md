@@ -1,14 +1,14 @@
 ---
-title: "Hallelujah For The Cross"
-tags: ['no-themes']
----
+    title: "Hallelujah For The Cross"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/16932292)
+    [Planning Center](https://services.planningcenteronline.com/songs/16932292)
 
-## Songwriter(s): Ben Glover, Chris McClarney, and Jeff Pardo
-### Last scheduled: May 19, 2019          
+    ## Songwriter(s): Ben Glover, Chris McClarney, and Jeff Pardo
+    ### Last scheduled: May 19, 2019          
 
-Verse 1  
+    Verse 1  
   
 I would be hopeless without Your goodness  
 I would be desp'rate without Your love  
@@ -49,3 +49,4 @@ Misc 2
 (Interlude)  
 I thank You for the cross  
 Jesus I thank You for the cross
+    

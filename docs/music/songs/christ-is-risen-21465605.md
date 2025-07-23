@@ -1,14 +1,14 @@
 ---
-title: "Christ Is Risen"
-tags: ['no-themes']
----
+    title: "Christ Is Risen"
+    tags: ['no-themes']
+    ---
 
-[Planning Center](https://services.planningcenteronline.com/songs/21465605)
+    [Planning Center](https://services.planningcenteronline.com/songs/21465605)
 
-## Songwriter(s): Brian Johnson, Mack Brock, and Phil Wickham
-### Last scheduled: Feb 26, 2023          
+    ## Songwriter(s): Brian Johnson, Mack Brock, and Phil Wickham
+    ### Last scheduled: Feb 26, 2023          
 
-Verse 1  
+    Verse 1  
   
 Amazing grace how sweet the sound  
 That saved a wretch like me  
@@ -60,3 +60,4 @@ Jesus is alive oh
 And all throughout eternity  
 Our song will be the same  
 Hallelujah Christ is risen from the grave
+    
