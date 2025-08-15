@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/23673984)
 
     ## Songwriter(s): Edward Perronet, John (adapt) Rippon, and Oliver Holden
-    ### Last scheduled: Apr 27, 2025          
+    ### Last scheduled: Jul 27, 2025          
 
     Verse 1  
   

@@ -6,8 +6,8 @@
 | [A Mighty Fortress Is Our God](songs/a-mighty-fortress-is-our-god-14536202.md) | ['conquering', 'fortress', 'lord-of-hosts', 'refuge', 'spiritual-warfare', 'surrender', 'trust'] | 2024-06-16 |
 | [Alas And Did My Saviour Bleed](songs/alas-and-did-my-saviour-bleed-26007172.md) | ['assurance', 'calvary', 'consecration', 'cross', 'crucifixion', 'love', 'redemption', 'sacrifice', 'salvation', 'savior'] | 2024-03-29 |
 | [All Creatures Of Our God And King](songs/all-creatures-of-our-god-and-king-12501992.md) | ['adoration', 'creator', 'creatures', 'praise', 'singing', 'worship'] | 2025-05-11 |
-| [All Glory Be To Christ](songs/all-glory-be-to-christ-13232516.md) | ['christ', 'glory'] | 2025-04-06 |
-| [All Hail The Power Of Jesus Name](songs/all-hail-the-power-of-jesus-name-23673984.md) | ['gospel', 'christ', 'majesty', 'name-of-jesus', 'gods-attributes', 'power', 'lordship-of-jesus', 'jesus', 'praise', 'adoration', 'eternal-life', 'grace', 'worship'] | 2025-04-27 |
+| [All Glory Be To Christ](songs/all-glory-be-to-christ-13232516.md) | ['christ', 'glory'] | 2025-08-17 |
+| [All Hail The Power Of Jesus Name](songs/all-hail-the-power-of-jesus-name-23673984.md) | ['gospel', 'christ', 'majesty', 'name-of-jesus', 'gods-attributes', 'power', 'lordship-of-jesus', 'jesus', 'praise', 'adoration', 'eternal-life', 'grace', 'worship'] | 2025-07-27 |
 | [All I Have Is Christ](songs/all-i-have-is-christ-12025173.md) | ['jesus', 'life', 'surrender'] | 2025-07-13 |
 | [All My Boast Is In Jesus](songs/all-my-boast-is-in-jesus-26663170.md) | ['cross', 'glory', 'hope', 'jesus'] | 2025-06-08 |
 | [All The Poor And Powerless](songs/all-the-poor-and-powerless-12750908.md) | ['praise', 'proclamation', 'worship'] | 2000-01-01 |
@@ -29,7 +29,7 @@
 | [Blessed Assurance](songs/blessed-assurance-12501715.md) | ['adoration', 'assurance', 'testimony'] | 2025-06-08 |
 | [Build My Life](songs/build-my-life-15782551.md) | ['no-themes'] | 2019-02-24 |
 | [Build Your Kingdom Here](songs/build-your-kingdom-here-12485586.md) | ['heaven', 'kingdom-of-god', 'prayer'] | 2023-08-20 |
-| [By Faith](songs/by-faith-14623131.md) | ['christian-life', 'faith', 'o-holy-god', 'promise'] | 2025-04-27 |
+| [By Faith](songs/by-faith-14623131.md) | ['christian-life', 'faith', 'o-holy-god', 'promise'] | 2025-07-27 |
 | [Christ Arose](songs/christ-arose-17272823.md) | ['ascension', 'easter', 'eternal-life', 'resurrection', 'seasonal', 'victory'] | 2024-07-28 |
 | [Christ Is Mine Forevermore](songs/christ-is-mine-forevermore-15169772.md) | ['christ', 'eternal'] | 2025-06-22 |
 | [Christ Is Risen](songs/christ-is-risen-13317764.md) | ['awakening', 'be-glorified', 'christ', 'easter', 'freedom', 'gods-love', 'proclamation', 'renewal', 'resurrection', 'strength', 'the-cross', 'transformation', 'unity', 'victory', 'vision'] | 2020-04-12 |
@@ -98,7 +98,7 @@
 | [I'd Rather Have Jesus](songs/id-rather-have-jesus-21944365.md) | ['devotion', 'friendship', 'commitment', 'jesus'] | 2022-02-20 |
 | [Immortal Invisible](songs/immortal-invisible-14681653.md) | ['light', 'praise', 'wisdom'] | 2025-06-15 |
 | [In Christ Alone](songs/in-christ-alone-11621965.md) | ['easter', 'hope', 'security'] | 2025-05-18 |
-| [In Tenderness](songs/in-tenderness-12807736.md) | ['adoration', 'atonement', 'blood', 'grace', 'jesus', 'lamb-of-god', 'love', 'praise', 'sacrifice'] | 2025-01-26 |
+| [In Tenderness](songs/in-tenderness-12807736.md) | ['adoration', 'atonement', 'blood', 'grace', 'jesus', 'lamb-of-god', 'love', 'praise', 'sacrifice'] | 2025-07-27 |
 | [Indescribable](songs/indescribable-16115619.md) | ['awesome', 'creation', 'creativity', 'gods-attributes', 'greatness', 'love', 'o-holy-night', 'patriotic', 'power'] | 2019-11-17 |
 | [Is He Worthy](songs/is-he-worthy-17091632.md) | ['worthiness'] | 2020-12-20 |
 | [It Came Upon The Midnight Clear](songs/it-came-upon-the-midnight-clear-14780981.md) | ['christmas', 'jesus', 'seasonal'] | 2022-12-04 |
@@ -201,7 +201,7 @@
 | [To God Be The Glory](songs/to-god-be-the-glory-16065102.md) | ['adoration', 'glory', 'gods-attributes', 'power', 'praise', 'rejoice', 'testimony', 'worship'] | 2023-11-12 |
 | [To The Cross I Cling](songs/to-the-cross-i-cling-11912929.md) | ['no-themes'] | 2000-01-01 |
 | [Trust And Obey](songs/trust-and-obey-14117743.md) | ['assurance', 'baptism', 'devotion', 'life', 'obedience', 'testimony', 'trust'] | 2022-07-10 |
-| [Trust You](songs/trust-you-12634358.md) | ['no-themes'] | 2024-12-29 |
+| [Trust You](songs/trust-you-12634358.md) | ['no-themes'] | 2025-07-27 |
 | [Turn Your Eyes](songs/turn-your-eyes-27614907.md) | ['adoration', 'encouragement', 'jesus', 'light'] | 2025-02-09 |
 | [Way Maker](songs/way-maker-22601018.md) | ['no-themes'] | 2025-08-10 |
 | [We Have A Saviour](songs/we-have-a-saviour-14695295.md) | ['no-themes'] | 2023-12-24 |

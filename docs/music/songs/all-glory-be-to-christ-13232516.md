@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/13232516)
 
     ## Songwriter(s): Dustin Kensrue
-    ### Last scheduled: Apr 6, 2025          
+    ### Last scheduled: Aug 17, 2025          
 
     VERSE 1  
   
