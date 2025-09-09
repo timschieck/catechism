@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/12146326)
 
     ## Songwriter(s): David Crowder, Jack Parker, and Charles Wesley
-    ### Last scheduled: Nov 10, 2024          
+    ### Last scheduled: Aug 17, 2025          
 
     No Lyrics
     

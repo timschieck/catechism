@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/11621965)
 
     ## Songwriter(s): Keith Getty and Stuart Townend
-    ### Last scheduled: May 18, 2025          
+    ### Last scheduled: Sept 7, 2025          
 
     No Lyrics
     

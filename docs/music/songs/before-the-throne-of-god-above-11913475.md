@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/11913475)
 
     ## Songwriter(s): Charitie Lees Bancroft and Vikki Cook
-    ### Last scheduled: Nov 17, 2024          
+    ### Last scheduled: Aug 17, 2025          
 
     Verse 1  
 Before the throne of God a - bove  

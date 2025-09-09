@@ -6,9 +6,12 @@
     [Planning Center](https://services.planningcenteronline.com/songs/15523150)
 
     ## Songwriter(s): Steve Cook and Vikki Cook
-    ### Last scheduled: Oct 1, 2023          
+    ### Last scheduled: Aug 24, 2025          
 
-    Verse 1  
+    Intro  
+(I will)  
+  
+Verse 1  
   
 I will glory in my Redeemer  
 Whose priceless blood has ransomed me  
@@ -28,9 +31,10 @@ I have no longings for another
 I'm satisfied in Him alone  
 I will glory in my Redeemer  
 His faithfulness my standing place  
-Though foes are mighty and rush up on me  
+Though foes are mighty and rush upon me  
 My feet are firm held by His grace  
 My feet are firm held by His grace  
+  
   
 Verse 3  
   

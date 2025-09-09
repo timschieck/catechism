@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/26663170)
 
     ## Songwriter(s): Bryan Fowler, Keith Getty, Matt Boswell, and Matt Papa
-    ### Last scheduled: Jun 8, 2025          
+    ### Last scheduled: Sept 7, 2025          
 
     Intro  
   

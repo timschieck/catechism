@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/27984731)
 
     ## Songwriter(s): Mitch Wong and Paul Baloche
-    ### Last scheduled: Apr 6, 2025          
+    ### Last scheduled: Sept 7, 2025          
 
     Verse 1  
   

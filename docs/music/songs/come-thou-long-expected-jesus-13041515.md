@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/13041515)
 
     ## Songwriter(s): Rowland Hugh Prichard and Charles Wesley
-    ### Last scheduled: Dec 1, 2024          
+    ### Last scheduled: Aug 24, 2025          
 
     No Lyrics
     

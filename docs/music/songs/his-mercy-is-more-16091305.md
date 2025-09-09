@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/16091305)
 
     ## Songwriter(s): Matt Boswell and Matt Papa
-    ### Last scheduled: Mar 23, 2025          
+    ### Last scheduled: Aug 31, 2025          
 
     Verse 1  
 What love could re - member no wrongs we have done  

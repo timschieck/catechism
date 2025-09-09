@@ -6,7 +6,7 @@
     [Planning Center](https://services.planningcenteronline.com/songs/14965967)
 
     ## Songwriter(s): Edwin Othello Excell, John Newton, and John P. Rees
-    ### Last scheduled: Mar 2, 2025          
+    ### Last scheduled: Aug 17, 2025          
 
     Verse 1  
   

@@ -5,62 +5,49 @@
 
     [Planning Center](https://services.planningcenteronline.com/songs/13009881)
 
-    ## Songwriter(s): Maltbie D. Babcock, Aaron Purdy, Jennie Lee Riddle, and Franklin Lawrence Sheppard
-    ### Last scheduled: Mar 2, 2025          
+    ## Songwriter(s): Maltbie D. Babcock
+    ### Last scheduled: Aug 24, 2025          
 
-    Verse 1  
-  
+    VERSE 1  
 This is my Father's world  
-And to my list'ning ears  
-All nature sings and 'round me rings  
-Music of the spheres  
-  
-Chorus 1  
+And to my listening ears  
+All nature sings And round me rings  
+The music of the spheres  
   
 This is my Father's world  
 I rest me in the thought  
-Of rocks and trees of skies and seas  
+Of rocks and tress of skies and seas  
 His hand the wonders wrought  
   
-Verse 2  
-  
+VERSE 2  
 This is my Father's world  
 The birds their carols raise  
 The morning light the lily white  
 Declare their Maker's praise  
   
-Chorus 2  
-  
 This is my Father's world  
 He shines in all that's fair  
-In the rust'ling grass I hear Him pass  
-He speaks to me ev'rywhere  
+In the rustling grass I hear Him pass  
+He speaks to me everywhere  
   
-Verse 3  
   
+VERSE 3  
 This is my Father's world  
 O let me ne'er forget  
-And though the wrong seems oft so strong  
+That though the wrong seems oft so strong  
 God is the Ruler yet  
-And though the wrong seems oft so strong  
-God is the Ruler yet  
-  
-Chorus 3  
   
 This is my Father's world  
-Why should my heart be sad  
-The Lord is King let the heavens ring  
-God reigns let the earth be glad  
-The Lord is King let the heavens ring  
-God reigns let the earth be glad  
+Why should my heart by sad  
+The Lord is king let the heavens ring  
+God is the ruler yet  
   
-Misc 1  
+TAG  
+This is my Father's world  
+Why should my heart by sad  
+The Lord is king let the heavens ring  
+God is the ruler yet  
   
-(Bridge)  
-The Lord is King let the heavens ring  
-The Lord is King let the heavens ring (3X)  
-God reigns  
-God reigns  
-God reigns  
-God reigns
+The Lord is king let the heavens ring  
+God is the ruler yet
     
