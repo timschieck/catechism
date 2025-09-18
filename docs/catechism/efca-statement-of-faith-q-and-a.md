@@ -46,7 +46,15 @@ We believe that Jesus Christ, as our representative and substitute, shed His blo
 **All:** He indwells, illuminates, guides, equips and empowers believers for Christ-like living and service.
 
 ## 7. The Church
-We believe that the true church comprises all who have been justified by God's grace through faith alone in Christ alone. They are united by the Holy Spirit in the body of Christ, of which He is the Head. The true church is manifest in local churches, whose membership should be composed only of believers. The Lord Jesus mandated two ordinances, baptism and the Lord’s Supper, which visibly and tangibly express the gospel. Though they are not the means of salvation, when celebrated by the church in genuine faith, these ordinances confirm and nourish the believer.
+**Leader:** Who is a part of God's church?  
+**All:** We believe that the true church comprises all who have been justified by God's grace through faith alone in Christ alone. They are united by the Holy Spirit in the body of Christ, of which He is the Head. 
+
+**Leader:** Where is the church visible?  
+**All:** The true church is manifest in local churches, whose membership should be composed only of believers. 
+
+**Leader:** How does the local church express the Gospel in its worship?  
+**All:** The Lord Jesus mandated two ordinances, baptism and the Lord’s Supper, which visibly and tangibly express the gospel. Though they are not the means of salvation, when celebrated by the church in genuine faith, these ordinances confirm and nourish the believer. 
+
 ## 8. Christian Living
 **Leader:** How are we to live in this present time as children of God who have been wholly forgiven of sin?  
 **All:** We believe that God's justifying grace must not be separated from His sanctifying power and purpose. God commands us to love Him supremely and others sacrificially, and to live out our faith with care for one another, compassion toward the poor and justice for the oppressed.  
