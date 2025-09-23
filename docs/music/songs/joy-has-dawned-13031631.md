@@ -1,14 +1,13 @@
 ---
-    title: "Joy Has Dawned"
-    tags: ['gods-attributes', 'goodness', 'joy', 'salvation']
-    ---
+title: "Joy Has Dawned"
+tags: ['gods-attributes', 'goodness', 'joy', 'salvation']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/13031631)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/13031631)
+## Songwriter(s): Keith Getty and Stuart Townend
+### Last scheduled: Dec 8, 2024          
 
-    ## Songwriter(s): Keith Getty and Stuart Townend
-    ### Last scheduled: Dec 8, 2024          
-
-    Verse 1  
+Verse 1  
   
 Joy has dawned upon the world  
 Promised from creation  
@@ -51,4 +50,3 @@ What a Savior what a Friend
 What a glorious mystery  
 Once a babe in Bethlehem  
 Now the Lord of history
-    

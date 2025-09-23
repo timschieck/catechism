@@ -1,14 +1,13 @@
 ---
-    title: "More Than Conquerors"
-    tags: ['no-themes']
-    ---
+title: "More Than Conquerors"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11909231)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11909231)
+## Songwriter(s): Rend Collective Experiment
+### Last scheduled: Feb 6, 2022          
 
-    ## Songwriter(s): Rend Collective Experiment
-    ### Last scheduled: Feb 6, 2022          
-
-    Verse 1  
+Verse 1  
   
 When my hope and strength is gone  
 You're the One who calls me on  
@@ -55,4 +54,3 @@ With You we are victorious
 You are stronger than our hearts  
 You are greater than the dark  
 With You we are victorious
-    

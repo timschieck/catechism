@@ -1,14 +1,13 @@
 ---
-    title: "Sweet By And By"
-    tags: ['eternal-life', 'everlasting-life', 'faith', 'heaven']
-    ---
+title: "Sweet By And By"
+tags: ['eternal-life', 'everlasting-life', 'faith', 'heaven']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/17416922)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/17416922)
+## Songwriter(s): Sanford F. Bennett
+### Last scheduled: May 17, 2019          
 
-    ## Songwriter(s): Sanford F. Bennett
-    ### Last scheduled: May 17, 2019          
-
-    Chorus 1  
+Chorus 1  
   
 In the sweet by and by  
 We shall meet on that beautiful shore  
@@ -35,4 +34,3 @@ To our bountiful Father above
 We will offer our tribute of praise  
 For the glorious gift of His love  
 And the blessings that hallow our days
-    

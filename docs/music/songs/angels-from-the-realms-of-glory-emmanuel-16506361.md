@@ -1,14 +1,13 @@
 ---
-    title: "Angels From The Realms of Glory (Emmanuel)"
-    tags: ['no-themes']
-    ---
+title: "Angels From The Realms of Glory (Emmanuel)"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/16506361)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/16506361)
+## Songwriter(s): Brenton Brown and Paul Baloche
+### Last scheduled: Dec 23, 2018          
 
-    ## Songwriter(s): Brenton Brown and Paul Baloche
-    ### Last scheduled: Dec 23, 2018          
-
-    Verse 1  
+Verse 1  
   
 Angels from the realms of glory  
 Wing your flight o'er all the earth  
@@ -54,4 +53,3 @@ Misc 2
 (Ending)  
 Emmanuel Emmanuel  
 Emmanuel Emmanuel
-    

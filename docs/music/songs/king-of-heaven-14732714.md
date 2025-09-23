@@ -1,14 +1,13 @@
 ---
-    title: "King Of Heaven"
-    tags: ['no-themes']
-    ---
+title: "King Of Heaven"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/14732714)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/14732714)
+## Songwriter(s): Paul Baloche
+### Last scheduled: None          
 
-    ## Songwriter(s): Paul Baloche
-    ### Last scheduled: None          
-
-    Verse 1  
+Verse 1  
   
 Jesus let Your kingdom come here  
 Let Your will be done here in us  
@@ -40,4 +39,3 @@ King of heaven come
 King of heaven come  
 King of heaven come  
 Oh King of heaven come
-    

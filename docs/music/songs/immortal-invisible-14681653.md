@@ -1,14 +1,13 @@
 ---
-    title: "Immortal Invisible"
-    tags: ['light', 'praise', 'wisdom']
-    ---
+title: "Immortal Invisible"
+tags: ['light', 'praise', 'wisdom']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/14681653)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/14681653)
+## Songwriter(s): John Roberts and Walter Chalmers Smith
+### Last scheduled: Jun 15, 2025          
 
-    ## Songwriter(s): John Roberts and Walter Chalmers Smith
-    ### Last scheduled: Jun 15, 2025          
-
-    Verse 1  
+Verse 1  
   
 Immortal invisible God only wise  
 In light inaccessible  
@@ -51,4 +50,3 @@ All praise we would render
 O help us to see  
 'Tis only the splendor  
 Of light hideth thee
-    

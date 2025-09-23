@@ -1,14 +1,13 @@
 ---
-    title: "All The Poor And Powerless"
-    tags: ['praise', 'proclamation', 'worship']
-    ---
+title: "All The Poor And Powerless"
+tags: ['praise', 'proclamation', 'worship']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12750908)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12750908)
+## Songwriter(s): Leslie Jordan and David Leonard
+### Last scheduled: None          
 
-    ## Songwriter(s): Leslie Jordan and David Leonard
-    ### Last scheduled: None          
-
-    Verse 1  
+Verse 1  
   
 All the poor and powerless  
 And all the lost and lonely  
@@ -43,4 +42,3 @@ We will sing out hallelujah
 And we will cry out hallelujah  
 We will sing out hallelujah  
 And shout yeah
-    

@@ -1,14 +1,13 @@
 ---
-    title: "O Sacred Head Now Wounded"
-    tags: ['crucifixion', 'friendship', 'refuge', 'salvation']
-    ---
+title: "O Sacred Head Now Wounded"
+tags: ['crucifixion', 'friendship', 'refuge', 'salvation']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/13729582)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/13729582)
+## Songwriter(s): Bernard Of Clairvaux, Debbie Fortnum, and Hans Leo Hassler
+### Last scheduled: Apr 14, 2017          
 
-    ## Songwriter(s): Bernard Of Clairvaux, Debbie Fortnum, and Hans Leo Hassler
-    ### Last scheduled: Apr 14, 2017          
-
-    Verse 1  
+Verse 1  
   
 O sacred head now wounded  
 With grief and shame weighed down  
@@ -29,4 +28,3 @@ Oh make me Yours forever
 And cause my heart to be  
 Surrounded in the shade of  
 The cross of Calvary
-    

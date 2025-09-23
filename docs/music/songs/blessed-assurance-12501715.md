@@ -1,14 +1,13 @@
 ---
-    title: "Blessed Assurance"
-    tags: ['adoration', 'assurance', 'testimony']
-    ---
+title: "Blessed Assurance"
+tags: ['adoration', 'assurance', 'testimony']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12501715)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12501715)
+## Songwriter(s): Phoebe Palmer Knapp and Fanny Jane Crosby
+### Last scheduled: Jun 8, 2025          
 
-    ## Songwriter(s): Phoebe Palmer Knapp and Fanny Jane Crosby
-    ### Last scheduled: Jun 8, 2025          
-
-    Verse 1  
+Verse 1  
   
 Blessed assurance Jesus is mine  
 Oh what foretaste of glory divine  
@@ -62,4 +61,3 @@ Wonderful Jesus
 Oh what a Savior  
 Wonderful Jesus  
 Oh what a Savior oh
-    

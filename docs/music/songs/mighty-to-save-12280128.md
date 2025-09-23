@@ -1,14 +1,13 @@
 ---
-    title: "Mighty To Save"
-    tags: ['compassion', 'salvation']
-    ---
+title: "Mighty To Save"
+tags: ['compassion', 'salvation']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12280128)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12280128)
+## Songwriter(s): Ben Fielding and Reuben Morgan
+### Last scheduled: Jul 15, 2018          
 
-    ## Songwriter(s): Ben Fielding and Reuben Morgan
-    ### Last scheduled: Jul 15, 2018          
-
-    Verse 1  
+Verse 1  
   
 Ev’ryone needs compassion  
 Love that's never failing  
@@ -45,4 +44,3 @@ Jesus
 Shine your light and let the whole world see  
 We're singing  
 For the glory of the risen King
-    

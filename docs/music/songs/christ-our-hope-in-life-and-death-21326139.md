@@ -1,14 +1,13 @@
 ---
-    title: "Christ Our Hope In Life And Death"
-    tags: ['confidence', 'eternal', 'faith', 'goodness', 'grace', 'hope', 'life', 'redeemer', 'rock', 'truth']
-    ---
+title: "Christ Our Hope In Life And Death"
+tags: ['confidence', 'eternal', 'faith', 'goodness', 'grace', 'hope', 'life', 'redeemer', 'rock', 'truth']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/21326139)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/21326139)
+## Songwriter(s): Jordan Kauflin, Keith Getty, Matt Boswell, Matt Papa, and Matthew Merker
+### Last scheduled: Sept 14, 2025          
 
-    ## Songwriter(s): Jordan Kauflin, Keith Getty, Matt Boswell, Matt Papa, and Matthew Merker
-    ### Last scheduled: Jun 22, 2025          
-
-    Intro  
+Intro  
   
 Verse 1  
 What is our hope in life and death?  
@@ -55,4 +54,3 @@ Tag
 Now and ever we con - fess  
 Christ our hope  
 in life and death
-    

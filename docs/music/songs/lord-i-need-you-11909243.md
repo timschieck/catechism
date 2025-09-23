@@ -1,14 +1,13 @@
 ---
-    title: "Lord I Need You"
-    tags: ['confession', 'declaration', 'praise', 'worship']
-    ---
+title: "Lord I Need You"
+tags: ['confession', 'declaration', 'praise', 'worship']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11909243)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11909243)
+## Songwriter(s): Daniel Carson, Matt Maher, Christy Nockels, and Jesse Reeves
+### Last scheduled: Jun 8, 2025          
 
-    ## Songwriter(s): Daniel Carson, Matt Maher, Christy Nockels, and Jesse Reeves
-    ### Last scheduled: Jun 8, 2025          
-
-    Verse 1  
+Verse 1  
   
 Lord I come I confess  
 Bowing here I find my rest  
@@ -49,4 +48,3 @@ My one defense my righteousness
 Oh God how I need You  
 My one defense my righteousness  
 Oh God how I need You
-    

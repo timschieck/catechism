@@ -1,12 +1,10 @@
 ---
-    title: "Great Are You Lord"
-    tags: ['adoration', 'greatness', 'praise']
-    ---
+title: "Great Are You Lord"
+tags: ['adoration', 'greatness', 'praise']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11913845)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11913845)
+## Songwriter(s): Leslie Jordan and David Leonard
+### Last scheduled: Feb 11, 2024          
 
-    ## Songwriter(s): Leslie Jordan and David Leonard
-    ### Last scheduled: Feb 11, 2024          
-
-    No Lyrics
-    
+No Lyrics

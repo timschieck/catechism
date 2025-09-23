@@ -1,14 +1,13 @@
 ---
-    title: "Glorious Day"
-    tags: ['no-themes']
-    ---
+title: "Glorious Day"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/15721585)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/15721585)
+## Songwriter(s): Jason Ingram, Jonathan Smith, Kristian Stanfill, and Sean Curran
+### Last scheduled: Mar 24, 2024          
 
-    ## Songwriter(s): Jason Ingram, Jonathan Smith, Kristian Stanfill, and Sean Curran
-    ### Last scheduled: Mar 24, 2024          
-
-    Verse 1  
+Verse 1  
   
 I was buried beneath my shame  
 Who could carry that kind of weight  
@@ -44,4 +43,3 @@ Now You call me a citizen of Heaven
 When I was broken You were my healing  
 Now Your love is the air that I'm breathing  
 I have a future my eyes are open
-    

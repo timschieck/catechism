@@ -1,14 +1,13 @@
 ---
-    title: "To The Cross I Cling"
-    tags: ['no-themes']
-    ---
+title: "To The Cross I Cling"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11912929)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11912929)
+## Songwriter(s): Michael Bleecker, Matt Boswell, and Isaac Wimberley
+### Last scheduled: None          
 
-    ## Songwriter(s): Michael Bleecker, Matt Boswell, and Isaac Wimberley
-    ### Last scheduled: None          
-
-    Verse 1  
+Verse 1  
   
 No day of my life has passed that has not proved  
 Me guilty in Your sight  
@@ -47,4 +46,3 @@ Misc 2
 Oh oh oh  
 Oh oh  
 (REPEAT)
-    

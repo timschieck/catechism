@@ -1,14 +1,13 @@
 ---
-    title: "When I Survey The Wondrous Cross"
-    tags: ['no-themes']
-    ---
+title: "When I Survey The Wondrous Cross"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/20017365)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/20017365)
+## Songwriter(s): Isaac Watts
+### Last scheduled: Apr 18, 2025          
 
-    ## Songwriter(s): Isaac Watts
-    ### Last scheduled: Apr 18, 2025          
-
-    VERSE 1  
+VERSE 1  
 When I survey the wondrous cross  
 On which the Prince of glory died  
 My richest gain I count but loss  
@@ -37,4 +36,3 @@ Bless the Lord O my soul
 O my soul Worship His Holy Name  
 Sing like never before O my soul  
 I'll worship your holy name
-    

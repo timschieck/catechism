@@ -1,14 +1,13 @@
 ---
-    title: "Shout To The Lord"
-    tags: ['comfort', 'gods-attributes', 'im-forgiven', 'jesus', 'majesty', 'mighty', 'power', 'praise', 'promise', 'saviour', 'shelter']
-    ---
+title: "Shout To The Lord"
+tags: ['comfort', 'gods-attributes', 'im-forgiven', 'jesus', 'majesty', 'mighty', 'power', 'praise', 'promise', 'saviour', 'shelter']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12501311)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12501311)
+## Songwriter(s): Darlene Zschech
+### Last scheduled: Aug 16, 2020          
 
-    ## Songwriter(s): Darlene Zschech
-    ### Last scheduled: Aug 16, 2020          
-
-    Verse 1  
+Verse 1  
   
 My Jesus my Saviour  
 Lord there is none like You  
@@ -34,4 +33,3 @@ Forever I'll love You
 Forever I'll stand  
 Nothing compares to the promise  
 I have in You
-    

@@ -1,14 +1,13 @@
 ---
-    title: "This I Believe"
-    tags: ['no-themes']
-    ---
+title: "This I Believe"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/13317303)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/13317303)
+## Songwriter(s): Ben Fielding and Matt Crocker
+### Last scheduled: Oct 17, 2021          
 
-    ## Songwriter(s): Ben Fielding and Matt Crocker
-    ### Last scheduled: Oct 17, 2021          
-
-    Verse 1  
+Verse 1  
   
 Our Father everlasting  
 The all creating One  
@@ -52,4 +51,3 @@ And in Your holy Church
 I believe in the resurrection  
 When Jesus comes again  
 For I believe in the Name of Jesus
-    

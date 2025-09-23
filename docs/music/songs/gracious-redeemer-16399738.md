@@ -1,12 +1,10 @@
 ---
-    title: "Gracious Redeemer"
-    tags: ['no-themes']
-    ---
+title: "Gracious Redeemer"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/16399738)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/16399738)
+## Songwriter(s): Aaron Ivey and Marcus Dawes
+### Last scheduled: Nov 11, 2018          
 
-    ## Songwriter(s): Aaron Ivey and Marcus Dawes
-    ### Last scheduled: Nov 11, 2018          
-
-    No Lyrics
-    
+No Lyrics

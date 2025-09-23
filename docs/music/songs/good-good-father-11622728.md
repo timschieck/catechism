@@ -1,14 +1,13 @@
 ---
-    title: "Good Good Father"
-    tags: ['no-themes']
-    ---
+title: "Good Good Father"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11622728)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11622728)
+## Songwriter(s): Anthony Brown and Pat Barrett
+### Last scheduled: Nov 14 & 15, 2020          
 
-    ## Songwriter(s): Anthony Brown and Pat Barrett
-    ### Last scheduled: Nov 14 & 15, 2020          
-
-    Verse 1  
+Verse 1  
   
 I've heard a thousand stories  
 Of what they think You’re like  
@@ -52,4 +51,3 @@ As You call me deeper still
 As You call me deeper still  
 As You call me deeper still  
 Into love love love
-    

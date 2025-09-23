@@ -1,14 +1,13 @@
 ---
-    title: "Jesus Shall Reign"
-    tags: ['exaltation', 'jesus', 'king', 'kingship']
-    ---
+title: "Jesus Shall Reign"
+tags: ['exaltation', 'jesus', 'king', 'kingship']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/14623106)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/14623106)
+## Songwriter(s): John C. Hatton and Isaac Watts
+### Last scheduled: Nov 5, 2017          
 
-    ## Songwriter(s): John C. Hatton and Isaac Watts
-    ### Last scheduled: Nov 5, 2017          
-
-    Verse 1  
+Verse 1  
   
 Jesus shall reign where'er the sun  
 Does His successive journeys run  
@@ -42,4 +41,3 @@ Let every creature rise and bring
 The highest honours to our King  
 Angels descend with songs again  
 And earth repeats the loud amen
-    

@@ -1,14 +1,13 @@
 ---
-    title: "King Of Kings"
-    tags: ['blood', 'christ', 'cross', 'gods-love', 'jesus', 'praise', 'redemption', 'resurrection', 'salvation', 'trinity']
-    ---
+title: "King Of Kings"
+tags: ['blood', 'christ', 'cross', 'gods-love', 'jesus', 'praise', 'redemption', 'resurrection', 'salvation', 'trinity']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/23559487)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/23559487)
+## Songwriter(s): Brooke Ligertwood, Jason Ingram, and Scott Ligertwood
+### Last scheduled: Sept 21, 2025          
 
-    ## Songwriter(s): Brooke Ligertwood, Jason Ingram, and Scott Ligertwood
-    ### Last scheduled: Jul 20, 2025          
-
-    VERSE 1  
+VERSE 1  
 In the darkness we were waiting  
 without hope without light  
 Till from Heaven You came running  
@@ -57,4 +56,3 @@ who has resurrected me
   
 TAG  
 Praise for - ever to the King of kings
-    

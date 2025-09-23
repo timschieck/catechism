@@ -1,14 +1,13 @@
 ---
-    title: "In Tenderness"
-    tags: ['adoration', 'atonement', 'blood', 'grace', 'jesus', 'lamb-of-god', 'love', 'praise', 'sacrifice']
-    ---
+title: "In Tenderness"
+tags: ['adoration', 'atonement', 'blood', 'grace', 'jesus', 'lamb-of-god', 'love', 'praise', 'sacrifice']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12807736)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12807736)
+## Songwriter(s): Nate Garvey, Adoniram Judson Gordon, and W. Spencer Walton
+### Last scheduled: Jul 27, 2025          
 
-    ## Songwriter(s): Nate Garvey, Adoniram Judson Gordon, and W. Spencer Walton
-    ### Last scheduled: Jul 27, 2025          
-
-    Verse 1  
+Verse 1  
   
 In tenderness He sought me  
 Weary and sick with sin  
@@ -41,4 +40,3 @@ With all adoring wonder
 His blessings I retrace  
 It seems as if eternal days  
 Are far too short to sing His praise
-    

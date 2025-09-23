@@ -1,14 +1,13 @@
 ---
-    title: "Man Of Sorrows"
-    tags: ['cross', 'easter', 'resurrection', 'sacrifice']
-    ---
+title: "Man Of Sorrows"
+tags: ['cross', 'easter', 'resurrection', 'sacrifice']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12501213)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12501213)
+## Songwriter(s): Matt Crocker and Brooke Ligertwood
+### Last scheduled: Mar 30, 2018          
 
-    ## Songwriter(s): Matt Crocker and Brooke Ligertwood
-    ### Last scheduled: Mar 30, 2018          
-
-    Verse 1  
+Verse 1  
   
 Man of sorrows Lamb of God  
 By His own betrayed  
@@ -54,4 +53,3 @@ See the stone is rolled away
 Behold the empty tomb  
 Hallelujah God be praised  
 He's risen from the grave
-    

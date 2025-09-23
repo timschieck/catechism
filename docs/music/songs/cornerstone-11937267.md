@@ -1,14 +1,13 @@
 ---
-    title: "Cornerstone"
-    tags: ['no-themes']
-    ---
+title: "Cornerstone"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11937267)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11937267)
+## Songwriter(s): William Batchelder Bradbury, Eric Liljero, Reuben Morgan, Edward Mote, and Jonas Myrin
+### Last scheduled: Aug 18, 2024          
 
-    ## Songwriter(s): William Batchelder Bradbury, Eric Liljero, Reuben Morgan, Edward Mote, and Jonas Myrin
-    ### Last scheduled: Aug 18, 2024          
-
-    Verse 1  
+Verse 1  
   
 My hope is built on nothing less  
 Than Jesus' blood and righteousness  
@@ -42,4 +41,3 @@ When He shall come with trumpet sound
 Oh may I then in Him be found  
 Dressed in His righteousness alone  
 Faultless stand before the throne
-    

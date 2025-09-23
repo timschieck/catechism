@@ -1,14 +1,13 @@
 ---
-    title: "Sing We The Song Of Emmanuel"
-    tags: ['no-themes']
-    ---
+title: "Sing We The Song Of Emmanuel"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/18429290)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/18429290)
+## Songwriter(s): Matt Papa, Stuart Townend, and Matthew Boswell
+### Last scheduled: Dec 22, 2024          
 
-    ## Songwriter(s): Matt Papa, Stuart Townend, and Matthew Boswell
-    ### Last scheduled: Dec 22, 2024          
-
-    Verse 1  
+Verse 1  
   
 Sing we the song of Emmanuel  
 This the Christ who was long foretold  
@@ -54,4 +53,3 @@ Bridge
   
 Gloria Gloria  
 Gloria Gloria
-    

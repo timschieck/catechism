@@ -1,14 +1,13 @@
 ---
-    title: "His Mercy Is More"
-    tags: ['forgiveness', 'gods-love', 'mercy', 'praise', 'redemption', 'salvation']
-    ---
+title: "His Mercy Is More"
+tags: ['forgiveness', 'gods-love', 'mercy', 'praise', 'redemption', 'salvation']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/16091305)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/16091305)
+## Songwriter(s): Matt Boswell and Matt Papa
+### Last scheduled: Aug 31, 2025          
 
-    ## Songwriter(s): Matt Boswell and Matt Papa
-    ### Last scheduled: Aug 31, 2025          
-
-    Verse 1  
+Verse 1  
 What love could re - member no wrongs we have done  
 Om - niscient all knowing He counts not their sum  
 Thrown into a sea without bottom or shore  
@@ -31,4 +30,3 @@ Praise the Lord
 His mercy is more  
 Stronger than darkness new every morn  
 Our sins they are many His mercy is more
-    

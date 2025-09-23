@@ -1,14 +1,13 @@
 ---
-    title: "Open Up The Heavens"
-    tags: ['no-themes']
-    ---
+title: "Open Up The Heavens"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/14538699)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/14538699)
+## Songwriter(s): Meredith Andrews, Stuart Garrard, James McDonald, and Andi Rozier
+### Last scheduled: Oct 28, 2018          
 
-    ## Songwriter(s): Meredith Andrews, Stuart Garrard, James McDonald, and Andi Rozier
-    ### Last scheduled: Oct 28, 2018          
-
-    Verse 1  
+Verse 1  
   
 We've waited for this day  
 We're gathered in Your Name  
@@ -52,4 +51,3 @@ Misc 4
   
 (Ending)  
 Oo oo oo oo
-    

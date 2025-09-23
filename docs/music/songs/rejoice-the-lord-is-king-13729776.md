@@ -1,14 +1,13 @@
 ---
-    title: "Rejoice The Lord Is King"
-    tags: ['gods-attributes', 'hope', 'love', 'truth']
-    ---
+title: "Rejoice The Lord Is King"
+tags: ['gods-attributes', 'hope', 'love', 'truth']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/13729776)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/13729776)
+## Songwriter(s): Dennis Allen, John Darwall, and Charles Wesley
+### Last scheduled: Sept 17, 2017          
 
-    ## Songwriter(s): Dennis Allen, John Darwall, and Charles Wesley
-    ### Last scheduled: Sept 17, 2017          
-
-    VERSE 1  
+VERSE 1  
 Rejoice the Lord is King  
 Your Lord and King adore  
 Rejoice give thanks and sing  
@@ -36,4 +35,3 @@ Rejoice in glorious hope
 For Christ the Judge shall come  
 And take His servants up  
 To their eternal home
-    

@@ -1,14 +1,13 @@
 ---
-    title: "Weep With Me"
-    tags: ['no-themes']
-    ---
+title: "Weep With Me"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/16816385)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/16816385)
+## Songwriter(s): Rend Collective
+### Last scheduled: Aug 11, 2019          
 
-    ## Songwriter(s): Rend Collective
-    ### Last scheduled: Aug 11, 2019          
-
-    Verse 1  
+Verse 1  
   
 Weep with me  
 Lord will You weep with me  
@@ -55,4 +54,3 @@ Misc 3
   
 (Ending)  
 Yeah You weep with me
-    

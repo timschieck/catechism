@@ -1,14 +1,13 @@
 ---
-    title: "There Is One Gospel"
-    tags: ['no-themes']
-    ---
+title: "There Is One Gospel"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/22889240)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/22889240)
+## Songwriter(s): None
+### Last scheduled: Sept 21, 2025          
 
-    ## Songwriter(s): None
-    ### Last scheduled: Aug 31, 2025          
-
-    Verse 1  
+Verse 1  
   
 There is one Gospel on which I stand  
 For all eternity  
@@ -62,4 +61,3 @@ I stand in the Gospel of Jesus Christ
 Praise to my Saviour the King of life  
 I stand in the Gospel of Jesus Christ  
 I stand in the Gospel of Jesus Christ
-    

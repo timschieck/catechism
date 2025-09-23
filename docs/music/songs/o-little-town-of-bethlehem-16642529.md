@@ -1,14 +1,13 @@
 ---
-    title: "O Little Town Of Bethlehem"
-    tags: ['christmas', 'advent']
-    ---
+title: "O Little Town Of Bethlehem"
+tags: ['christmas', 'advent']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/16642529)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/16642529)
+## Songwriter(s): Phillips Brooks and Lewis Henry Redner
+### Last scheduled: Dec 24, 2024          
 
-    ## Songwriter(s): Phillips Brooks and Lewis Henry Redner
-    ### Last scheduled: Dec 24, 2024          
-
-    Verse 1  
+Verse 1  
   
 O little town of Bethlehem  
 How still we see thee lie  
@@ -62,4 +61,3 @@ We hear the Christmas angels
 The great glad tidings tell  
 O come to us abide with us  
 Our Lord Emmanuel
-    

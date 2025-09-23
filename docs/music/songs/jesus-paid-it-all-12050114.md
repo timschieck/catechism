@@ -1,14 +1,13 @@
 ---
-    title: "Jesus Paid It All"
-    tags: ['crucifixion', 'jesus', 'reconciliation', 'redemption', 'sacrifice']
-    ---
+title: "Jesus Paid It All"
+tags: ['crucifixion', 'jesus', 'reconciliation', 'redemption', 'sacrifice']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12050114)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12050114)
+## Songwriter(s): John Thomas Grape, Elvina M. Hall, and Alex Nifong
+### Last scheduled: May 11, 2025          
 
-    ## Songwriter(s): John Thomas Grape, Elvina M. Hall, and Alex Nifong
-    ### Last scheduled: May 11, 2025          
-
-    Verse 1  
+Verse 1  
 And I hear the Savior say  
 Thy strength indeed is small  
 Child of weakness watch and pray  
@@ -44,4 +43,3 @@ He washed it white as snow
 Bridge  
 Oh praise the One Who paid my debt  
 And raised this life up from the dead
-    

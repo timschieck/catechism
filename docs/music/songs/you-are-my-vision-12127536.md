@@ -1,14 +1,13 @@
 ---
-    title: "You Are My Vision"
-    tags: ['no-themes']
-    ---
+title: "You Are My Vision"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12127536)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12127536)
+## Songwriter(s): Mary Elizabeth Byrne, Eleanor Henrietta Hull, and Rend Collective Experiment
+### Last scheduled: Apr 7, 2019          
 
-    ## Songwriter(s): Mary Elizabeth Byrne, Eleanor Henrietta Hull, and Rend Collective Experiment
-    ### Last scheduled: Apr 7, 2019          
-
-    Verse 1  
+Verse 1  
   
 You are my vision O King of my heart  
 Nothing else satisfies only You Lord  
@@ -54,4 +53,3 @@ Misc 2
 (Ending)  
 Heart of my own heart whatever befall  
 Still be my vision O Ruler of all
-    

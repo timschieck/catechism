@@ -1,14 +1,13 @@
 ---
-    title: "Your Mercy"
-    tags: ['no-themes']
-    ---
+title: "Your Mercy"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/16015471)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/16015471)
+## Songwriter(s): Aaron Ivey, Brett Land, Jaleesa McCreary, and Marcus Dawes
+### Last scheduled: Sept 9, 2018          
 
-    ## Songwriter(s): Aaron Ivey, Brett Land, Jaleesa McCreary, and Marcus Dawes
-    ### Last scheduled: Sept 9, 2018          
-
-    Verse 1  
+Verse 1  
   
 I was alone I couldn’t find my place  
 'Til Heaven reached down Your love it called my name  
@@ -52,4 +51,3 @@ You’re walking with me just like You said You would
 And all that You say every word is true  
 Oh whom should I trust Jesus I trust in You  
 (REPEAT)
-    

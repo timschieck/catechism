@@ -1,14 +1,13 @@
 ---
-    title: "Christ The Sure And Steady Anchor"
-    tags: ['no-themes']
-    ---
+title: "Christ The Sure And Steady Anchor"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/14951785)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/14951785)
+## Songwriter(s): Matthew Boswell and Matthew Papa
+### Last scheduled: Sept 21, 2025          
 
-    ## Songwriter(s): Matthew Boswell and Matthew Papa
-    ### Last scheduled: Feb 23, 2025          
-
-    Verse 1  
+Verse 1  
   
 Christ the sure and steady anchor  
 In the fury of the storm  
@@ -70,4 +69,3 @@ Christ the shore of our salvation
 Ever faithful ever true  
 We will hold fast to the anchor  
 It shall never be removed
-    

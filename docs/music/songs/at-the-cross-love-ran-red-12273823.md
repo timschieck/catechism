@@ -1,14 +1,13 @@
 ---
-    title: "At The Cross (Love Ran Red)"
-    tags: ['no-themes']
-    ---
+title: "At The Cross (Love Ran Red)"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12273823)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12273823)
+## Songwriter(s): Chris Tomlin, Ed Cash, Jonas Myrin, Matt Armstrong, and Matt Redman
+### Last scheduled: Apr 13 & 19, 2019          
 
-    ## Songwriter(s): Chris Tomlin, Ed Cash, Jonas Myrin, Matt Armstrong, and Matt Redman
-    ### Last scheduled: Apr 13 & 19, 2019          
-
-    Verse 1  
+Verse 1  
   
 There's a place  
 Where mercy reigns and never dies  
@@ -53,4 +52,3 @@ Misc 3
   
 (Ending)  
 Jesus
-    

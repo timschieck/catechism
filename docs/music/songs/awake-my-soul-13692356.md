@@ -1,14 +1,13 @@
 ---
-    title: "Awake My Soul"
-    tags: ['life', 'renewal', 'salvation']
-    ---
+title: "Awake My Soul"
+tags: ['life', 'renewal', 'salvation']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/13692356)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/13692356)
+## Songwriter(s): Daniel Carson, Jesse Reeves, and Chris Tomlin
+### Last scheduled: Apr 7, 2019          
 
-    ## Songwriter(s): Daniel Carson, Jesse Reeves, and Chris Tomlin
-    ### Last scheduled: Apr 7, 2019          
-
-    Verse 1  
+Verse 1  
   
 Breathe on me breath of God breathe on me  
 Breathe on me breath of God breathe on me  
@@ -52,4 +51,3 @@ Prophesy son of man and say to them
 Come from the four winds oh breath and breathe  
   
 (NOT INCLUDED ON SHEET MUSIC)
-    

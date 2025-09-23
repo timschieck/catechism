@@ -1,14 +1,13 @@
 ---
-    title: "O Fount Of Love"
-    tags: ['no-themes']
-    ---
+title: "O Fount Of Love"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11912963)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11912963)
+## Songwriter(s): Matt Boswell and Matt Papa
+### Last scheduled: None          
 
-    ## Songwriter(s): Matt Boswell and Matt Papa
-    ### Last scheduled: None          
-
-    Verse 1  
+Verse 1  
   
 O fount of love divine that flows  
 From my Savior's bleeding side  
@@ -45,4 +44,3 @@ Misc 1
   
 (Interlude)  
 From Him through Him to Him be all praise
-    

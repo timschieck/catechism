@@ -1,14 +1,13 @@
 ---
-    title: "Crown Him With Many Crowns"
-    tags: ['adoration', 'ascension', 'kingship', 'praise', 'resurrection', 'worship']
-    ---
+title: "Crown Him With Many Crowns"
+tags: ['adoration', 'ascension', 'kingship', 'praise', 'resurrection', 'worship']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/13713749)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/13713749)
+## Songwriter(s): Matthew Bridges, George Job Elvey, and Godfrey Thring
+### Last scheduled: Nov 17, 2024          
 
-    ## Songwriter(s): Matthew Bridges, George Job Elvey, and Godfrey Thring
-    ### Last scheduled: Nov 17, 2024          
-
-    Verse 1  
+Verse 1  
   
 Crown Him with many crowns  
 The Lamb upon His throne  
@@ -62,4 +61,3 @@ Now lives in realms of light
 Where saints with angels sing  
 Their songs before Him day and night  
 Their God Redeemer King
-    

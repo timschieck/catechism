@@ -1,14 +1,13 @@
 ---
-    title: "Your Love Awakens Me"
-    tags: ['no-themes']
-    ---
+title: "Your Love Awakens Me"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/15705584)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/15705584)
+## Songwriter(s): Chris Quilala and Phil Wickham
+### Last scheduled: Oct 21, 2018          
 
-    ## Songwriter(s): Chris Quilala and Phil Wickham
-    ### Last scheduled: Oct 21, 2018          
-
-    Verse 1  
+Verse 1  
   
 There were walls between us  
 By the cross You came and broke them down  
@@ -55,4 +54,3 @@ Your love awakens me
 Your love is greater  
 Your love is stronger  
 You're love awakens awakens awakens me
-    

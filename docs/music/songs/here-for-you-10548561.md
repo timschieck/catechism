@@ -1,14 +1,13 @@
 ---
-    title: "Here For You"
-    tags: ['adoration', 'christian-life', 'praise', 'worship']
-    ---
+title: "Here For You"
+tags: ['adoration', 'christian-life', 'praise', 'worship']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/10548561)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/10548561)
+## Songwriter(s): Matt Maher, Matt Redman, Jesse Reeves, and Tim Wanstall
+### Last scheduled: Dec 27, 2020          
 
-    ## Songwriter(s): Matt Maher, Matt Redman, Jesse Reeves, and Tim Wanstall
-    ### Last scheduled: Dec 27, 2020          
-
-    Verse 1  
+Verse 1  
   
 Let our praise be Your welcome  
 Let our songs be a sign  
@@ -68,4 +67,3 @@ Misc 3
 (Ending)  
 Be welcome in Your house Lord  
 Be welcome in Your house
-    

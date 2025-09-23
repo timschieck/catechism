@@ -1,14 +1,13 @@
 ---
-    title: "Lamb Of God"
-    tags: ['no-themes']
-    ---
+title: "Lamb Of God"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/14617600)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/14617600)
+## Songwriter(s): Andi Rozier, Jason Ingram, and Meredith Andrews
+### Last scheduled: Apr 28, 2019          
 
-    ## Songwriter(s): Andi Rozier, Jason Ingram, and Meredith Andrews
-    ### Last scheduled: Apr 28, 2019          
-
-    Verse 1  
+Verse 1  
   
 You came from heaven's throne  
 Acquainted with our sorrow  
@@ -36,4 +35,3 @@ There is no greater love
 There is no greater love  
 The Savior lifted up  
 There is no greater love
-    

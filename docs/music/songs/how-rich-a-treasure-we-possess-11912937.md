@@ -1,14 +1,13 @@
 ---
-    title: "How Rich A Treasure We Possess"
-    tags: ['blood', 'forgiveness', 'redemption', 'treasure']
-    ---
+title: "How Rich A Treasure We Possess"
+tags: ['blood', 'forgiveness', 'redemption', 'treasure']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11912937)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11912937)
+## Songwriter(s): Matt Boswell and Matt Papa
+### Last scheduled: Oct 6, 2024          
 
-    ## Songwriter(s): Matt Boswell and Matt Papa
-    ### Last scheduled: Oct 6, 2024          
-
-    Verse 1  
+Verse 1  
   
 How rich a treasure we possess  
 In Jesus Christ our Lord  
@@ -49,4 +48,3 @@ And the power and the glory
 Yours is the Kingdom and the power and the glory  
 Yours is the Kingdom and the power and the glory  
 Amen yeah amen amen
-    

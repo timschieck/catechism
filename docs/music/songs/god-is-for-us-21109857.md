@@ -1,14 +1,13 @@
 ---
-    title: "God Is For Us"
-    tags: ['no-themes']
-    ---
+title: "God Is For Us"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/21109857)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/21109857)
+## Songwriter(s): James Ferguson, James Tealy, Jonny Robinson, Rich Thompson, Tiarne Kleyn, Michael Farren, and Jesse Reeves
+### Last scheduled: Jul 6, 2025          
 
-    ## Songwriter(s): James Ferguson, James Tealy, Jonny Robinson, Rich Thompson, Tiarne Kleyn, Michael Farren, and Jesse Reeves
-    ### Last scheduled: Jul 6, 2025          
-
-    Intro  
+Intro  
   
 Verse 1  
 We won't fear the battle, we won't fear the night  
@@ -36,4 +35,3 @@ Holds me in His love
   
 Outro  
 
-    

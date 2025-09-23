@@ -1,14 +1,13 @@
 ---
-    title: "'Tis So Sweet To Trust In Jesus (Trust In Jesus)"
-    tags: ['assurance', 'christian-life', 'cleansing', 'declaration', 'faith', 'grace', 'jesus', 'promise', 'rest', 'trust']
-    ---
+title: "'Tis So Sweet To Trust In Jesus (Trust In Jesus)"
+tags: ['assurance', 'christian-life', 'cleansing', 'declaration', 'faith', 'grace', 'jesus', 'promise', 'rest', 'trust']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/17017107)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/17017107)
+## Songwriter(s): William James Kirkpatrick and Louisa M. R. Stead
+### Last scheduled: Oct 6, 2024          
 
-    ## Songwriter(s): William James Kirkpatrick and Louisa M. R. Stead
-    ### Last scheduled: Oct 6, 2024          
-
-    Verse 1  
+Verse 1  
   
 'Tis so sweet to trust in Jesus  
 Just to take Him at His word  
@@ -42,4 +41,3 @@ I'm so glad I learned to trust Thee
 Precious Jesus Savior Friend  
 And I know that Thou art with me  
 Wilt be with me to the end
-    

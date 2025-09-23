@@ -1,14 +1,13 @@
 ---
-    title: "Worthy Of Affection"
-    tags: ['deliverance', 'holiness', 'lordship-of-jesus', 'worthiness']
-    ---
+title: "Worthy Of Affection"
+tags: ['deliverance', 'holiness', 'lordship-of-jesus', 'worthiness']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/15095221)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/15095221)
+## Songwriter(s): Shane Barnard and Shane Everett
+### Last scheduled: Jun 9, 2019          
 
-    ## Songwriter(s): Shane Barnard and Shane Everett
-    ### Last scheduled: Jun 9, 2019          
-
-    Verse 1  
+Verse 1  
   
 Deliverer You brought us out of the miry clay  
 You set our feet upon the rock  
@@ -61,4 +60,3 @@ Misc 2
 Holy are You Lord  
 Holy are You Lord  
 Oh holy are You Lord
-    

@@ -1,14 +1,13 @@
 ---
-    title: "To God Be The Glory"
-    tags: ['adoration', 'glory', 'gods-attributes', 'power', 'praise', 'rejoice', 'testimony', 'worship']
-    ---
+title: "To God Be The Glory"
+tags: ['adoration', 'glory', 'gods-attributes', 'power', 'praise', 'rejoice', 'testimony', 'worship']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/16065102)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/16065102)
+## Songwriter(s): Fanny J. Crosby, William H. Doane, and William Howard Doane
+### Last scheduled: Nov 12, 2023          
 
-    ## Songwriter(s): Fanny J. Crosby, William H. Doane, and William Howard Doane
-    ### Last scheduled: Nov 12, 2023          
-
-    Verse 1  
+Verse 1  
   
 To God be the glory great things He has done  
 So loved He the world that He gave us His Son  
@@ -38,4 +37,3 @@ Great things He has done
 And great our rejoicing through Jesus the Son  
 But purer and higher and greater will be  
 Our wonder our transport when Jesus we see
-    

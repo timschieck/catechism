@@ -1,14 +1,13 @@
 ---
-    title: "Amazing Grace (My Chains Are Gone)"
-    tags: ['commitment', 'content', 'enough', 'freedom', 'grace', 'mercy', 'party', 'testimony']
-    ---
+title: "Amazing Grace (My Chains Are Gone)"
+tags: ['commitment', 'content', 'enough', 'freedom', 'grace', 'mercy', 'party', 'testimony']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11065487)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11065487)
+## Songwriter(s): Edwin Othello Excell, Louie Giglio, John Newton, John P. Rees, and Chris Tomlin
+### Last scheduled: Mar 29, 2020          
 
-    ## Songwriter(s): Edwin Othello Excell, Louie Giglio, John Newton, John P. Rees, and Chris Tomlin
-    ### Last scheduled: Mar 29, 2020          
-
-    Verse 1  
+Verse 1  
   
 Amazing grace how sweet the sound  
 That saved a wretch like me  
@@ -44,4 +43,3 @@ But God who called me here below
 Will be forever mine  
 Will be forever mine  
 You are forever mine
-    

@@ -1,14 +1,13 @@
 ---
-    title: "This Is Amazing Grace"
-    tags: ['grace', 'kingship', 'worthiness']
-    ---
+title: "This Is Amazing Grace"
+tags: ['grace', 'kingship', 'worthiness']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12000288)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12000288)
+## Songwriter(s): Josh Farro, Jeremy Riddle, and Phil Wickham
+### Last scheduled: Sept 1, 2024          
 
-    ## Songwriter(s): Josh Farro, Jeremy Riddle, and Phil Wickham
-    ### Last scheduled: Sept 1, 2024          
-
-    Verse 1  
+Verse 1  
 Who breaks the power of sin and darkness  
 Whose love is mighty and so much stronger  
 The King of glory the King above all kings  
@@ -51,4 +50,3 @@ Worthy, worthy, worthy
   
 Ending  
 
-    

@@ -1,14 +1,13 @@
 ---
-    title: "O Come O Come Emmanuel"
-    tags: ['advent', 'christmas', 'heaven', 'jesus', 'liberty', 'light', 'salvation', 'seasonal', 'the-light', 'victory']
-    ---
+title: "O Come O Come Emmanuel"
+tags: ['advent', 'christmas', 'heaven', 'jesus', 'liberty', 'light', 'salvation', 'seasonal', 'the-light', 'victory']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11065475)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11065475)
+## Songwriter(s): Henry Sloane Coffin, Thomas Helmore, and John Mason Neale
+### Last scheduled: Dec 24, 2024          
 
-    ## Songwriter(s): Henry Sloane Coffin, Thomas Helmore, and John Mason Neale
-    ### Last scheduled: Dec 24, 2024          
-
-    VERSE 1  
+VERSE 1  
 O come, O come, Emmanuel  
 And ransom captive Israel  
 That mourns in lonely exile here  
@@ -48,4 +47,3 @@ Come, ye weary, heavy-laden
 Lost and ruined by the fall  
 If you tarry 'til you're better  
 You will never come at all
-    

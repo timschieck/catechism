@@ -1,14 +1,13 @@
 ---
-    title: "My God is All I Need"
-    tags: ['no-themes']
-    ---
+title: "My God is All I Need"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/24470745)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/24470745)
+## Songwriter(s): None
+### Last scheduled: Jun 15, 2025          
 
-    ## Songwriter(s): None
-    ### Last scheduled: Jun 15, 2025          
-
-    Verse 1  
+Verse 1  
 Dark, dark is the valley  
 Faint, the light at my feet  
 But whatever may face me  
@@ -56,4 +55,3 @@ Ending
 Praise! Praise to my Father be  
 My God is all I need  
 
-    

@@ -1,14 +1,13 @@
 ---
-    title: "God Rest Ye Merry Gentlemen"
-    tags: ['seasonal', 'comfort', 'christmas', 'peace']
-    ---
+title: "God Rest Ye Merry Gentlemen"
+tags: ['seasonal', 'comfort', 'christmas', 'peace']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/21657108)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/21657108)
+## Songwriter(s): None
+### Last scheduled: Dec 4, 2022          
 
-    ## Songwriter(s): None
-    ### Last scheduled: Dec 4, 2022          
-
-    Verse 1  
+Verse 1  
   
 God rest ye merry gentlemen  
 Let nothing you dismay  
@@ -76,4 +75,3 @@ And with true love and brotherhood
 Each other now embrace  
 This holy tide of Christmas  
 All others doth deface
-    

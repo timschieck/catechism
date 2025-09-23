@@ -1,14 +1,13 @@
 ---
-    title: "He Shall Reign Forevermore"
-    tags: ['no-themes']
-    ---
+title: "He Shall Reign Forevermore"
+tags: ['no-themes']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/13172156)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/13172156)
+## Songwriter(s): Chris Tomlin and Matt Maher
+### Last scheduled: Dec 2, 2018          
 
-    ## Songwriter(s): Chris Tomlin and Matt Maher
-    ### Last scheduled: Dec 2, 2018          
-
-    Verse 1  
+Verse 1  
   
 In the bleak mid-winter  
 All creation groans  
@@ -45,4 +44,3 @@ Into our hopes into our fears
 The Savior of the world appears  
 The promise of eternal years  
 Christ the Messiah
-    

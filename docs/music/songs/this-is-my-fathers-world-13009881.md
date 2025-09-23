@@ -1,14 +1,13 @@
 ---
-    title: "This Is My Father's World"
-    tags: ['creation', 'creator', 'kingship']
-    ---
+title: "This Is My Father's World"
+tags: ['creation', 'creator', 'kingship']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/13009881)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/13009881)
+## Songwriter(s): Maltbie D. Babcock
+### Last scheduled: Aug 24, 2025          
 
-    ## Songwriter(s): Maltbie D. Babcock
-    ### Last scheduled: Aug 24, 2025          
-
-    VERSE 1  
+VERSE 1  
 This is my Father's world  
 And to my listening ears  
 All nature sings And round me rings  
@@ -50,4 +49,3 @@ God is the ruler yet
   
 The Lord is king let the heavens ring  
 God is the ruler yet
-    

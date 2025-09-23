@@ -1,14 +1,13 @@
 ---
-    title: "All My Boast Is In Jesus"
-    tags: ['cross', 'glory', 'hope', 'jesus']
-    ---
+title: "All My Boast Is In Jesus"
+tags: ['cross', 'glory', 'hope', 'jesus']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/26663170)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/26663170)
+## Songwriter(s): Bryan Fowler, Keith Getty, Matt Boswell, and Matt Papa
+### Last scheduled: Sept 7, 2025          
 
-    ## Songwriter(s): Bryan Fowler, Keith Getty, Matt Boswell, and Matt Papa
-    ### Last scheduled: Sept 7, 2025          
-
-    Intro  
+Intro  
   
 Verse 1  
 What wonder of wonders, what love is this  
@@ -60,4 +59,3 @@ And I can - not be a - shamed for
 My boast is Jesus Christ  
 My boast is Jesus Christ  
 Forever my boast is Jesus Christ
-    

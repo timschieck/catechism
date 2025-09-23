@@ -1,14 +1,13 @@
 ---
-    title: "King Of All The Earth"
-    tags: ['adoration', 'jesus', 'kingship', 'praise']
-    ---
+title: "King Of All The Earth"
+tags: ['adoration', 'jesus', 'kingship', 'praise']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12893729)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12893729)
+## Songwriter(s): Bryan Torwalt and Katie Torwalt
+### Last scheduled: None          
 
-    ## Songwriter(s): Bryan Torwalt and Katie Torwalt
-    ### Last scheduled: None          
-
-    Verse 1  
+Verse 1  
   
 Your light shines through my darkness all darkness  
 Like fire it consumes all my fears and my failures  
@@ -39,4 +38,3 @@ Misc 1
 Oh my soul will sing  
 Oh my soul will praise You  
 (REPEAT)
-    

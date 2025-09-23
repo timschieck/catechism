@@ -1,14 +1,13 @@
 ---
-    title: "Your Grace Is Enough"
-    tags: ['adoration', 'christmas', 'faithfulness', 'giving', 'gods-attributes', 'grace', 'holy-is-the-lord', 'justice', 'rock-of-ages', 'vine']
-    ---
+title: "Your Grace Is Enough"
+tags: ['adoration', 'christmas', 'faithfulness', 'giving', 'gods-attributes', 'grace', 'holy-is-the-lord', 'justice', 'rock-of-ages', 'vine']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/12539888)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/12539888)
+## Songwriter(s): Matt Maher
+### Last scheduled: Sept 10, 2023          
 
-    ## Songwriter(s): Matt Maher
-    ### Last scheduled: Sept 10, 2023          
-
-    Verse 1  
+Verse 1  
   
 Great is Your faithfulness O God  
 You wrestle with the sinner's restless heart  
@@ -43,4 +42,3 @@ Your grace is enough for me
 God I sing Your grace is enough  
 I'm covered in Your love  
 Your grace is enough for me for me
-    

@@ -1,14 +1,13 @@
 ---
-    title: "How Great Is Our God"
-    tags: ['majesty', 'greatness']
-    ---
+title: "How Great Is Our God"
+tags: ['majesty', 'greatness']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/9805177)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/9805177)
+## Songwriter(s): Ed Cash, Jesse Reeves, and Chris Tomlin
+### Last scheduled: Mar 22, 2020          
 
-    ## Songwriter(s): Ed Cash, Jesse Reeves, and Chris Tomlin
-    ### Last scheduled: Mar 22, 2020          
-
-    Verse 1  
+Verse 1  
   
 The splendor of the King  
 Clothed in majesty  
@@ -45,4 +44,3 @@ Name above all names
 Worthy of all praise  
 My heart will sing  
 How great is our God
-    

@@ -1,14 +1,13 @@
 ---
-    title: "Come Thou Fount"
-    tags: ['aspiration', 'blessing']
-    ---
+title: "Come Thou Fount"
+tags: ['aspiration', 'blessing']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/11909265)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/11909265)
+## Songwriter(s): Robert Robinson and John Wyeth
+### Last scheduled: May 25, 2025          
 
-    ## Songwriter(s): Robert Robinson and John Wyeth
-    ### Last scheduled: May 25, 2025          
-
-    VERSE 1  
+VERSE 1  
 Come Thou fount of ev'ry blessing  
 Tune my heart to sing Thy grace  
 Streams of mercy never ceasing  
@@ -44,4 +43,3 @@ Prone to leave the God I love
   
 Here’s my heart Lord take and seal it  
 Seal it for Thy courts a - bove
-    

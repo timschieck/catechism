@@ -1,14 +1,13 @@
 ---
-    title: "I Will Glory In My Redeemer"
-    tags: ['jesus', 'redemption', 'salvation', 'savior']
-    ---
+title: "I Will Glory In My Redeemer"
+tags: ['jesus', 'redemption', 'salvation', 'savior']
+---
+[Planning Center](https://services.planningcenteronline.com/songs/15523150)
 
-    [Planning Center](https://services.planningcenteronline.com/songs/15523150)
+## Songwriter(s): Steve Cook and Vikki Cook
+### Last scheduled: Aug 24, 2025          
 
-    ## Songwriter(s): Steve Cook and Vikki Cook
-    ### Last scheduled: Aug 24, 2025          
-
-    Intro  
+Intro  
 (I will)  
   
 Verse 1  
@@ -47,4 +46,3 @@ Who waits for me at gates of gold
 And when He calls me it will be paradise  
 His face forever to behold  
 His face forever to behold
-    
