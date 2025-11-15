@@ -5,7 +5,7 @@ tags: ['adoration', 'encouragement', 'jesus', 'light']
 [Planning Center](https://services.planningcenteronline.com/songs/27614907)
 
 ## Songwriter(s): Helen H. Lemmel, George Romanacce, Nic Trout, and Kevin Winebarger
-### Last scheduled: Feb 9, 2025          
+### Last scheduled: Oct 5, 2025          
 
 Verse 1  
 Turn your eyes upon Jesus  

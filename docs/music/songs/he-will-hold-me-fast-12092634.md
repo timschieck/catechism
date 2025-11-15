@@ -5,6 +5,6 @@ tags: ['faith', 'faithfulness', 'guidance', 'promise', 'protection', 'redemption
 [Planning Center](https://services.planningcenteronline.com/songs/12092634)
 
 ## Songwriter(s): Ada Ruth Habershon and Matthew Merker
-### Last scheduled: Mar 30, 2025          
+### Last scheduled: Nov 2, 2025          
 
 No Lyrics

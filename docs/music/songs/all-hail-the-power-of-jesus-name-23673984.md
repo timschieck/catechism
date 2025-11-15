@@ -5,7 +5,7 @@ tags: ['gospel', 'christ', 'majesty', 'name-of-jesus', 'gods-attributes', 'power
 [Planning Center](https://services.planningcenteronline.com/songs/23673984)
 
 ## Songwriter(s): Edward Perronet, John (adapt) Rippon, and Oliver Holden
-### Last scheduled: Jul 27, 2025          
+### Last scheduled: Nov 2, 2025          
 
 Verse 1  
   

@@ -5,7 +5,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/15721585)
 
 ## Songwriter(s): Jason Ingram, Jonathan Smith, Kristian Stanfill, and Sean Curran
-### Last scheduled: Mar 24, 2024          
+### Last scheduled: Oct 26, 2025          
 
 Verse 1  
   

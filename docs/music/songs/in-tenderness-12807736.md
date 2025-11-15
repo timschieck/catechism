@@ -5,7 +5,7 @@ tags: ['adoration', 'atonement', 'blood', 'grace', 'jesus', 'lamb-of-god', 'love
 [Planning Center](https://services.planningcenteronline.com/songs/12807736)
 
 ## Songwriter(s): Nate Garvey, Adoniram Judson Gordon, and W. Spencer Walton
-### Last scheduled: Jul 27, 2025          
+### Last scheduled: Oct 19, 2025          
 
 Verse 1  
   

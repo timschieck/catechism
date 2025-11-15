@@ -5,7 +5,7 @@ tags: ['aspiration', 'consecration', 'dedication', 'life-in-christ', 'vision']
 [Planning Center](https://services.planningcenteronline.com/songs/11065467)
 
 ## Songwriter(s): Mary Elizabeth Byrne and Eleanor Henrietta Hull
-### Last scheduled: Jul 20, 2025          
+### Last scheduled: Oct 12, 2025          
 
 VERSE 1  
 Be Thou my vision O Lord of my heart  

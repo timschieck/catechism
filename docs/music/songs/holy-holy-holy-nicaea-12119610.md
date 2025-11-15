@@ -5,6 +5,6 @@ tags: ['adoration', 'almighty', 'awesome', 'exaltation', 'faith', 'greatness', '
 [Planning Center](https://services.planningcenteronline.com/songs/12119610)
 
 ## Songwriter(s): John Bacchus Dykes and Reginald Heber
-### Last scheduled: Jul 6, 2025          
+### Last scheduled: Nov 9, 2025          
 
 No Lyrics

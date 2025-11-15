@@ -5,7 +5,7 @@ tags: ['christ', 'glory']
 [Planning Center](https://services.planningcenteronline.com/songs/13232516)
 
 ## Songwriter(s): Dustin Kensrue
-### Last scheduled: Aug 17, 2025          
+### Last scheduled: Oct 19, 2025          
 
 VERSE 1  
   
