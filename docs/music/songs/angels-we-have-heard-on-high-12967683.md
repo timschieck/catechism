@@ -5,6 +5,6 @@ tags: ['christmas', 'singing', 'advent']
 [Planning Center](https://services.planningcenteronline.com/songs/12967683)
 
 ## Songwriter(s): Chris Tomlin
-### Last scheduled: Dec 22, 2024          
+### Last scheduled: Dec 7, 2025          
 
 No Lyrics

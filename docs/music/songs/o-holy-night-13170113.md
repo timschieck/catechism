@@ -5,7 +5,7 @@ tags: ['christmas', 'jesus', 'joy', 'seasonal']
 [Planning Center](https://services.planningcenteronline.com/songs/13170113)
 
 ## Songwriter(s): Adolphe Charles Adam, Placide Cappeau, and John S. Dwight
-### Last scheduled: Dec 22, 2024          
+### Last scheduled: Dec 7, 2025          
 
 Verse 1  
   

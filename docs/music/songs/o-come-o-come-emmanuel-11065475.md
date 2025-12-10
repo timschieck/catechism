@@ -5,7 +5,7 @@ tags: ['advent', 'christmas', 'heaven', 'jesus', 'liberty', 'light', 'salvation'
 [Planning Center](https://services.planningcenteronline.com/songs/11065475)
 
 ## Songwriter(s): Henry Sloane Coffin, Thomas Helmore, and John Mason Neale
-### Last scheduled: Dec 24, 2024          
+### Last scheduled: Nov 30, 2025          
 
 VERSE 1  
 O come, O come, Emmanuel  

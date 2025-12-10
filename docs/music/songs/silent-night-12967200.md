@@ -5,7 +5,7 @@ tags: ['advent', 'christmas', 'lordship', 'messiah', 'peace', 'reverence', 'savi
 [Planning Center](https://services.planningcenteronline.com/songs/12967200)
 
 ## Songwriter(s): Franz Xaver Gruber
-### Last scheduled: Jan 31, 2021          
+### Last scheduled: Dec 7, 2025          
 
 Verse 1  
 Silent night holy night  

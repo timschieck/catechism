@@ -5,7 +5,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/18429290)
 
 ## Songwriter(s): Matt Papa, Stuart Townend, and Matthew Boswell
-### Last scheduled: Dec 22, 2024          
+### Last scheduled: Nov 23, 2025          
 
 Verse 1  
   
