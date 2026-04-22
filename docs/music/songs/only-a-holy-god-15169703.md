@@ -5,7 +5,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/15169703)
 
 ## Songwriter(s): Dustin Smith, Jonny Robinson, Michael Farren, and Rich Thompson
-### Last scheduled: Sept 14, 2025          
+### Last scheduled: Apr 19, 2026          
 
 Verse 1  
   

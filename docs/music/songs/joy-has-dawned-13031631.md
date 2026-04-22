@@ -5,7 +5,7 @@ tags: ['gods-attributes', 'goodness', 'joy', 'salvation']
 [Planning Center](https://services.planningcenteronline.com/songs/13031631)
 
 ## Songwriter(s): Keith Getty and Stuart Townend
-### Last scheduled: Nov 2, 2025          
+### Last scheduled: Dec 21, 2025          
 
 Verse 1  
   

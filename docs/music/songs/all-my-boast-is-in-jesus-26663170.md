@@ -5,7 +5,7 @@ tags: ['cross', 'glory', 'hope', 'jesus']
 [Planning Center](https://services.planningcenteronline.com/songs/26663170)
 
 ## Songwriter(s): Bryan Fowler, Keith Getty, Matt Boswell, and Matt Papa
-### Last scheduled: Nov 16, 2025          
+### Last scheduled: Apr 26, 2026          
 
 Intro  
   

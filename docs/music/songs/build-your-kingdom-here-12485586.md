@@ -5,7 +5,7 @@ tags: ['heaven', 'kingdom-of-god', 'prayer']
 [Planning Center](https://services.planningcenteronline.com/songs/12485586)
 
 ## Songwriter(s): Rend Collective Experiment
-### Last scheduled: Aug 20, 2023          
+### Last scheduled: Feb 1, 2026          
 
 Verse 1  
   

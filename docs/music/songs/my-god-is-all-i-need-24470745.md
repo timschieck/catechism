@@ -5,7 +5,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/24470745)
 
 ## Songwriter(s): None
-### Last scheduled: Oct 19, 2025          
+### Last scheduled: Apr 12, 2026          
 
 Verse 1  
 Dark, dark is the valley  

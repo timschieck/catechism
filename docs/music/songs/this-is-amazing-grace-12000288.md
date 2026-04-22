@@ -5,7 +5,7 @@ tags: ['grace', 'kingship', 'worthiness']
 [Planning Center](https://services.planningcenteronline.com/songs/12000288)
 
 ## Songwriter(s): Josh Farro, Jeremy Riddle, and Phil Wickham
-### Last scheduled: Sept 1, 2024          
+### Last scheduled: Jan 11, 2026          
 
 Verse 1  
 Who breaks the power of sin and darkness  

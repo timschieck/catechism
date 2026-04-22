@@ -5,7 +5,7 @@ tags: ['majesty', 'greatness']
 [Planning Center](https://services.planningcenteronline.com/songs/9805177)
 
 ## Songwriter(s): Ed Cash, Jesse Reeves, and Chris Tomlin
-### Last scheduled: Mar 22, 2020          
+### Last scheduled: Mar 29, 2026          
 
 Verse 1  
   

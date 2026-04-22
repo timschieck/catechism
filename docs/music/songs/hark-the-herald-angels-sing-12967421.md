@@ -5,7 +5,7 @@ tags: ['christmas', 'praise', 'proclamation', 'rejoice']
 [Planning Center](https://services.planningcenteronline.com/songs/12967421)
 
 ## Songwriter(s): Felix Mendelssohn and Charles Wesley
-### Last scheduled: Dec 24, 2024          
+### Last scheduled: Dec 24, 2025          
 
 Verse 1  
   

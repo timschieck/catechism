@@ -5,7 +5,7 @@ tags: ['faithfulness', 'goodness', 'praise', 'pursue', 'surrender', 'thankfulnes
 [Planning Center](https://services.planningcenteronline.com/songs/27946025)
 
 ## Songwriter(s): Ed Cash and Jenn Johnson
-### Last scheduled: Oct 5, 2025          
+### Last scheduled: Feb 8, 2026          
 
 Verse 1  
   

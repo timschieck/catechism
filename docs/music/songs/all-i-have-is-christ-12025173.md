@@ -5,7 +5,7 @@ tags: ['jesus', 'life', 'surrender']
 [Planning Center](https://services.planningcenteronline.com/songs/12025173)
 
 ## Songwriter(s): Jordan Kauflin
-### Last scheduled: Jul 13, 2025          
+### Last scheduled: Feb 8, 2026          
 
 VERSE 1  
 I once was lost in darkest night  

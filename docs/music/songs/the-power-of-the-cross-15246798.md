@@ -5,6 +5,6 @@ tags: ['crucifixion', 'gods-attributes', 'jesus', 'love', 'resurrection', 'sacri
 [Planning Center](https://services.planningcenteronline.com/songs/15246798)
 
 ## Songwriter(s): Keith Getty and Stuart Townend
-### Last scheduled: Sept 14, 2025          
+### Last scheduled: Mar 8, 2026          
 
 No Lyrics

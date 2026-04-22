@@ -5,7 +5,7 @@ tags: ['gods-attributes', 'jesus', 'lamb-of-god', 'majesty', 'redemption', 'savi
 [Planning Center](https://services.planningcenteronline.com/songs/11913475)
 
 ## Songwriter(s): Charitie Lees Bancroft and Vikki Cook
-### Last scheduled: Aug 17, 2025          
+### Last scheduled: Apr 3, 2026          
 
 Verse 1  
 Before the throne of God a - bove  

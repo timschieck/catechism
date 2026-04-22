@@ -5,7 +5,7 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/28891163)
 
 ## Songwriter(s): None
-### Last scheduled: Sept 28, 2025          
+### Last scheduled: Mar 15, 2026          
 
 Verse 1  
 Be still my soul the Lord is on your side  

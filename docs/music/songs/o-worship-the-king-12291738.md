@@ -5,7 +5,7 @@ tags: ['exaltation', 'jesus', 'king', 'worship']
 [Planning Center](https://services.planningcenteronline.com/songs/12291738)
 
 ## Songwriter(s): Robert Grant, Johann Michael Haydn, and Chris Tomlin
-### Last scheduled: Aug 24, 2025          
+### Last scheduled: Mar 15, 2026          
 
 VERSE 1  
 O worship the King all-glorious above  

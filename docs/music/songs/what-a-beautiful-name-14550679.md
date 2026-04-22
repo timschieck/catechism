@@ -5,6 +5,6 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/14550679)
 
 ## Songwriter(s): None
-### Last scheduled: Oct 26, 2025          
+### Last scheduled: Mar 1, 2026          
 
 No Lyrics

@@ -5,7 +5,7 @@ tags: ['conquering', 'fortress', 'lord-of-hosts', 'refuge', 'spiritual-warfare',
 [Planning Center](https://services.planningcenteronline.com/songs/14536202)
 
 ## Songwriter(s): Frederick Hedge and Martin Luther
-### Last scheduled: Jun 16, 2024          
+### Last scheduled: Apr 26, 2026          
 
 Verse 1  
 A mighty for - tress is our God  

@@ -5,6 +5,6 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/19199651)
 
 ## Songwriter(s): Jonny Robinson, Rich Thompson, and Michael Farren
-### Last scheduled: Oct 5, 2025          
+### Last scheduled: Feb 15, 2026          
 
 No Lyrics

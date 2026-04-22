@@ -5,6 +5,6 @@ tags: ['easter']
 [Planning Center](https://services.planningcenteronline.com/songs/14310026)
 
 ## Songwriter(s): Benjamin Hastings, Dean Ussher, and Marty Sampson
-### Last scheduled: Sept 22, 2024          
+### Last scheduled: Mar 29, 2026          
 
 No Lyrics

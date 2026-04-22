@@ -5,7 +5,7 @@ tags: ['blood', 'christ', 'cross', 'gods-love', 'jesus', 'praise', 'redemption',
 [Planning Center](https://services.planningcenteronline.com/songs/23559487)
 
 ## Songwriter(s): Brooke Ligertwood, Jason Ingram, and Scott Ligertwood
-### Last scheduled: Sept 21, 2025          
+### Last scheduled: Apr 19, 2026          
 
 VERSE 1  
 In the darkness we were waiting  

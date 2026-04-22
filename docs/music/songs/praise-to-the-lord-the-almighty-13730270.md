@@ -5,7 +5,7 @@ tags: ['adoration', 'creation', 'gods-protection', 'praise']
 [Planning Center](https://services.planningcenteronline.com/songs/13730270)
 
 ## Songwriter(s): Joachim Neander and Catherine Winkworth
-### Last scheduled: May 18, 2025          
+### Last scheduled: Jan 25, 2026          
 
 Verse 1  
   

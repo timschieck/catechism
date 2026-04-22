@@ -5,7 +5,7 @@ tags: ['advent', 'birth', 'christmas', 'honor', 'jesus', 'joy', 'kingship', 'mes
 [Planning Center](https://services.planningcenteronline.com/songs/12967186)
 
 ## Songwriter(s): Chris Tomlin and William Chatterton Dix
-### Last scheduled: Dec 15, 2024          
+### Last scheduled: Dec 21, 2025          
 
 Verse 1  
   

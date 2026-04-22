@@ -5,7 +5,7 @@ tags: ['father', 'glory', 'love']
 [Planning Center](https://services.planningcenteronline.com/songs/10755009)
 
 ## Songwriter(s): John Mark McMillan
-### Last scheduled: Feb 16, 2025          
+### Last scheduled: Feb 1, 2026          
 
 Verse 1  
   

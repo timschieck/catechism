@@ -5,7 +5,7 @@ tags: ['christmas', 'advent']
 [Planning Center](https://services.planningcenteronline.com/songs/16642529)
 
 ## Songwriter(s): Phillips Brooks and Lewis Henry Redner
-### Last scheduled: Dec 24, 2024          
+### Last scheduled: Dec 14, 2025          
 
 Verse 1  
   

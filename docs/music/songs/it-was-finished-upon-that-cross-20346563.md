@@ -5,7 +5,7 @@ tags: ['cross', 'easter']
 [Planning Center](https://services.planningcenteronline.com/songs/20346563)
 
 ## Songwriter(s): Jonny Robinson, Nigel Hendroff, and Rich Thompson
-### Last scheduled: Jun 22, 2025          
+### Last scheduled: Mar 29, 2026          
 
 Intro  
   

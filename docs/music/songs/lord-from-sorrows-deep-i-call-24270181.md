@@ -5,7 +5,7 @@ tags: ['faith', 'foundation', 'hope', 'petition', 'praise', 'prayer', 'rock', 's
 [Planning Center](https://services.planningcenteronline.com/songs/24270181)
 
 ## Songwriter(s): Matt Boswell and Matt Papa
-### Last scheduled: Sept 14, 2025          
+### Last scheduled: Mar 8, 2026          
 
 Verse 1  
   
