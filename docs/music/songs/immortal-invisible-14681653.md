@@ -5,7 +5,7 @@ tags: ['light', 'praise', 'wisdom']
 [Planning Center](https://services.planningcenteronline.com/songs/14681653)
 
 ## Songwriter(s): John Roberts and Walter Chalmers Smith
-### Last scheduled: Sept 28, 2025          
+### Last scheduled: May 3, 2026          
 
 Verse 1  
   

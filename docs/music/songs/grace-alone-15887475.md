@@ -5,6 +5,6 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/15887475)
 
 ## Songwriter(s): Dustin Kensrue
-### Last scheduled: Apr 26, 2026          
+### Last scheduled: Sept 23, 2018          
 
 No Lyrics

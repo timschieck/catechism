@@ -5,6 +5,6 @@ tags: ['no-themes']
 [Planning Center](https://services.planningcenteronline.com/songs/29032041)
 
 ## Songwriter(s): Bethany Barnard, Bryan Fowler, and Shane Barnard
-### Last scheduled: Jan 4, 2026          
+### Last scheduled: May 2, 2026          
 
 No Lyrics
