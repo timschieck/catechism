@@ -24,28 +24,26 @@ After the conclusion of the prayer there is often a verse read aloud. For prayer
 - CrossLife EFC (Libertyville)
 - The Village Church of Barrington
 - LifeSpring Community Church (Spring Grove)
-- Good News Church (Woodstock)
 - The Bridge Church (Algonquin)
 - Living Grace Community Church (Cary)
 - Christian Neighbors Church (Waukegan)
-- Immanuel Community Church (Non EFCA)
+- The New Church of Chicago (Non EFCA)
+
 ### Missionaries
 - Josh and Libby Auyers – Czech Republic
 - Mamie Norcross – Germany 
 - Lionel Chery Educational Center – Haiti
 - Saji Lukos – India
-- Steve Posey – Africa
 - Aaron and Tiffany Robinson – France
 - Bob Schroer – North Africa/Middle East
 - Carlos & Suzanne Tejada – Costa Rica
-- Milton and Linda Watt – Africa
 - Ron Winkler – Poland
-### Ministries
 
-- Trinity Evangelical Divinity School
+### Ministries
 - Kindred Life Ministries
 - EFCA Great Lakes District
 - EFCA Denomination
+
 ### Neighborhoods
 - Arlington Club
 - Cambridge
